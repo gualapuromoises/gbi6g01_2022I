@@ -1,6 +1,4 @@
-#! bin/ ba
+#! bin/ 
 
-
-
-
-../data grep -i mus musculus interleukin.txt >> mouse.txt ; 
+ mkdir grep ; 
+grep -i mus musculus ../data/interleukin.txt  >> mouse.txt
