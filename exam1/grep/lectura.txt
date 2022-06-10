@@ -1,0 +1,16 @@
+1. Hippocampus erectus clone EVM0014616_IL17F interleukin mRNA, complete cds
+2. Hippocampus erectus clone EVM0009956_IL17D interleukin mRNA, complete cds
+3. Hippocampus erectus clone EVM0009957_IL17C interleukin mRNA, complete cds
+4. Hippocampus erectus clone EVM0015987_IL12a interleukin mRNA, complete cds
+5. Hippocampus erectus clone EVM0005207_IL12B interleukin mRNA, complete cds
+6. Hippocampus erectus clone EVM0016748_IL34 interleukin mRNA, complete cds
+7. Hippocampus erectus clone EVM0010612_IL8 interleukin mRNA, complete cds
+8. Hippocampus erectus clone EVM0018100_IL11 interleukin mRNA, complete cds
+9. Hippocampus erectus clone EVM0004134_IL6 interleukin mRNA, complete cds
+10. Hippocampus erectus clone EVM0014277_IL20 interleukin mRNA, complete cds
+11. Hippocampus erectus clone EVM0015630_IL10 interleukin mRNA, complete cds
+12. Hippocampus erectus clone EVM0000073_IL21 interleukin mRNA, complete cds
+13. Hippocampus erectus clone EVM0017538_IL15 interleukin mRNA, complete cds
+14. Hippocampus erectus clone EVM0016943_IL18 interleukin mRNA, complete cds
+15. Hippocampus erectus clone EVM0018255_IL1B interleukin mRNA, complete cds
+3877. Mouse interleukin mRNA expressing B-cell stimulatory factor 1
