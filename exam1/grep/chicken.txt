@@ -1,0 +1,706 @@
+45. Gallus gallus isolate bGalGal1 chromosome 1, alternate assembly bGalGal1.pat.whiteleghornlayer.GRCg7w, whole genome shotgun sequence
+48. Gallus gallus isolate bGalGal1 chromosome 1, bGalGal1.mat.broiler.GRCg7b, whole genome shotgun sequence
+69. Gallus gallus isolate bGalGal1 chromosome 4, alternate assembly bGalGal1.pat.whiteleghornlayer.GRCg7w, whole genome shotgun sequence
+79. Gallus gallus isolate bGalGal1 chromosome 4, bGalGal1.mat.broiler.GRCg7b, whole genome shotgun sequence
+126. Gallus gallus isolate bGalGal1 chromosome 13, bGalGal1.mat.broiler.GRCg7b, whole genome shotgun sequence
+182. Gallus gallus isolate bGalGal1 chromosome 13, alternate assembly bGalGal1.pat.whiteleghornlayer.GRCg7w, whole genome shotgun sequence
+426. Gallus gallus interleukin 6 (IL6), mRNA
+428. Gallus gallus interleukin 1, beta (IL1B), mRNA
+514. Gallus gallus interleukin 5 (IL5), mRNA
+519. Gallus gallus interleukin 12B (IL12B), mRNA
+525. Gallus gallus interleukin 18 (IL18), mRNA
+628. Gallus gallus interleukin 11 receptor subunit alpha (IL11RA), mRNA
+675. Gallus gallus interleukin 8-like 2 (IL8L2), mRNA
+732. Gallus gallus interleukin 16 (IL16), mRNA
+733. Gallus gallus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant 4, mRNA
+734. Gallus gallus interleukin enhancer binding factor 3 (ILF3), mRNA
+746. Gallus gallus interleukin 3 (IL3), mRNA
+750. Gallus gallus interleukin 15 (IL2), mRNA
+755. Gallus gallus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant 7, mRNA
+756. Gallus gallus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant 3, mRNA
+757. Gallus gallus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant 6, mRNA
+758. Gallus gallus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant 1, mRNA
+759. Gallus gallus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant 5, mRNA
+760. Gallus gallus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant 2, mRNA
+769. Gallus gallus interleukin 8-like 1 (IL8L1), mRNA
+770. Gallus gallus interleukin 17A (IL17A), mRNA
+771. Gallus gallus interleukin 10 receptor subunit alpha (IL10RA), mRNA
+772. Gallus gallus interleukin 6 receptor (IL6R), mRNA
+885. Gallus gallus interleukin 4 (IL4), transcript variant 3, mRNA
+886. Gallus gallus interleukin 10 receptor subunit beta (IL10RB), transcript variant 2, mRNA
+889. Gallus gallus interleukin 4 (IL4), transcript variant 1, mRNA
+890. Gallus gallus interleukin 2 receptor subunit alpha (IL2RA), mRNA
+912. Gallus gallus interleukin 4 (IL4), transcript variant 5, mRNA
+913. Gallus gallus interleukin 4 (IL4), transcript variant 2, mRNA
+914. Gallus gallus interleukin 4 (IL4), transcript variant 4, mRNA
+921. Gallus gallus interleukin 10 receptor subunit beta (IL10RB), transcript variant 1, mRNA
+928. Gallus gallus interleukin 5 receptor subunit alpha (IL5RA), mRNA
+929. Gallus gallus interleukin 2 receptor subunit gamma (IL2RG), transcript variant 2, mRNA
+930. Gallus gallus interleukin 2 receptor subunit gamma (IL2RG), transcript variant 1, mRNA
+931. Gallus gallus interleukin 2 receptor subunit beta (IL2RB), mRNA
+975. Gallus gallus interleukin 17D (IL17D), non-coding RNA
+1032. Gallus gallus breed Hailanhe interleukin 15 gene, partial cds
+1062. Gallus gallus breed AnKa interleukin 17F (IL-17F) mRNA, complete cds
+1063. Gallus gallus breed Langshan interleukin 17F (IL-17F) mRNA, complete cds
+1066. Gallus gallus breed Recessive White Feather interleukin 17F (IL17F) mRNA, complete cds
+1103. Gallus gallus interleukin 15 precursor (IL-15) mRNA, complete cds
+1137. Gallus gallus mRNA for interleukin 18 (IL-18 gene)
+1195. Gallus gallus interleukin 12 receptor subunit beta 2 (IL12RB2), mRNA
+1196. Gallus gallus interleukin 6 signal transducer (IL6ST), mRNA
+1199. PREDICTED: Gallus gallus interleukin 1 receptor antagonist (IL1RN), transcript variant X2, mRNA
+1200. PREDICTED: Gallus gallus interleukin 1 receptor antagonist (IL1RN), transcript variant X1, mRNA
+1201. PREDICTED: Gallus gallus interleukin 5 (IL5), transcript variant X1, mRNA
+1202. PREDICTED: Gallus gallus interleukin 9 (IL9), transcript variant X1, mRNA
+1203. PREDICTED: Gallus gallus interleukin 9 (IL9), transcript variant X1, mRNA
+1210. PREDICTED: Gallus gallus interleukin 5 (IL5), transcript variant X1, mRNA
+1249. Gallus gallus interleukin 12A (IL12A), mRNA
+1250. Gallus gallus interleukin 7 (IL7), mRNA
+1255. Gallus gallus interleukin 1 receptor antagonist (IL1RN), transcript variant 2, mRNA
+1256. Gallus gallus interleukin 1 receptor antagonist (IL1RN), transcript variant 4, mRNA
+1257. Gallus gallus interleukin 1 receptor antagonist (IL1RN), transcript variant 3, mRNA
+1258. Gallus gallus interleukin 1 receptor antagonist (IL1RN), transcript variant 1, mRNA
+1277. Gallus gallus interleukin 4 induced 1 (IL4I1), mRNA
+1278. Gallus gallus interleukin 22 receptor subunit alpha 1 (IL22RA1), mRNA
+1279. Gallus gallus interleukin 1 receptor type 1 (IL1R1), mRNA
+1316. Gallus gallus interleukin 9 (IL9), mRNA
+2583. Gallus gallus clone Red6-IL12a-97 interleukin 12A (IL12a) gene, partial cds
+2584. Gallus gallus clone Red6-IL12a-553 interleukin 12A (IL12a) gene, partial cds
+2585. Gallus gallus clone Red3-IL12a-496 interleukin 12A (IL12a) gene, partial cds
+2586. Gallus gallus clone Red3-IL12a-40 interleukin 12A (IL12a) gene, partial cds
+2587. Gallus gallus clone Red2-IL12a-477 interleukin 12A (IL12a) gene, partial cds
+2588. Gallus gallus clone Red2-IL12a-21 interleukin 12A (IL12a) gene, partial cds
+2589. Gallus gallus clone Red1-IL12a-458 interleukin 12A (IL12a) gene, partial cds
+2590. Gallus gallus clone Red1-IL12a-2 interleukin 12A (IL12a) gene, partial cds
+2591. Gallus gallus clone Hertg24-IL12a-895 interleukin 12A (IL12a) gene, partial cds
+2592. Gallus gallus clone Hertg24-IL12a-439 interleukin 12A (IL12a) gene, partial cds
+2593. Gallus gallus clone Hertg23-IL12a-876 interleukin 12A (IL12a) gene, partial cds
+2594. Gallus gallus clone Hertg23-IL12a-420 interleukin 12A (IL12a) gene, partial cds
+2595. Gallus gallus clone Hertg22-IL12a-857 interleukin 12A (IL12a) gene, partial cds
+2596. Gallus gallus clone Hertg22-IL12a-401 interleukin 12A (IL12a) gene, partial cds
+2597. Gallus gallus clone Hertg21-IL12a-838 interleukin 12A (IL12a) gene, partial cds
+2598. Gallus gallus clone Hertg21-IL12a-382 interleukin 12A (IL12a) gene, partial cds
+2599. Gallus gallus clone Hertg18-IL12a-781 interleukin 12A (IL12a) gene, partial cds
+2600. Gallus gallus clone Hertg18-IL12a-325 interleukin 12A (IL12a) gene, partial cds
+2601. Gallus gallus clone Hertg17-IL12a-762 interleukin 12A (IL12a) gene, partial cds
+2602. Gallus gallus clone Hertg17-IL12a-306 interleukin 12A (IL12a) gene, partial cds
+2609. Gallus gallus clone Euro20-IL12a-819 interleukin 12A (IL12a) gene, partial cds
+2610. Gallus gallus clone Euro20-IL12a-363 interleukin 12A (IL12a) gene, partial cds
+2611. Gallus gallus clone Euro19-IL12a-800 interleukin 12A (IL12a) gene, partial cds
+2612. Gallus gallus clone Euro19-IL12a-344 interleukin 12A (IL12a) gene, partial cds
+2613. Gallus gallus clone Euro16-IL12a-743 interleukin 12A (IL12a) gene, partial cds
+2614. Gallus gallus clone Euro16-IL12a-287 interleukin 12A (IL12a) gene, partial cds
+2615. Gallus gallus clone Euro15-IL12a-724 interleukin 12A (IL12a) gene, partial cds
+2616. Gallus gallus clone Euro15-IL12a-268 interleukin 12A (IL12a) gene, partial cds
+2617. Gallus gallus clone Euro14-IL12a-705 interleukin 12A (IL12a) gene, partial cds
+2618. Gallus gallus clone Euro14-IL12a-249 interleukin 12A (IL12a) gene, partial cds
+2619. Gallus gallus clone Euro13-IL12a-686 interleukin 12A (IL12a) gene, partial cds
+2620. Gallus gallus clone Euro13-IL12a-230 interleukin 12A (IL12a) gene, partial cds
+2621. Gallus gallus clone Euro12-IL12a-667 interleukin 12A (IL12a) gene, partial cds
+2622. Gallus gallus clone Euro12-IL12a-211 interleukin 12A (IL12a) gene, partial cds
+2623. Gallus gallus clone Euro11-IL12a-648 interleukin 12A (IL12a) gene, partial cds
+2624. Gallus gallus clone Euro11-IL12a-192 interleukin 12A (IL12a) gene, partial cds
+2625. Gallus gallus clone Euro10-IL12a-629 interleukin 12A (IL12a) gene, partial cds
+2626. Gallus gallus clone Euro10-IL12a-173 interleukin 12A (IL12a) gene, partial cds
+2631. Gallus gallus clone Red6-IL5-557 interleukin 5 (IL5) gene, partial cds
+2632. Gallus gallus clone Red6-IL5-101 interleukin 5 (IL5) gene, partial cds
+2633. Gallus gallus clone Red3-IL5-500 interleukin 5 (IL5) gene, partial cds
+2634. Gallus gallus clone Red3-IL5-44 interleukin 5 (IL5) gene, partial cds
+2635. Gallus gallus clone Red2-IL5-481 interleukin 5 (IL5) gene, partial cds
+2636. Gallus gallus clone Red2-IL5-25 interleukin 5 (IL5) gene, partial cds
+2637. Gallus gallus clone Red1-IL5-6 interleukin 5 (IL5) gene, partial cds
+2638. Gallus gallus clone Red1-IL5-462 interleukin 5 (IL5) gene, partial cds
+2639. Gallus gallus clone Hertg24-IL5-899 interleukin 5 (IL5) gene, partial cds
+2640. Gallus gallus clone Hertg24-IL5-443 interleukin 5 (IL5) gene, partial cds
+2641. Gallus gallus clone Hertg23-IL5-880 interleukin 5 (IL5) gene, partial cds
+2642. Gallus gallus clone Hertg23-IL5-424 interleukin 5 (IL5) gene, partial cds
+2643. Gallus gallus clone Hertg22-IL5-861 interleukin 5 (IL5) gene, partial cds
+2644. Gallus gallus clone Hertg22-IL5-405 interleukin 5 (IL5) gene, partial cds
+2645. Gallus gallus clone Hertg21-IL5-842 interleukin 5 (IL5) gene, partial cds
+2646. Gallus gallus clone Hertg21-IL5-386 interleukin 5 (IL5) gene, partial cds
+2647. Gallus gallus clone Hertg18-IL5-785 interleukin 5 (IL5) gene, partial cds
+2648. Gallus gallus clone Hertg18-IL5-329 interleukin 5 (IL5) gene, partial cds
+2649. Gallus gallus clone Hertg17-IL5-766 interleukin 5 (IL5) gene, partial cds
+2650. Gallus gallus clone Hertg17-IL5-310 interleukin 5 (IL5) gene, partial cds
+2657. Gallus gallus clone Euro20-IL5-823 interleukin 5 (IL5) gene, partial cds
+2658. Gallus gallus clone Euro20-IL5-367 interleukin 5 (IL5) gene, partial cds
+2659. Gallus gallus clone Euro19-IL5-804 interleukin 5 (IL5) gene, partial cds
+2660. Gallus gallus clone Euro19-IL5-348 interleukin 5 (IL5) gene, partial cds
+2661. Gallus gallus clone Euro16-IL5-747 interleukin 5 (IL5) gene, partial cds
+2662. Gallus gallus clone Euro16-IL5-291 interleukin 5 (IL5) gene, partial cds
+2663. Gallus gallus clone Euro15-IL5-728 interleukin 5 (IL5) gene, partial cds
+2664. Gallus gallus clone Euro15-IL5-272 interleukin 5 (IL5) gene, partial cds
+2665. Gallus gallus clone Euro14-IL5-709 interleukin 5 (IL5) gene, partial cds
+2666. Gallus gallus clone Euro14-IL5-253 interleukin 5 (IL5) gene, partial cds
+2667. Gallus gallus clone Euro13-IL5-690 interleukin 5 (IL5) gene, partial cds
+2668. Gallus gallus clone Euro13-IL5-234 interleukin 5 (IL5) gene, partial cds
+2669. Gallus gallus clone Euro12-IL5-671 interleukin 5 (IL5) gene, partial cds
+2670. Gallus gallus clone Euro12-IL5-215 interleukin 5 (IL5) gene, partial cds
+2671. Gallus gallus clone Euro11-IL5-652 interleukin 5 (IL5) gene, partial cds
+2672. Gallus gallus clone Euro11-IL5-196 interleukin 5 (IL5) gene, partial cds
+2673. Gallus gallus clone Euro10-IL5-633 interleukin 5 (IL5) gene, partial cds
+2674. Gallus gallus clone Euro10-IL5-177 interleukin 5 (IL5) gene, partial cds
+2802. TPA_exp: Gallus gallus interleukin 34 (IL34) mRNA, complete cds
+2988. Gallus gallus interleukin 17 receptor A mRNA, complete cds
+3049. Gallus gallus interleukin 15 precursor (IL15) mRNA, complete cds
+3263. Gallus gallus isolate 2 interleukin 2 (IL2) mRNA, complete cds
+3267. Gallus gallus clone Red6-IL13a interleukin 13 (IL13) gene, complete cds
+3268. Gallus gallus clone Red6-IL13 interleukin 13 (IL13) gene, complete cds
+3269. Gallus gallus clone Red3-IL13a interleukin 13 (IL13) gene, complete cds
+3270. Gallus gallus clone Red3-IL13 interleukin 13 (IL13) gene, complete cds
+3271. Gallus gallus clone Red2-IL13a interleukin 13 (IL13) gene, complete cds
+3272. Gallus gallus clone Red2-IL13 interleukin 13 (IL13) gene, complete cds
+3273. Gallus gallus clone Red1-IL13a interleukin 13 (IL13) gene, complete cds
+3274. Gallus gallus clone Red1-IL13 interleukin 13 (IL13) gene, complete cds
+3275. Gallus gallus clone Hertg24-IL13a interleukin 13 (IL13) gene, complete cds
+3276. Gallus gallus clone Hertg24-IL13 interleukin 13 (IL13) gene, complete cds
+3277. Gallus gallus clone Hertg23-IL13a interleukin 13 (IL13) gene, complete cds
+3278. Gallus gallus clone Hertg23-IL13 interleukin 13 (IL13) gene, complete cds
+3279. Gallus gallus clone Hertg22-IL13a interleukin 13 (IL13) gene, complete cds
+3280. Gallus gallus clone Hertg22-IL13 interleukin 13 (IL13) gene, complete cds
+3281. Gallus gallus clone Hertg18-IL13a interleukin 13 (IL13) gene, complete cds
+3282. Gallus gallus clone Hertg18-IL13 interleukin 13 (IL13) gene, complete cds
+3283. Gallus gallus clone Hertg17-IL13a interleukin 13 (IL13) gene, complete cds
+3284. Gallus gallus clone Hertg17-IL13 interleukin 13 (IL13) gene, complete cds
+3291. Gallus gallus clone Euro20-IL13a interleukin 13 (IL13) gene, complete cds
+3292. Gallus gallus clone Euro20-IL13 interleukin 13 (IL13) gene, complete cds
+3293. Gallus gallus clone Euro19-IL13a interleukin 13 (IL13) gene, complete cds
+3294. Gallus gallus clone Euro19-IL13 interleukin 13 (IL13) gene, complete cds
+3295. Gallus gallus clone Euro16-IL13a interleukin 13 (IL13) gene, complete cds
+3296. Gallus gallus clone Euro16-IL13 interleukin 13 (IL13) gene, complete cds
+3297. Gallus gallus clone Euro15-IL13a interleukin 13 (IL13) gene, complete cds
+3298. Gallus gallus clone Euro15-IL13 interleukin 13 (IL13) gene, complete cds
+3299. Gallus gallus clone Euro14-IL13a interleukin 13 (IL13) gene, complete cds
+3300. Gallus gallus clone Euro14-IL13 interleukin 13 (IL13) gene, complete cds
+3301. Gallus gallus clone Euro13-IL13a interleukin 13 (IL13) gene, complete cds
+3302. Gallus gallus clone Euro13-IL13 interleukin 13 (IL13) gene, complete cds
+3303. Gallus gallus clone Euro12-IL13a interleukin 13 (IL13) gene, complete cds
+3304. Gallus gallus clone Euro12-IL13 interleukin 13 (IL13) gene, complete cds
+3305. Gallus gallus clone Euro11-IL13a interleukin 13 (IL13) gene, complete cds
+3306. Gallus gallus clone Euro11-IL13 interleukin 13 (IL13) gene, complete cds
+3307. Gallus gallus clone Euro10-IL13a interleukin 13 (IL13) gene, complete cds
+3308. Gallus gallus clone Euro10-IL13 interleukin 13 (IL13) gene, complete cds
+3313. Gallus gallus clone Red6-IL9-559 interleukin 9 (IL9) gene, complete cds
+3314. Gallus gallus clone Red6-IL9-103 interleukin 9 (IL9) gene, complete cds
+3315. Gallus gallus clone Red3-IL9-502 interleukin 9 (IL9) gene, complete cds
+3316. Gallus gallus clone Red3-IL9-46 interleukin 9 (IL9) gene, complete cds
+3317. Gallus gallus clone Red2-IL9-483 interleukin 9 (IL9) gene, complete cds
+3318. Gallus gallus clone Red2-IL9-27 interleukin 9 (IL9) gene, complete cds
+3319. Gallus gallus clone Red1-IL9-8 interleukin 9 (IL9) gene, complete cds
+3320. Gallus gallus clone Red1-IL9-464 interleukin 9 (IL9) gene, complete cds
+3321. Gallus gallus clone Hertg24-IL9-901 interleukin 9 (IL9) gene, complete cds
+3322. Gallus gallus clone Hertg24-IL9-445 interleukin 9 (IL9) gene, complete cds
+3323. Gallus gallus clone Hertg23-IL9-882 interleukin 9 (IL9) gene, complete cds
+3324. Gallus gallus clone Hertg23-IL9-426 interleukin 9 (IL9) gene, complete cds
+3325. Gallus gallus clone Hertg22-IL9-863 interleukin 9 (IL9) gene, complete cds
+3326. Gallus gallus clone Hertg22-IL9-407 interleukin 9 (IL9) gene, complete cds
+3327. Gallus gallus clone Hertg17-IL9-768 interleukin 9 (IL9) gene, complete cds
+3328. Gallus gallus clone Hertg17-IL9-312 interleukin 9 (IL9) gene, complete cds
+3335. Gallus gallus clone Euro20-IL9-825 interleukin 9 (IL9) gene, complete cds
+3336. Gallus gallus clone Euro20-IL9-369 interleukin 9 (IL9) gene, complete cds
+3337. Gallus gallus clone Euro19-IL9-806 interleukin 9 (IL9) gene, complete cds
+3338. Gallus gallus clone Euro19-IL9-350 interleukin 9 (IL9) gene, complete cds
+3339. Gallus gallus clone Euro16-IL9-749 interleukin 9 (IL9) gene, complete cds
+3340. Gallus gallus clone Euro16-IL9-293 interleukin 9 (IL9) gene, complete cds
+3341. Gallus gallus clone Euro15-IL9-730 interleukin 9 (IL9) gene, complete cds
+3342. Gallus gallus clone Euro15-IL9-274 interleukin 9 (IL9) gene, complete cds
+3343. Gallus gallus clone Euro14-IL9-711 interleukin 9 (IL9) gene, complete cds
+3344. Gallus gallus clone Euro14-IL9-255 interleukin 9 (IL9) gene, complete cds
+3345. Gallus gallus clone Euro13-IL9-692 interleukin 9 (IL9) gene, complete cds
+3346. Gallus gallus clone Euro13-IL9-236 interleukin 9 (IL9) gene, complete cds
+3347. Gallus gallus clone Euro12-IL9-673 interleukin 9 (IL9) gene, complete cds
+3348. Gallus gallus clone Euro12-IL9-217 interleukin 9 (IL9) gene, complete cds
+3349. Gallus gallus clone Euro11-IL9-654 interleukin 9 (IL9) gene, complete cds
+3350. Gallus gallus clone Euro11-IL9-198 interleukin 9 (IL9) gene, complete cds
+3351. Gallus gallus clone Euro10-IL9-635 interleukin 9 (IL9) gene, complete cds
+3352. Gallus gallus clone Euro10-IL9-179 interleukin 9 (IL9) gene, complete cds
+3355. Gallus gallus clone Red6-IL8-558 interleukin 8 (IL8) gene, complete cds
+3356. Gallus gallus clone Red6-IL8-102 interleukin 8 (IL8) gene, complete cds
+3357. Gallus gallus clone Red3-IL8-501 interleukin 8 (IL8) gene, complete cds
+3358. Gallus gallus clone Red3-IL8-45 interleukin 8 (IL8) gene, complete cds
+3359. Gallus gallus clone Red2-IL8-482 interleukin 8 (IL8) gene, complete cds
+3360. Gallus gallus clone Red2-IL8-26 interleukin 8 (IL8) gene, complete cds
+3361. Gallus gallus clone Red1-IL8-7 interleukin 8 (IL8) gene, complete cds
+3362. Gallus gallus clone Red1-IL8-463 interleukin 8 (IL8) gene, complete cds
+3363. Gallus gallus clone Hertg24-IL8-900 interleukin 8 (IL8) gene, complete cds
+3364. Gallus gallus clone Hertg24-IL8-444 interleukin 8 (IL8) gene, complete cds
+3365. Gallus gallus clone Hertg23-IL8-881 interleukin 8 (IL8) gene, complete cds
+3366. Gallus gallus clone Hertg23-IL8-425 interleukin 8 (IL8) gene, complete cds
+3367. Gallus gallus clone Hertg22-IL8-862 interleukin 8 (IL8) gene, complete cds
+3368. Gallus gallus clone Hertg22-IL8-406 interleukin 8 (IL8) gene, complete cds
+3369. Gallus gallus clone Hertg18-IL8-786 interleukin 8 (IL8) gene, complete cds
+3370. Gallus gallus clone Hertg18-IL8-330 interleukin 8 (IL8) gene, complete cds
+3371. Gallus gallus clone Hertg17-IL8-767 interleukin 8 (IL8) gene, complete cds
+3372. Gallus gallus clone Hertg17-IL8-311 interleukin 8 (IL8) gene, complete cds
+3377. Gallus gallus clone Euro20-IL8-824 interleukin 8 (IL8) gene, complete cds
+3378. Gallus gallus clone Euro20-IL8-368 interleukin 8 (IL8) gene, complete cds
+3379. Gallus gallus clone Euro19-IL8-805 interleukin 8 (IL8) gene, complete cds
+3380. Gallus gallus clone Euro19-IL8-349 interleukin 8 (IL8) gene, complete cds
+3381. Gallus gallus clone Euro16-IL8-748 interleukin 8 (IL8) gene, complete cds
+3382. Gallus gallus clone Euro16-IL8-292 interleukin 8 (IL8) gene, complete cds
+3383. Gallus gallus clone Euro15-IL8-729 interleukin 8 (IL8) gene, complete cds
+3384. Gallus gallus clone Euro15-IL8-273 interleukin 8 (IL8) gene, complete cds
+3385. Gallus gallus clone Euro14-IL8-710 interleukin 8 (IL8) gene, complete cds
+3386. Gallus gallus clone Euro14-IL8-254 interleukin 8 (IL8) gene, complete cds
+3387. Gallus gallus clone Euro13-IL8-691 interleukin 8 (IL8) gene, complete cds
+3388. Gallus gallus clone Euro13-IL8-235 interleukin 8 (IL8) gene, complete cds
+3389. Gallus gallus clone Euro12-IL8-672 interleukin 8 (IL8) gene, complete cds
+3390. Gallus gallus clone Euro12-IL8-216 interleukin 8 (IL8) gene, complete cds
+3391. Gallus gallus clone Euro11-IL8-653 interleukin 8 (IL8) gene, complete cds
+3392. Gallus gallus clone Euro11-IL8-197 interleukin 8 (IL8) gene, complete cds
+3393. Gallus gallus clone Euro10-IL8-634 interleukin 8 (IL8) gene, complete cds
+3394. Gallus gallus clone Euro10-IL8-178 interleukin 8 (IL8) gene, complete cds
+3399. Gallus gallus clone Red6-IL4-556 interleukin 4 (IL4) gene, complete cds
+3400. Gallus gallus clone Red6-IL4-100 interleukin 4 (IL4) gene, complete cds
+3401. Gallus gallus clone Red3-IL4-499 interleukin 4 (IL4) gene, complete cds
+3402. Gallus gallus clone Red3-IL4-43 interleukin 4 (IL4) gene, complete cds
+3403. Gallus gallus clone Red2-IL4-480 interleukin 4 (IL4) gene, complete cds
+3404. Gallus gallus clone Red2-IL4-24 interleukin 4 (IL4) gene, complete cds
+3405. Gallus gallus clone Red1-IL4-5 interleukin 4 (IL4) gene, complete cds
+3406. Gallus gallus clone Red1-IL4-461 interleukin 4 (IL4) gene, complete cds
+3407. Gallus gallus clone Hertg24-IL4-898 interleukin 4 (IL4) gene, complete cds
+3408. Gallus gallus clone Hertg24-IL4-442 interleukin 4 (IL4) gene, complete cds
+3409. Gallus gallus clone Hertg23-IL4-879 interleukin 4 (IL4) gene, complete cds
+3410. Gallus gallus clone Hertg23-IL4-423 interleukin 4 (IL4) gene, complete cds
+3411. Gallus gallus clone Hertg22-IL4-860 interleukin 4 (IL4) gene, complete cds
+3412. Gallus gallus clone Hertg22-IL4-404 interleukin 4 (IL4) gene, complete cds
+3413. Gallus gallus clone Hertg21-IL4-841 interleukin 4 (IL4) gene, complete cds
+3414. Gallus gallus clone Hertg21-IL4-385 interleukin 4 (IL4) gene, complete cds
+3415. Gallus gallus clone Hertg18-IL4-784 interleukin 4 (IL4) gene, complete cds
+3416. Gallus gallus clone Hertg18-IL4-328 interleukin 4 (IL4) gene, complete cds
+3417. Gallus gallus clone Hertg17-IL4-765 interleukin 4 (IL4) gene, complete cds
+3418. Gallus gallus clone Hertg17-IL4-309 interleukin 4 (IL4) gene, complete cds
+3425. Gallus gallus clone Euro20-IL4-822 interleukin 4 (IL4) gene, complete cds
+3426. Gallus gallus clone Euro20-IL4-366 interleukin 4 (IL4) gene, complete cds
+3427. Gallus gallus clone Euro19-IL4-803 interleukin 4 (IL4) gene, complete cds
+3428. Gallus gallus clone Euro19-IL4-347 interleukin 4 (IL4) gene, complete cds
+3429. Gallus gallus clone Euro16-IL4-746 interleukin 4 (IL4) gene, complete cds
+3430. Gallus gallus clone Euro16-IL4-290 interleukin 4 (IL4) gene, complete cds
+3431. Gallus gallus clone Euro15-IL4-727 interleukin 4 (IL4) gene, complete cds
+3432. Gallus gallus clone Euro15-IL4-271 interleukin 4 (IL4) gene, complete cds
+3433. Gallus gallus clone Euro14-IL4-708 interleukin 4 (IL4) gene, complete cds
+3434. Gallus gallus clone Euro14-IL4-252 interleukin 4 (IL4) gene, complete cds
+3435. Gallus gallus clone Euro13-IL4-689 interleukin 4 (IL4) gene, complete cds
+3436. Gallus gallus clone Euro13-IL4-233 interleukin 4 (IL4) gene, complete cds
+3437. Gallus gallus clone Euro12-IL4-670 interleukin 4 (IL4) gene, complete cds
+3438. Gallus gallus clone Euro12-IL4-214 interleukin 4 (IL4) gene, complete cds
+3439. Gallus gallus clone Euro11-IL4-651 interleukin 4 (IL4) gene, complete cds
+3440. Gallus gallus clone Euro11-IL4-195 interleukin 4 (IL4) gene, complete cds
+3441. Gallus gallus clone Euro10-IL4-632 interleukin 4 (IL4) gene, complete cds
+3442. Gallus gallus clone Euro10-IL4-176 interleukin 4 (IL4) gene, complete cds
+3447. Gallus gallus clone Red6-IL3-99 interleukin 3 (IL3) gene, complete cds
+3448. Gallus gallus clone Red6-IL3-555 interleukin 3 (IL3) gene, complete cds
+3449. Gallus gallus clone Red3-IL3-498 interleukin 3 (IL3) gene, complete cds
+3450. Gallus gallus clone Red3-IL3-42 interleukin 3 (IL3) gene, complete cds
+3451. Gallus gallus clone Red2-IL3-479 interleukin 3 (IL3) gene, complete cds
+3452. Gallus gallus clone Red2-IL3-23 interleukin 3 (IL3) gene, complete cds
+3453. Gallus gallus clone Red1-IL3-460 interleukin 3 (IL3) gene, complete cds
+3454. Gallus gallus clone Red1-IL3-4 interleukin 3 (IL3) gene, complete cds
+3455. Gallus gallus clone Hertg24-IL3-897 interleukin 3 (IL3) gene, complete cds
+3456. Gallus gallus clone Hertg24-IL3-441 interleukin 3 (IL3) gene, complete cds
+3457. Gallus gallus clone Hertg23-IL3-878 interleukin 3 (IL3) gene, complete cds
+3458. Gallus gallus clone Hertg23-IL3-422 interleukin 3 (IL3) gene, complete cds
+3459. Gallus gallus clone Hertg22-IL3-859 interleukin 3 (IL3) gene, complete cds
+3460. Gallus gallus clone Hertg22-IL3-403 interleukin 3 (IL3) gene, complete cds
+3461. Gallus gallus clone Hertg21-IL3-840 interleukin 3 (IL3) gene, complete cds
+3462. Gallus gallus clone Hertg21-IL3-384 interleukin 3 (IL3) gene, complete cds
+3463. Gallus gallus clone Hertg18-IL3-783 interleukin 3 (IL3) gene, complete cds
+3464. Gallus gallus clone Hertg18-IL3-327 interleukin 3 (IL3) gene, complete cds
+3465. Gallus gallus clone Hertg17-IL3-764 interleukin 3 (IL3) gene, complete cds
+3466. Gallus gallus clone Hertg17-IL3-308 interleukin 3 (IL3) gene, complete cds
+3473. Gallus gallus clone Euro20-IL3-821 interleukin 3 (IL3) gene, complete cds
+3474. Gallus gallus clone Euro20-IL3-365 interleukin 3 (IL3) gene, complete cds
+3475. Gallus gallus clone Euro19-IL3-802 interleukin 3 (IL3) gene, complete cds
+3476. Gallus gallus clone Euro19-IL3-346 interleukin 3 (IL3) gene, complete cds
+3477. Gallus gallus clone Euro16-IL3-745 interleukin 3 (IL3) gene, complete cds
+3478. Gallus gallus clone Euro16-IL3-289 interleukin 3 (IL3) gene, complete cds
+3479. Gallus gallus clone Euro15-IL3-726 interleukin 3 (IL3) gene, complete cds
+3480. Gallus gallus clone Euro15-IL3-270 interleukin 3 (IL3) gene, complete cds
+3481. Gallus gallus clone Euro14-IL3-707 interleukin 3 (IL3) gene, complete cds
+3482. Gallus gallus clone Euro14-IL3-251 interleukin 3 (IL3) gene, complete cds
+3483. Gallus gallus clone Euro13-IL3-688 interleukin 3 (IL3) gene, complete cds
+3484. Gallus gallus clone Euro13-IL3-232 interleukin 3 (IL3) gene, complete cds
+3485. Gallus gallus clone Euro12-IL3-669 interleukin 3 (IL3) gene, complete cds
+3486. Gallus gallus clone Euro12-IL3-213 interleukin 3 (IL3) gene, complete cds
+3487. Gallus gallus clone Euro11-IL3-650 interleukin 3 (IL3) gene, complete cds
+3488. Gallus gallus clone Euro11-IL3-194 interleukin 3 (IL3) gene, complete cds
+3489. Gallus gallus clone Euro10-IL3-631 interleukin 3 (IL3) gene, complete cds
+3490. Gallus gallus clone Euro10-IL3-175 interleukin 3 (IL3) gene, complete cds
+3502. Gallus gallus isolate 1 interleukin 2 (IL2) mRNA, complete cds
+3512. Gallus gallus interleukin 2 (IL-2) mRNA, complete cds
+3567. Gallus gallus interleukin 16 mRNA, complete cds
+3879. Gallus gallus interleukin 18 mRNA, complete cds
+3944. Gallus gallus IL-7 gene for interleukin 7, exons 1-5
+4007. Gallus gallus partial mRNA for interleukin 12 receptor beta 2 (IL12RB2 gene)
+4008. Gallus gallus mRNA for interleukin 17 (IL-17 gene)
+4016. Gallus gallus IL11Ra mRNA for interleukin 11 receptor alpha chain precursor, complete cds
+4476. Gallus gallus interleukin 10 (IL10), mRNA
+4604. PREDICTED: Gallus gallus interleukin enhancer binding factor 2 (ILF2), transcript variant X6, mRNA
+4605. PREDICTED: Gallus gallus interleukin enhancer binding factor 2 (ILF2), transcript variant X5, mRNA
+4606. PREDICTED: Gallus gallus interleukin enhancer binding factor 2 (ILF2), transcript variant X4, mRNA
+4607. PREDICTED: Gallus gallus interleukin enhancer binding factor 2 (ILF2), transcript variant X3, mRNA
+4608. PREDICTED: Gallus gallus interleukin enhancer binding factor 2 (ILF2), transcript variant X2, mRNA
+4609. PREDICTED: Gallus gallus interleukin enhancer binding factor 2 (ILF2), transcript variant X1, mRNA
+4610. PREDICTED: Gallus gallus interleukin 10 receptor subunit beta (IL10RB), transcript variant X1, misc_RNA
+4611. PREDICTED: Gallus gallus interleukin enhancer binding factor 2 (ILF2), transcript variant X6, mRNA
+4612. PREDICTED: Gallus gallus interleukin enhancer binding factor 2 (ILF2), transcript variant X5, mRNA
+4613. PREDICTED: Gallus gallus interleukin enhancer binding factor 2 (ILF2), transcript variant X4, mRNA
+4614. PREDICTED: Gallus gallus interleukin enhancer binding factor 2 (ILF2), transcript variant X3, mRNA
+4615. PREDICTED: Gallus gallus interleukin enhancer binding factor 2 (ILF2), transcript variant X2, mRNA
+4616. PREDICTED: Gallus gallus interleukin enhancer binding factor 2 (ILF2), transcript variant X1, mRNA
+4620. Gallus gallus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant 3, non-coding RNA
+4790. Gallus gallus interleukin 13 (IL13), transcript variant 2, mRNA
+4791. Gallus gallus interleukin 13 (IL13), transcript variant 1, mRNA
+4841. Gallus gallus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant 2, non-coding RNA
+4842. Gallus gallus interleukin 26 (IL26), mRNA
+5130. Gallus gallus interleukin 21 (IL21), mRNA
+5131. Gallus gallus interleukin 15 (IL15), mRNA
+5132. Gallus gallus interleukin 17 receptor A (IL17RA), mRNA
+5133. Gallus gallus interleukin 7 receptor (IL7R), mRNA
+9142. Gallus gallus clone 5 interleukin 7 (IL-7) mRNA, complete cds
+10479. Gallus gallus interleukin 6 (IL-6) mRNA, partial cds
+10649. Gallus gallus interleukin 6 mRNA, partial cds
+10650. Gallus gallus interleukin 8 mRNA, partial cds
+10653. Gallus gallus breed broiler interleukin 2 mRNA, partial cds
+11029. Gallus gallus interleukin 17D mRNA, partial cds
+11726. Gallus gallus interleukin 17F mRNA, complete cds
+11754. Gallus gallus interleukin enhancer binding factor 3-like protein (ILF3) mRNA, complete cds
+11765. Gallus gallus breed Ri interleukin 6 precursor, mRNA, complete cds
+11914. Gallus gallus interleukin 28 mRNA, complete cds
+12072. Gallus gallus interleukin 15 precursor, mRNA, complete cds
+12085. Gallus gallus interleukin 2 mRNA, complete cds
+12132. Gallus gallus interleukin 21 mRNA, complete cds
+12186. Gallus gallus interleukin 18 (IL18) mRNA, complete cds
+12194. Gallus gallus interleukin 10 mRNA, complete cds
+12244. Gallus gallus interleukin 15 (IL15) mRNA, complete cds
+12245. Gallus gallus interleukin 18 (IL18) mRNA, complete cds
+12312. Gallus gallus murghi interleukin 2 (IL-2) mRNA, complete cds
+12341. Gallus gallus mRNA for interleukin 10 receptor 1 (IL10R1 gene), splice variant 2
+12342. Gallus gallus mRNA for interleukin 10 receptor 1 (IL10R1 gene), splice variant 1
+12344. Gallus gallus interleukin 9 mRNA, complete cds
+12399. Gallus gallus interleukin 17 mRNA, complete cds
+12400. Gallus gallus interleukin 18 mRNA, complete cds
+12864. Gallus gallus interleukin 17 receptor D (IL17RD), mRNA
+12884. PREDICTED: Gallus gallus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X6, mRNA
+12885. PREDICTED: Gallus gallus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X5, mRNA
+12886. PREDICTED: Gallus gallus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X4, mRNA
+12887. PREDICTED: Gallus gallus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X3, mRNA
+12888. PREDICTED: Gallus gallus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X2, mRNA
+12889. PREDICTED: Gallus gallus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X1, mRNA
+12890. PREDICTED: Gallus gallus interleukin 6 signal transducer (IL6ST), transcript variant X2, mRNA
+12891. PREDICTED: Gallus gallus interleukin 6 signal transducer (IL6ST), transcript variant X1, mRNA
+12892. PREDICTED: Gallus gallus interleukin 12 receptor subunit beta 2 (IL12RB2), transcript variant X9, mRNA
+12893. PREDICTED: Gallus gallus interleukin 12 receptor subunit beta 2 (IL12RB2), transcript variant X7, mRNA
+12894. PREDICTED: Gallus gallus interleukin 12 receptor subunit beta 2 (IL12RB2), transcript variant X6, mRNA
+12895. PREDICTED: Gallus gallus interleukin 12 receptor subunit beta 2 (IL12RB2), transcript variant X10, mRNA
+12896. PREDICTED: Gallus gallus interleukin 12 receptor subunit beta 2 (IL12RB2), transcript variant X1, mRNA
+12897. PREDICTED: Gallus gallus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant X5, mRNA
+12898. PREDICTED: Gallus gallus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant X2, mRNA
+12899. PREDICTED: Gallus gallus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant X1, mRNA
+12900. PREDICTED: Gallus gallus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant X4, mRNA
+12901. PREDICTED: Gallus gallus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant X3, mRNA
+12902. PREDICTED: Gallus gallus interleukin 15 (IL15), transcript variant X2, mRNA
+12903. PREDICTED: Gallus gallus interleukin 15 (IL15), transcript variant X1, mRNA
+12904. PREDICTED: Gallus gallus interleukin 6 receptor (IL6R), transcript variant X1, mRNA
+12905. PREDICTED: Gallus gallus interleukin 18 (IL18), transcript variant X5, mRNA
+12906. PREDICTED: Gallus gallus interleukin 18 (IL18), transcript variant X4, mRNA
+12907. PREDICTED: Gallus gallus interleukin 18 (IL18), transcript variant X3, mRNA
+12908. PREDICTED: Gallus gallus interleukin 18 (IL18), transcript variant X2, mRNA
+12909. PREDICTED: Gallus gallus interleukin 18 (IL18), transcript variant X1, mRNA
+12910. PREDICTED: Gallus gallus interleukin 22 receptor subunit alpha 1 (IL22RA1), transcript variant X1, mRNA
+12911. PREDICTED: Gallus gallus interleukin 1, beta (IL1B), transcript variant X1, mRNA
+12912. PREDICTED: Gallus gallus interleukin 21 receptor (IL21R), transcript variant X3, mRNA
+12913. PREDICTED: Gallus gallus interleukin 21 receptor (IL21R), transcript variant X2, mRNA
+12914. PREDICTED: Gallus gallus interleukin 21 receptor (IL21R), transcript variant X1, mRNA
+12915. PREDICTED: Gallus gallus interleukin 12B (IL12B), transcript variant X2, mRNA
+12916. PREDICTED: Gallus gallus interleukin 5 receptor subunit alpha (IL5RA), transcript variant X1, mRNA
+12917. PREDICTED: Gallus gallus interleukin 1 receptor associated kinase 2 (IRAK2), transcript variant X1, mRNA
+12918. PREDICTED: Gallus gallus interleukin 17 receptor D (IL17RD), transcript variant X5, mRNA
+12919. PREDICTED: Gallus gallus interleukin 17 receptor D (IL17RD), transcript variant X3, mRNA
+12920. PREDICTED: Gallus gallus interleukin 17 receptor D (IL17RD), transcript variant X2, mRNA
+12921. PREDICTED: Gallus gallus interleukin 17 receptor D (IL17RD), transcript variant X1, mRNA
+12922. PREDICTED: Gallus gallus interleukin 18 receptor 1 (IL18R1), transcript variant X3, mRNA
+12923. PREDICTED: Gallus gallus interleukin 18 receptor 1 (IL18R1), transcript variant X2, mRNA
+12924. PREDICTED: Gallus gallus interleukin 18 receptor 1 (IL18R1), transcript variant X1, mRNA
+12925. PREDICTED: Gallus gallus interleukin 17 receptor A (IL17RA), transcript variant X2, mRNA
+12926. PREDICTED: Gallus gallus interleukin 17 receptor A (IL17RA), transcript variant X3, mRNA
+12927. PREDICTED: Gallus gallus interleukin 17 receptor A (IL17RA), transcript variant X1, mRNA
+12928. PREDICTED: Gallus gallus interleukin 1 receptor type 1 (IL1R1), transcript variant X2, mRNA
+12929. PREDICTED: Gallus gallus interleukin 1 receptor type 1 (IL1R1), transcript variant X1, mRNA
+12930. PREDICTED: Gallus gallus interleukin 2 receptor subunit alpha (IL2RA), transcript variant X1, mRNA
+12931. PREDICTED: Gallus gallus interleukin 1 receptor like 1 (IL1RL1), transcript variant X1, mRNA
+12932. PREDICTED: Gallus gallus interleukin 2 receptor subunit beta (IL2RB), transcript variant X1, mRNA
+12933. PREDICTED: Gallus gallus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X6, mRNA
+12934. PREDICTED: Gallus gallus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X5, mRNA
+12935. PREDICTED: Gallus gallus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X4, mRNA
+12936. PREDICTED: Gallus gallus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X3, mRNA
+12937. PREDICTED: Gallus gallus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X2, mRNA
+12938. PREDICTED: Gallus gallus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X1, mRNA
+12939. PREDICTED: Gallus gallus interleukin 6 signal transducer (IL6ST), transcript variant X2, mRNA
+12940. PREDICTED: Gallus gallus interleukin 6 signal transducer (IL6ST), transcript variant X1, mRNA
+12941. PREDICTED: Gallus gallus interleukin 12 receptor subunit beta 2 (IL12RB2), transcript variant X9, mRNA
+12942. PREDICTED: Gallus gallus interleukin 12 receptor subunit beta 2 (IL12RB2), transcript variant X8, mRNA
+12943. PREDICTED: Gallus gallus interleukin 12 receptor subunit beta 2 (IL12RB2), transcript variant X7, mRNA
+12944. PREDICTED: Gallus gallus interleukin 12 receptor subunit beta 2 (IL12RB2), transcript variant X6, mRNA
+12945. PREDICTED: Gallus gallus interleukin 12 receptor subunit beta 2 (IL12RB2), transcript variant X5, mRNA
+12946. PREDICTED: Gallus gallus interleukin 12 receptor subunit beta 2 (IL12RB2), transcript variant X4, mRNA
+12947. PREDICTED: Gallus gallus interleukin 12 receptor subunit beta 2 (IL12RB2), transcript variant X3, mRNA
+12948. PREDICTED: Gallus gallus interleukin 12 receptor subunit beta 2 (IL12RB2), transcript variant X2, mRNA
+12949. PREDICTED: Gallus gallus interleukin 12 receptor subunit beta 2 (IL12RB2), transcript variant X1, mRNA
+12950. PREDICTED: Gallus gallus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant X2, mRNA
+12951. PREDICTED: Gallus gallus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant X1, mRNA
+12952. PREDICTED: Gallus gallus interleukin 15 (IL15), transcript variant X2, mRNA
+12953. PREDICTED: Gallus gallus interleukin 15 (IL15), transcript variant X1, mRNA
+12954. PREDICTED: Gallus gallus interleukin 15 (IL15), transcript variant X3, mRNA
+12955. PREDICTED: Gallus gallus interleukin 6 receptor (IL6R), transcript variant X1, mRNA
+12956. PREDICTED: Gallus gallus interleukin 18 (IL18), transcript variant X5, mRNA
+12957. PREDICTED: Gallus gallus interleukin 18 (IL18), transcript variant X4, mRNA
+12958. PREDICTED: Gallus gallus interleukin 18 (IL18), transcript variant X3, mRNA
+12959. PREDICTED: Gallus gallus interleukin 18 (IL18), transcript variant X2, mRNA
+12960. PREDICTED: Gallus gallus interleukin 18 (IL18), transcript variant X1, mRNA
+12961. PREDICTED: Gallus gallus interleukin 22 receptor subunit alpha 1 (IL22RA1), transcript variant X1, mRNA
+12962. PREDICTED: Gallus gallus interleukin 1, beta (IL1B), transcript variant X1, mRNA
+12963. PREDICTED: Gallus gallus interleukin 21 receptor (IL21R), transcript variant X3, mRNA
+12964. PREDICTED: Gallus gallus interleukin 21 receptor (IL21R), transcript variant X2, mRNA
+12965. PREDICTED: Gallus gallus interleukin 21 receptor (IL21R), transcript variant X1, mRNA
+12966. PREDICTED: Gallus gallus interleukin 4 (IL4), transcript variant X1, mRNA
+12967. PREDICTED: Gallus gallus interleukin 12B (IL12B), transcript variant X1, mRNA
+12968. PREDICTED: Gallus gallus interleukin 5 receptor subunit alpha (IL5RA), transcript variant X1, mRNA
+12969. PREDICTED: Gallus gallus interleukin 17 receptor D (IL17RD), transcript variant X5, mRNA
+12970. PREDICTED: Gallus gallus interleukin 17 receptor D (IL17RD), transcript variant X4, mRNA
+12971. PREDICTED: Gallus gallus interleukin 17 receptor D (IL17RD), transcript variant X3, mRNA
+12972. PREDICTED: Gallus gallus interleukin 17 receptor D (IL17RD), transcript variant X2, mRNA
+12973. PREDICTED: Gallus gallus interleukin 17 receptor D (IL17RD), transcript variant X1, mRNA
+12974. PREDICTED: Gallus gallus interleukin 18 receptor 1 (IL18R1), transcript variant X3, mRNA
+12975. PREDICTED: Gallus gallus interleukin 18 receptor 1 (IL18R1), transcript variant X2, mRNA
+12976. PREDICTED: Gallus gallus interleukin 18 receptor 1 (IL18R1), transcript variant X1, mRNA
+12977. PREDICTED: Gallus gallus interleukin 17 receptor A (IL17RA), transcript variant X2, mRNA
+12978. PREDICTED: Gallus gallus interleukin 1 receptor type 1 (IL1R1), transcript variant X2, mRNA
+12979. PREDICTED: Gallus gallus interleukin 1 receptor type 1 (IL1R1), transcript variant X1, mRNA
+12980. PREDICTED: Gallus gallus interleukin 2 receptor subunit alpha (IL2RA), transcript variant X1, mRNA
+12981. PREDICTED: Gallus gallus interleukin 1 receptor like 1 (IL1RL1), transcript variant X1, mRNA
+12982. PREDICTED: Gallus gallus interleukin 2 receptor subunit beta (IL2RB), transcript variant X1, mRNA
+12983. PREDICTED: Gallus gallus interleukin 36 receptor antagonist (IL36RN), transcript variant X3, misc_RNA
+12984. PREDICTED: Gallus gallus interleukin 17 receptor A (IL17RA), transcript variant X1, mRNA
+13118. Gallus gallus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant 1, mRNA
+13120. Gallus gallus interleukin 1 receptor like 1 (IL1RL1), transcript variant 2, mRNA
+13121. Gallus gallus interleukin 22 (IL22), mRNA
+13201. Gallus gallus interleukin 18 receptor 1 (IL18R1), transcript variant 2, mRNA
+13202. Gallus gallus interleukin 18 receptor 1 (IL18R1), transcript variant 3, mRNA
+13203. Gallus gallus interleukin 18 receptor 1 (IL18R1), transcript variant 1, mRNA
+13204. Gallus gallus interleukin 18 receptor 1 (IL18R1), transcript variant 4, mRNA
+13213. Gallus gallus interleukin 1 receptor associated kinase 2 (IRAK2), transcript variant 2, mRNA
+13214. Gallus gallus interleukin 1 receptor associated kinase 2 (IRAK2), transcript variant 1, mRNA
+13220. Gallus gallus nuclear factor, interleukin 3 regulated (NFIL3), transcript variant 2, mRNA
+13221. Gallus gallus nuclear factor, interleukin 3 regulated (NFIL3), transcript variant 1, mRNA
+13237. Gallus gallus interleukin 1 receptor like 1 (IL1RL1), transcript variant 3, mRNA
+13238. Gallus gallus interleukin 1 receptor associated kinase 1 binding protein 1 (IRAK1BP1), mRNA
+13239. Gallus gallus interleukin 1 receptor like 1 (IL1RL1), transcript variant 1, mRNA
+13240. Gallus gallus interleukin 21 receptor (IL21R), mRNA
+14773. pgp1n.pk009.a13 Normalized Chicken Pituitary/Hypothalamus/Pineal Library Gallus gallus cDNA clone pgp1n.pk009.a13 5' similar to gi|7657230 ref|NP_055154.1| interleukin 17 receptor [Homo sapiens] gi|13647207 ref|XP_009820.3| interleukin 17 receptor [Homo sapiens] gb|AAB99730.1| (U58917) IL-17 receptor [Homo sapiens], mRNA sequence
+17431. Gallus gallus interleukin 2 mRNA, 3' UTR
+20233. PREDICTED: Gallus gallus interleukin 31 receptor A (IL31RA), transcript variant X4, mRNA
+20234. PREDICTED: Gallus gallus interleukin 31 receptor A (IL31RA), transcript variant X3, mRNA
+20235. PREDICTED: Gallus gallus interleukin 31 receptor A (IL31RA), transcript variant X2, mRNA
+20236. PREDICTED: Gallus gallus interleukin 31 receptor A (IL31RA), transcript variant X1, mRNA
+20237. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X14, mRNA
+20238. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X13, mRNA
+20239. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X12, mRNA
+20240. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X11, mRNA
+20241. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X10, mRNA
+20242. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X9, mRNA
+20243. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X8, mRNA
+20244. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X7, mRNA
+20245. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X6, mRNA
+20246. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X5, mRNA
+20247. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X4, mRNA
+20248. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X3, mRNA
+20249. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X2, mRNA
+20250. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X1, mRNA
+20251. PREDICTED: Gallus gallus interleukin 23 receptor (IL23R), transcript variant X4, mRNA
+20252. PREDICTED: Gallus gallus interleukin 23 receptor (IL23R), transcript variant X3, mRNA
+20253. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X11, mRNA
+20254. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X10, mRNA
+20255. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X9, mRNA
+20256. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X8, mRNA
+20257. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X5, mRNA
+20258. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X3, mRNA
+20259. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X2, mRNA
+20260. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X1, mRNA
+20261. PREDICTED: Gallus gallus interleukin 13 receptor subunit alpha 1 (IL13RA1), mRNA
+20262. PREDICTED: Gallus gallus interleukin 20 receptor subunit alpha (IL20RA), transcript variant X4, mRNA
+20263. PREDICTED: Gallus gallus interleukin 20 receptor subunit alpha (IL20RA), transcript variant X3, mRNA
+20264. PREDICTED: Gallus gallus interleukin 20 receptor subunit alpha (IL20RA), transcript variant X1, mRNA
+20265. PREDICTED: Gallus gallus interleukin 22 receptor subunit alpha 2 (IL22RA2), transcript variant X5, mRNA
+20266. PREDICTED: Gallus gallus interleukin 22 receptor subunit alpha 2 (IL22RA2), transcript variant X4, mRNA
+20267. PREDICTED: Gallus gallus interleukin 22 receptor subunit alpha 2 (IL22RA2), transcript variant X3, mRNA
+20268. PREDICTED: Gallus gallus interleukin 22 receptor subunit alpha 2 (IL22RA2), transcript variant X2, mRNA
+20269. PREDICTED: Gallus gallus interleukin 22 receptor subunit alpha 2 (IL22RA2), transcript variant X1, mRNA
+20270. PREDICTED: Gallus gallus interleukin 17F (IL17F), mRNA
+20271. PREDICTED: Gallus gallus interleukin 12 receptor subunit beta 1 (IL12RB1), transcript variant X3, mRNA
+20272. PREDICTED: Gallus gallus interleukin 12 receptor subunit beta 1 (IL12RB1), transcript variant X2, mRNA
+20273. PREDICTED: Gallus gallus interleukin 12 receptor subunit beta 1 (IL12RB1), transcript variant X1, mRNA
+20274. PREDICTED: Gallus gallus interleukin 36 receptor antagonist (IL36RN), transcript variant X4, mRNA
+20275. PREDICTED: Gallus gallus interleukin 20 receptor subunit beta (IL20RB), mRNA
+20276. PREDICTED: Gallus gallus interleukin 9 receptor (IL9R), mRNA
+20277. PREDICTED: Gallus gallus interleukin 4 receptor (IL4R), transcript variant X3, mRNA
+20278. PREDICTED: Gallus gallus interleukin 4 receptor (IL4R), transcript variant X2, mRNA
+20279. PREDICTED: Gallus gallus interleukin 4 receptor (IL4R), transcript variant X1, mRNA
+20280. PREDICTED: Gallus gallus interleukin 25 (IL25), transcript variant X2, mRNA
+20281. PREDICTED: Gallus gallus interleukin 25 (IL25), transcript variant X1, mRNA
+20282. PREDICTED: Gallus gallus interleukin 17 receptor E (IL17RE), mRNA
+20283. PREDICTED: Gallus gallus interleukin 17 receptor C (IL17RC), transcript variant X3, mRNA
+20284. PREDICTED: Gallus gallus interleukin 17 receptor C (IL17RC), transcript variant X2, mRNA
+20285. PREDICTED: Gallus gallus interleukin 17 receptor C (IL17RC), transcript variant X1, mRNA
+20286. PREDICTED: Gallus gallus interleukin 34 (IL34), mRNA
+20287. PREDICTED: Gallus gallus interleukin 17C (IL17C), mRNA
+20288. PREDICTED: Gallus gallus interleukin 18 binding protein (IL18BP), transcript variant X4, mRNA
+20289. PREDICTED: Gallus gallus interleukin 18 binding protein (IL18BP), transcript variant X3, mRNA
+20290. PREDICTED: Gallus gallus interleukin 18 binding protein (IL18BP), transcript variant X2, mRNA
+20291. PREDICTED: Gallus gallus interleukin 18 binding protein (IL18BP), transcript variant X1, mRNA
+20292. PREDICTED: Gallus gallus interleukin 15 receptor, alpha (IL15RA), transcript variant X4, mRNA
+20293. PREDICTED: Gallus gallus interleukin 15 receptor, alpha (IL15RA), transcript variant X3, mRNA
+20294. PREDICTED: Gallus gallus interleukin 15 receptor, alpha (IL15RA), transcript variant X2, mRNA
+20295. PREDICTED: Gallus gallus interleukin 15 receptor, alpha (IL15RA), transcript variant X1, mRNA
+20296. PREDICTED: Gallus gallus interleukin 1 receptor type 2 (IL1R2), transcript variant X2, mRNA
+20297. PREDICTED: Gallus gallus interleukin 1 receptor type 2 (IL1R2), transcript variant X1, mRNA
+20298. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 1 (IL1RAPL1), transcript variant X1, mRNA
+20299. PREDICTED: Gallus gallus interleukin 18 receptor accessory protein (IL18RAP), transcript variant X2, mRNA
+20300. PREDICTED: Gallus gallus interleukin 18 receptor accessory protein (IL18RAP), transcript variant X1, mRNA
+20301. PREDICTED: Gallus gallus interleukin 18 receptor accessory protein (IL18RAP), transcript variant X5, mRNA
+20302. PREDICTED: Gallus gallus interleukin 18 receptor accessory protein (IL18RAP), transcript variant X4, mRNA
+20303. PREDICTED: Gallus gallus interleukin 1 receptor-like 2 (IL1RL2), transcript variant X10, mRNA
+20304. PREDICTED: Gallus gallus interleukin 1 receptor-like 2 (IL1RL2), transcript variant X4, mRNA
+20305. PREDICTED: Gallus gallus interleukin 1 receptor-like 2 (IL1RL2), transcript variant X9, mRNA
+20306. PREDICTED: Gallus gallus interleukin 1 receptor-like 2 (IL1RL2), transcript variant X3, mRNA
+20307. PREDICTED: Gallus gallus interleukin 1 receptor-like 2 (IL1RL2), transcript variant X8, mRNA
+20308. PREDICTED: Gallus gallus interleukin 1 receptor-like 2 (IL1RL2), transcript variant X2, mRNA
+20309. PREDICTED: Gallus gallus interleukin 1 receptor-like 2 (IL1RL2), transcript variant X1, mRNA
+20310. PREDICTED: Gallus gallus interleukin 17 receptor E like (IL17REL), transcript variant X5, mRNA
+20311. PREDICTED: Gallus gallus interleukin 17 receptor E like (IL17REL), transcript variant X4, mRNA
+20312. PREDICTED: Gallus gallus interleukin 17 receptor E like (IL17REL), transcript variant X3, mRNA
+20313. PREDICTED: Gallus gallus interleukin 17 receptor E like (IL17REL), transcript variant X2, mRNA
+20314. PREDICTED: Gallus gallus interleukin 17 receptor E like (IL17REL), transcript variant X1, mRNA
+20315. PREDICTED: Gallus gallus interleukin 31 receptor A (IL31RA), transcript variant X4, mRNA
+20316. PREDICTED: Gallus gallus interleukin 31 receptor A (IL31RA), transcript variant X3, mRNA
+20317. PREDICTED: Gallus gallus interleukin 31 receptor A (IL31RA), transcript variant X2, mRNA
+20318. PREDICTED: Gallus gallus interleukin 31 receptor A (IL31RA), transcript variant X1, mRNA
+20319. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X14, mRNA
+20320. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X12, mRNA
+20321. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X11, mRNA
+20322. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X10, mRNA
+20323. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X8, mRNA
+20324. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X7, mRNA
+20325. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X6, mRNA
+20326. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X5, mRNA
+20327. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X3, mRNA
+20328. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X2, mRNA
+20329. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X1, mRNA
+20330. PREDICTED: Gallus gallus interleukin 23 receptor (IL23R), transcript variant X2, mRNA
+20331. PREDICTED: Gallus gallus interleukin 23 receptor (IL23R), transcript variant X1, mRNA
+20332. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X11, mRNA
+20333. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X10, mRNA
+20334. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X9, mRNA
+20335. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X8, mRNA
+20336. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X5, mRNA
+20337. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X3, mRNA
+20338. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X2, mRNA
+20339. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X1, mRNA
+20340. PREDICTED: Gallus gallus interleukin 13 receptor subunit alpha 1 (IL13RA1), mRNA
+20341. PREDICTED: Gallus gallus interleukin 23 subunit alpha (IL23A), mRNA
+20342. PREDICTED: Gallus gallus interleukin 17F (IL17F), mRNA
+20343. PREDICTED: Gallus gallus interleukin 20 receptor subunit alpha (IL20RA), transcript variant X4, mRNA
+20344. PREDICTED: Gallus gallus interleukin 20 receptor subunit alpha (IL20RA), transcript variant X3, mRNA
+20345. PREDICTED: Gallus gallus interleukin 20 receptor subunit alpha (IL20RA), transcript variant X2, mRNA
+20346. PREDICTED: Gallus gallus interleukin 20 receptor subunit alpha (IL20RA), transcript variant X1, mRNA
+20347. PREDICTED: Gallus gallus interleukin 22 receptor subunit alpha 2 (IL22RA2), transcript variant X5, mRNA
+20348. PREDICTED: Gallus gallus interleukin 22 receptor subunit alpha 2 (IL22RA2), transcript variant X4, mRNA
+20349. PREDICTED: Gallus gallus interleukin 22 receptor subunit alpha 2 (IL22RA2), transcript variant X3, mRNA
+20350. PREDICTED: Gallus gallus interleukin 22 receptor subunit alpha 2 (IL22RA2), transcript variant X2, mRNA
+20351. PREDICTED: Gallus gallus interleukin 22 receptor subunit alpha 2 (IL22RA2), transcript variant X1, mRNA
+20352. PREDICTED: Gallus gallus interleukin 12 receptor subunit beta 1 (IL12RB1), transcript variant X3, mRNA
+20353. PREDICTED: Gallus gallus interleukin 12 receptor subunit beta 1 (IL12RB1), transcript variant X2, mRNA
+20354. PREDICTED: Gallus gallus interleukin 12 receptor subunit beta 1 (IL12RB1), transcript variant X1, mRNA
+20355. PREDICTED: Gallus gallus interleukin 9 receptor (IL9R), mRNA
+20356. PREDICTED: Gallus gallus interleukin 20 receptor subunit beta (IL20RB), mRNA
+20357. PREDICTED: Gallus gallus interleukin 4 receptor (IL4R), transcript variant X3, mRNA
+20358. PREDICTED: Gallus gallus interleukin 4 receptor (IL4R), transcript variant X2, mRNA
+20359. PREDICTED: Gallus gallus interleukin 4 receptor (IL4R), transcript variant X1, mRNA
+20360. PREDICTED: Gallus gallus interleukin 25 (IL25), transcript variant X2, mRNA
+20361. PREDICTED: Gallus gallus interleukin 25 (IL25), transcript variant X1, mRNA
+20362. PREDICTED: Gallus gallus interleukin 17 receptor E (IL17RE), mRNA
+20363. PREDICTED: Gallus gallus interleukin 17C (IL17C), mRNA
+20364. PREDICTED: Gallus gallus interleukin 34 (IL34), mRNA
+20365. PREDICTED: Gallus gallus interleukin 18 receptor accessory protein (IL18RAP), transcript variant X2, mRNA
+20366. PREDICTED: Gallus gallus interleukin 18 receptor accessory protein (IL18RAP), transcript variant X1, mRNA
+20367. PREDICTED: Gallus gallus interleukin 18 receptor accessory protein (IL18RAP), transcript variant X3, mRNA
+20368. PREDICTED: Gallus gallus interleukin 1 receptor-like 2 (IL1RL2), transcript variant X4, mRNA
+20369. PREDICTED: Gallus gallus interleukin 1 receptor-like 2 (IL1RL2), transcript variant X3, mRNA
+20370. PREDICTED: Gallus gallus interleukin 1 receptor-like 2 (IL1RL2), transcript variant X2, mRNA
+20371. PREDICTED: Gallus gallus interleukin 1 receptor-like 2 (IL1RL2), transcript variant X7, mRNA
+20372. PREDICTED: Gallus gallus interleukin 1 receptor-like 2 (IL1RL2), transcript variant X6, mRNA
+20373. PREDICTED: Gallus gallus interleukin 1 receptor-like 2 (IL1RL2), transcript variant X1, mRNA
+20374. PREDICTED: Gallus gallus interleukin 1 receptor-like 2 (IL1RL2), transcript variant X5, mRNA
+20375. PREDICTED: Gallus gallus interleukin 1 receptor type 2 (IL1R2), transcript variant X2, mRNA
+20376. PREDICTED: Gallus gallus interleukin 1 receptor type 2 (IL1R2), transcript variant X1, mRNA
+20377. PREDICTED: Gallus gallus interleukin 18 binding protein (IL18BP), transcript variant X4, mRNA
+20378. PREDICTED: Gallus gallus interleukin 18 binding protein (IL18BP), transcript variant X3, mRNA
+20379. PREDICTED: Gallus gallus interleukin 18 binding protein (IL18BP), transcript variant X2, mRNA
+20380. PREDICTED: Gallus gallus interleukin 18 binding protein (IL18BP), transcript variant X1, mRNA
+20381. PREDICTED: Gallus gallus interleukin 15 receptor, alpha (IL15RA), transcript variant X4, mRNA
+20382. PREDICTED: Gallus gallus interleukin 15 receptor, alpha (IL15RA), transcript variant X3, mRNA
+20383. PREDICTED: Gallus gallus interleukin 15 receptor, alpha (IL15RA), transcript variant X2, mRNA
+20384. PREDICTED: Gallus gallus interleukin 15 receptor, alpha (IL15RA), transcript variant X1, mRNA
+20385. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 1 (IL1RAPL1), transcript variant X2, mRNA
+20386. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 1 (IL1RAPL1), transcript variant X1, mRNA
+20387. PREDICTED: Gallus gallus interleukin 17 receptor E like (IL17REL), transcript variant X5, mRNA
+20388. PREDICTED: Gallus gallus interleukin 17 receptor E like (IL17REL), transcript variant X4, mRNA
+20389. PREDICTED: Gallus gallus interleukin 17 receptor E like (IL17REL), transcript variant X3, mRNA
+20390. PREDICTED: Gallus gallus interleukin 17 receptor E like (IL17REL), transcript variant X2, mRNA
+20391. PREDICTED: Gallus gallus interleukin 17 receptor E like (IL17REL), transcript variant X1, mRNA
+20392. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X7, mRNA
+20393. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X6, mRNA
+20394. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X4, mRNA
+20395. PREDICTED: Gallus gallus interleukin 36 receptor antagonist (IL36RN), transcript variant X2, mRNA
+20396. PREDICTED: Gallus gallus interleukin 36 receptor antagonist (IL36RN), transcript variant X1, mRNA
+20397. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X13, mRNA
+20398. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X9, mRNA
+20399. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X4, mRNA
+20400. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X7, mRNA
+20401. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X6, mRNA
+20402. PREDICTED: Gallus gallus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X4, mRNA
+20403. PREDICTED: Gallus gallus interleukin 17 receptor C (IL17RC), transcript variant X1, mRNA
+52631. LE_MX1_32F02_SP6 Skate Multiple Tissues, Normalized Leucoraja erinacea cDNA clone LE_MX1_32F02 5' similar to ref|NP_001038139.1| interleukin 11 receptor, alpha - Gallus gallus. Score = 96.3 bits (238), Expect = 1e-18, mRNA sequence
+52633. LE_MX0_98D07_SP6 Skate Multiple Tissues, Normalized Leucoraja erinacea cDNA clone LE_MX0_98D07 5' similar to ref|NP_001038139.1| interleukin 11 receptor, alpha - Gallus gallus. Score = 83.6 bits (205), Expect = 7e-15, mRNA sequence
+52634. LE_MX0_77C09_SP6 Skate Multiple Tissues, Normalized Leucoraja erinacea cDNA clone LE_MX0_77C09 5' similar to ref|NP_001038139.1| interleukin 11 receptor, alpha - Gallus gallus. Score = 105 bits (261), Expect = 2e-21, mRNA sequence
+52640. SA_MX1_61g07_SP6 Dogfish Shark Multiple Tissues, Normalized Squalus acanthias cDNA clone SA_MX1_61g07 5' similar to ref|NP_990829.1| interleukin 8 - Gallus gallus. Score = 80.1 bits (196), Expect = 1e-13, mRNA sequence
+52721. PC/PO 2-16 Embryonic chicken perichondrium/ periosteum library Gallus gallus cDNA clone PC/PO 2-16 5' similar to Interleukin enhancer binding factor 2, 45kDa (ILF2), mRNA sequence
+52843. Sa_mx1_22b01_SP6 Dogfish Shark Multiple Tissues, Normalized Squalus acanthias cDNA clone Sa_mx1_22b01 5' similar to gb|AAX18248.1| interleukin 18 - Gallus gallus. Score = 57.4 bits (137), Expect = 4e-07, mRNA sequence
+53014. Pf_IL_303C04_TriplEx-5LD Flounder IL Induced Liver library Platichthys flesus cDNA clone Pf_IL_303C04 5' similar to XM_418274 (Gallus gallus) similar to interleukin 25 %ID = 61 E-value = 3.00E-47, mRNA sequence
+53019. Sa_em0_13n01_5prime Dogfish Shark Embryo-derived Cell Line SAE, Normalized Squalus acanthias cDNA clone Sa_em0_13n01 5' similar to ref|NP_001025811.1| similar to novel interleukin receptor - Gallus gallus. Score = 90.9 bits (224), Expect = 3e-17, mRNA sequence
+53021. Sa_em0_09g18_5prime Dogfish Shark Embryo-derived Cell Line SAE, Normalized Squalus acanthias cDNA clone Sa_em0_09g18 5' similar to ref|XP_417841.1| PREDICTED: similar to Interleukin 28 receptor alpha - Gallus gallus. Score = 69.3 bits (168), Expect = 6e-11, mRNA sequence
+53173. Le_lv0_41b11_SP6 Little Skate Liver, Normalized Leucoraja erinacea cDNA clone Le_lv0_41b11 5' similar to ref|NP_990829.1| interleukin 8 - Gallus gallus. Score = 73.9 bits (180), Expect = 4e-12, mRNA sequence
+53174. Le_lv0_41a11_SP6 Little Skate Liver, Normalized Leucoraja erinacea cDNA clone Le_lv0_41a11 5' similar to ref|NP_990829.1| interleukin 8 - Gallus gallus. Score = 73.9 bits (180), Expect = 4e-12, mRNA sequence
+53177. Le_lv0_29a08_SP6 Little Skate Liver, Normalized Leucoraja erinacea cDNA clone Le_lv0_29a08 5' similar to ref|NP_990829.1| interleukin 8 - Gallus gallus. Score = 79.7 bits (195), Expect = 7e-14, mRNA sequence
+53265. LPSc_A07 LPS stimulated Chicken PBL Macrophage Gallus gallus cDNA clone LPSc_A07 5' similar to interleukin 18 [Gallus gallus]; interleukin-18[Gallus gallus], mRNA sequence
+53318. pgr1n.pk008.a19 Normalized chicken reproductive tract cDNA library (pgr1n) Gallus gallus cDNA clone pgr1n.pk008.a19 5' similar to ref|NP_543027.1 (NM_080837) interleukin 25; lymphocyte antigen 6 complex, locus E ligand [Mus musculus] dbj|BAB23155.1| (AK004074) DNA segment, Chr 17, Wayne State Univers, mRNA sequence
+53328. pgn1c.pk012.f15 Chicken lymphoid cDNA library (pgn1c) Gallus gallus cDNA clone pgn1c.pk012.f15 5' similar to ref|NP_055154.3 interleukin 17 receptor precursor [Homo sapiens] gb|AAB99730.1| IL-17 receptor [Homo sapiens], mRNA sequence
+53331. pgn1c.pk011.o2 Chicken lymphoid cDNA library (pgn1c) Gallus gallus cDNA clone pgn1c.pk011.o2 5' similar to emb|CAC38375.1 bA204P2.1.1 (interleukin 20 receptor alpha, isoform 1) [Homo sapiens], mRNA sequence
+53352. pgn1c.pk007.h23 normalized chicken lymphoid cDNA library Gallus gallus cDNA clone pgn1c.pk007.h23 5' similar to gb|AAG23419.1|AF269133_1 (AF269133) novel interleukin receptor [Homo sapiens], mRNA sequence
+53356. pgm2n.pk010.c11 Normalized Chicken Breast Muscle, Leg Muscle, and Epiphyseal Growth Plate cDNA library (pgm2n) Gallus gallus cDNA clone pgm2n.pk010.c11 5' similar to emb|CAB96214.1 (AJ277865) interleukin 18 [Gallus gallus], mRNA sequence
+53357. pgm2n.pk009.p17 Normalized Chicken Breast Muscle, Leg Muscle, and Epiphyseal Growth Plate cDNA library (pgm2n) Gallus gallus cDNA clone pgm2n.pk009.p17 5' similar to gb|AAG02253.1 (AY005476) interleukin 15 precursor [Gallus gallus], mRNA sequence
+53358. pgm2n.pk005.c21 Normalized Chicken Breast Muscle, Leg Muscle, and Epiphyseal Growth Plate cDNA library (pgm2n) Gallus gallus cDNA clone pgm2n.pk005.c21 5' similar to ref|XP_032349.1 (XM_032349) interleukin 22 receptor [Homo sapiens], mRNA sequence
+53359. pgm2n.pk004.e14 Normalized Chicken Breast Muscle, Leg Muscle, and Epiphyseal Growth Plate cDNA library (pgm2n) Gallus gallus cDNA clone pgm2n.pk004.e14 5' similar to ref|NP_080650.1 (NM_026374) RIKEN cDNA 6230405A16 gene [Mus musculus] gb|AAH00382.1|AAH00382 (BC000382) interleukin enhancer binding factor 2, 45kD [Homo sapiens] dbj|BAB29021.1| (AK013858) putative [Mus musculus], mRNA sequence
+53360. pgr1n.pk002.b4 Normalized Chicken Reproductive Tract cDNA Library (pgr1n) Gallus gallus cDNA clone pgr1n.pk002.b4 5' similar to gb|AAK85714.1 (AY040566) interleukin 22-binding protein CRF2-10 [Homo sapiens] gb|AAK91775.1| (AY044429) class II cytokine receptor [Homo sapiens], mRNA sequence
+53361. pgf2n.pk004.l12 Normalized Chicken Abdominal Fat Library (pgf2n) Gallus gallus cDNA clone pgf2n.pk004.l12 5' similar to sp|P40321|CYRG_CANFA CYTOKINE RECEPTOR COMMON GAMMA CHAIN PRECURSOR (GAMMA-C) (INTERLEUKIN-2 RECEPTOR GAMMA CHAIN) (IL-2R GAMMA CHAIN) (P64) pir|A55718 interleukin-2 receptor gamma chain precursor - dog gb|AAC48403.1| (U04361) interleukin 2 rece, mRNA sequence
+53378. pgp1n.pk013.h11 Normalized Chicken Pituitary/Hypothalamus/Pineal Library Gallus gallus cDNA clone pgp1n.pk013.h11 5' similar to gi|13640950 ref|XP_005635.2| interleukin 11 receptor, alpha [Homo sapiens], mRNA sequence
+53379. pgp1n.pk003.h20 Normalized Chicken Pituitary/Hypothalamus/Pineal Library Gallus gallus cDNA clone pgp1n.pk003.h20 5' similar to gi|13385872 ref|NP_080650.1| RIKEN cDNA 6230405A16 gene [Mus musculus] gb|AAH00382.1|AAH00382 (BC000382) interleukin enhancer binding factor 2, 45kD [Homo sapiens] dbj|BAB29021.1| (AK013858) putative [Mus musculus], mRNA sequence
+53381. pgf1n.pk005.p15 normalized chicken fat cDNA library Gallus gallus cDNA clone pgf1n.pk005.p15 5' similar to gi|11423949 ref|XP_008885.1| interleukin enhancer binding factor 3, 90kD [Homo sapiens]G, mRNA sequence
+53382. pgf1n.pk004.p2 normalized chicken fat cDNA library Gallus gallus cDNA clone pgf1n.pk004.p2 5' similar to gb|AAG23419.1|AF269133_1 (AF269133) novel interleukin receptor [Homo sapiens]G, mRNA sequence
+53383. pgf1n.pk003.o1 normalized chicken fat cDNA library Gallus gallus cDNA clone pgf1n.pk003.o1 5' similar to gb|AAG23419.1|AF269133_1 (AF269133) novel interleukin receptor [Homo sapiens]A, mRNA sequence
+53388. pgl1n.pk010.c14 Normalized Liver Library Gallus gallus cDNA clone pgl1n.pk010.c14 5' similar to gi|7110651 ref|NP_034679.1| interleukin 11 receptor, alpha chain 1; locus 2 [Mus musculus] pir|I48343 interleukin-11 receptor alpha-chain precursor - mouse, mRNA sequence
+53391. pgn1c.pk003.k16 Normalized chicken lymphoid cDNA library Gallus gallus cDNA clone pgn1c.pk003.k16 5' similar to gi|10864067 ref|NP_067081.1| interleukin 22 receptor [Homo sapiens] gb|AAG22073.1|AF286095_1 (AF286095) IL-22 receptor [Homo sapiens]G, mRNA sequence
+53392. pgn1c.pk001.h4 Normalized chicken lymphoid cDNA library Gallus gallus cDNA clone pgn1c.pk001.h4 5' similar to gi|4758602 ref|NP_004506.1| interleukin enhancer binding factor 2, 45kD [Homo sapiens] pit|A54857 transcription factor NF-AT 45K chain - human gb|AAA20993.1| (U10323) NF45 protein [Homo sapiens]G, mRNA sequence
+53584. ptr1c.pk001.c14 chicken T cell cDNA library Gallus gallus cDNA clone ptr1c.pk001.c14 5' similar to (AF098967) interleukin enhancer binding factor 3 [Mus musculus], mRNA sequence
+53600. pat.pk0069.d3.f chicken activated T cell cDNA Gallus gallus cDNA clone pat.pk0069.d3.f 5' similar to interleukin 8 receptor, mRNA sequence
+53601. pat.pk0032.b9.f chicken activated T cell cDNA Gallus gallus cDNA clone pat.pk0032.b9.f 5' similar to interleukin enhancer-binding factor ILF-1, mRNA sequence
+53602. pat.pk0012.h3 chicken activated T cell cDNA Gallus gallus cDNA clone pat.pk0012.h3 5' similar to interleukin 15 receptor precursor, mRNA sequence
