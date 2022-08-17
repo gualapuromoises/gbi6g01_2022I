@@ -1,0 +1,1395 @@
+1000. Bos indicus isolate NDRI-1392 interleukin 8 gene, exon 2 and partial cds
+1001. Bos indicus isolate NDRI-1590 interleukin 8 gene, exon 1 and partial cds
+1002. Bos indicus interleukin 8 (IL8) gene, intron 2, exon 3, intron 3 and partial cds
+1010. Bos indicus clone IL13Thr8bB interleukin 13 (IL13) gene, partial cds
+1011. Bos indicus clone IL13Thr8bA interleukin 13 (IL13) gene, partial cds
+1012. Bos indicus clone IL13Thr3bB interleukin 13 (IL13) gene, partial cds
+1013. Bos indicus clone IL13Thr3bA interleukin 13 (IL13) gene, partial cds
+1014. Bos indicus clone IL13Thr10bB interleukin 13 (IL13) gene, partial cds
+1015. Bos indicus clone IL13Thr10bA interleukin 13 (IL13) gene, partial cds
+1016. Bos indicus clone IL13Sah6aB interleukin 13 (IL13) gene, partial cds
+1017. Bos indicus clone IL13Sah6aA interleukin 13 (IL13) gene, partial cds
+1018. Bos indicus clone IL13Sah11aB interleukin 13 (IL13) gene, partial cds
+1019. Bos indicus clone IL13Sah11aA interleukin 13 (IL13) gene, partial cds
+1020. Bos indicus clone IL13Sah10aB interleukin 13 (IL13) gene, partial cds
+1021. Bos indicus clone IL13Sah10aA interleukin 13 (IL13) gene, partial cds
+1022. Bos indicus clone IL13Ong6B interleukin 13 (IL13) gene, partial cds
+1023. Bos indicus clone IL13Ong6A interleukin 13 (IL13) gene, partial cds
+1024. Bos indicus clone IL13Ong26B interleukin 13 (IL13) gene, partial cds
+1025. Bos indicus clone IL13Ong26A interleukin 13 (IL13) gene, partial cds
+1026. Bos indicus clone IL13Har8aB interleukin 13 (IL13) gene, partial cds
+1027. Bos indicus clone IL13Har8aA interleukin 13 (IL13) gene, partial cds
+1028. Bos indicus clone IL13Har5aB interleukin 13 (IL13) gene, partial cds
+1029. Bos indicus clone IL13Har5aA interleukin 13 (IL13) gene, partial cds
+1030. Bos indicus clone IL13Har10aB interleukin 13 (IL13) gene, partial cds
+1031. Bos indicus clone IL13Har10aA interleukin 13 (IL13) gene, partial cds
+1051. Bos indicus cross breed of Holstein Friesian and Bos indicus interleukin 8 receptor (IL8RB) gene, partial cds
+1052. Bos indicus breed Kankrej interleukin 8 receptor (IL8RB) gene, partial cds
+1053. Bos indicus breed Red Sindhi interleukin 8 receptor (IL8RB) gene, partial cds
+1054. Bos indicus breed Sahiwal interleukin 8 receptor (IL8RB) gene, partial cds
+1055. Bos indicus breed Gir interleukin 8 receptor (IL8RB) gene, partial cds
+1204. Bos indicus breed Gir clone 8 interleukin 10 receptor beta mRNA, complete cds
+1205. Bos indicus breed Gir clone 2 interleukin 10 receptor beta mRNA, complete cds
+1206. Bos indicus breed Gir clone 1 interleukin 10 receptor beta mRNA, complete cds
+1207. Bos indicus x Bos taurus breed Karan Friesian clone 5 interleukin 10 receptor beta mRNA, complete cds
+1208. Bos indicus breed Tharparkar clone 7 interleukin 10 receptor beta mRNA, complete cds
+1845. Bos indicus breed Sahiwal interleukin 8 (IL8) gene, exon 1, intron 1, 5' UTR and partial cds
+1967. Bos indicus breed Sahiwal interleukin 8 (IL8) gene, partial cds
+1968. Bos indicus breed Sahiwal interleukin 8 (IL8) gene, exon 1 and partial cds
+2494. Bos indicus interleukin 2 mRNA, partial cds
+2577. Bos taurus x Bos indicus interleukin 2 (IL-2) gene, IL-2-C allele, exon 4 and partial cds
+2578. Bos taurus x Bos indicus interleukin 2 (IL-2) gene, IL-2-B allele, exon 4 and partial cds
+2579. Bos taurus x Bos indicus interleukin 2 (IL-2) gene, IL-2-A allele, exon 4 and partial cds
+2580. Bos taurus x Bos indicus interleukin 2 (IL-2) gene, IL-2-B allele, exon 3 and partial cds
+2581. Bos taurus x Bos indicus interleukin 2 (IL-2) gene, IL-2-A allele, exon 3 and partial cds
+2582. Bos taurus x Bos indicus interleukin 2 (IL-2) gene, IL-2-A allele, exons 1, 2 and partial cds
+2707. Bos indicus breed Vrindavani interleukin 8 (IL8) gene, partial cds
+2708. Bos indicus breed Vrindavani interleukin 8 (IL8) gene, IL8-A allele, exon 3 and partial cds
+2709. Bos indicus breed Vrindavani interleukin 8 (IL8) gene, IL8-B allele, exon 3 and partial cds
+2710. Bos indicus breed Vrindavani interleukin 8 (IL8) gene, partial cds
+3589. Bos indicus isolate Ong6-B interleukin 5 (IL5) gene, complete cds
+3590. Bos indicus isolate Ong6-A interleukin 5 (IL5) gene, complete cds
+3591. Bos indicus isolate Har8a-B interleukin 5 (IL5) gene, complete cds
+3592. Bos indicus isolate Har8a-A interleukin 5 (IL5) gene, complete cds
+3601. Bos indicus isolate Ong26-B interleukin 5 (IL5) gene, complete cds
+3602. Bos indicus isolate Ong26-A interleukin 5 (IL5) gene, complete cds
+3603. Bos indicus isolate Har10a-B interleukin 5 (IL5) gene, complete cds
+3604. Bos indicus isolate Har10a-A interleukin 5 (IL5) gene, complete cds
+3613. Bos indicus isolate Thr3b-B interleukin 5 (IL5) gene, complete cds
+3614. Bos indicus isolate Thr3b-A interleukin 5 (IL5) gene, complete cds
+3625. Bos indicus isolate Thr8b-B interleukin 5 (IL5) gene, complete cds
+3626. Bos indicus isolate Thr8b-A interleukin 5 (IL5) gene, complete cds
+3647. Bos indicus isolate Sah6a-B interleukin 5 (IL5) gene, complete cds
+3648. Bos indicus isolate Sah6a-A interleukin 5 (IL5) gene, complete cds
+3659. Bos indicus isolate Sah10a-B interleukin 5 (IL5) gene, complete cds
+3660. Bos indicus isolate Sah10a-A interleukin 5 (IL5) gene, complete cds
+3671. Bos indicus isolate Sah11a-B interleukin 5 (IL5) gene, complete cds
+3672. Bos indicus isolate Sah11a-A interleukin 5 (IL5) gene, complete cds
+3673. Bos indicus isolate Har5a-B interleukin 5 (IL5) gene, complete cds
+3674. Bos indicus isolate Har5a-A interleukin 5 (IL5) gene, complete cds
+3748. Bos indicus clone IL2Thr8bB interleukin 2 (IL2) gene, complete cds
+3749. Bos indicus clone IL2Thr8bA interleukin 2 (IL2) gene, complete cds
+3750. Bos indicus clone IL2Thr3bB interleukin 2 (IL2) gene, complete cds
+3751. Bos indicus clone IL2Thr3bA interleukin 2 (IL2) gene, complete cds
+3752. Bos indicus clone IL2Thr10bB interleukin 2 (IL2) gene, complete cds
+3753. Bos indicus clone IL2Thr10bA interleukin 2 (IL2) gene, complete cds
+3754. Bos indicus clone IL2Sah6aB interleukin 2 (IL2) gene, complete cds
+3755. Bos indicus clone IL2Sah6aA interleukin 2 (IL2) gene, complete cds
+3756. Bos indicus clone IL2Sah11aB interleukin 2 (IL2) gene, complete cds
+3757. Bos indicus clone IL2Sah11aA interleukin 2 (IL2) gene, complete cds
+3758. Bos indicus clone IL2Sah10aB interleukin 2 (IL2) gene, complete cds
+3759. Bos indicus clone IL2Sah10aA interleukin 2 (IL2) gene, complete cds
+3760. Bos indicus clone IL2Ong6B interleukin 2 (IL2) gene, complete cds
+3761. Bos indicus clone IL2Ong6A interleukin 2 (IL2) gene, complete cds
+3762. Bos indicus clone IL2Ong26B interleukin 2 (IL2) gene, complete cds
+3763. Bos indicus clone IL2Ong26A interleukin 2 (IL2) gene, complete cds
+3764. Bos indicus clone IL2Har8aB interleukin 2 (IL2) gene, complete cds
+3765. Bos indicus clone IL2Har8aA interleukin 2 (IL2) gene, complete cds
+3766. Bos indicus clone IL2Har5aB interleukin 2 (IL2) gene, complete cds
+3767. Bos indicus clone IL2Har5aA interleukin 2 (IL2) gene, complete cds
+3768. Bos indicus clone IL2Har10aB interleukin 2 (IL2) gene, complete cds
+3769. Bos indicus clone IL2Har10aA interleukin 2 (IL2) gene, complete cds
+9022. PREDICTED: Bos indicus x Bos taurus interleukin enhancer binding factor 3 (ILF3), transcript variant X6, mRNA
+9023. PREDICTED: Bos indicus x Bos taurus interleukin enhancer binding factor 3 (ILF3), transcript variant X5, mRNA
+9024. PREDICTED: Bos indicus x Bos taurus interleukin enhancer binding factor 3 (ILF3), transcript variant X4, mRNA
+9025. PREDICTED: Bos indicus x Bos taurus interleukin enhancer binding factor 3 (ILF3), transcript variant X3, mRNA
+9026. PREDICTED: Bos indicus x Bos taurus interleukin enhancer binding factor 3 (ILF3), transcript variant X2, mRNA
+9027. PREDICTED: Bos indicus x Bos taurus interleukin enhancer binding factor 3 (ILF3), transcript variant X1, mRNA
+9028. PREDICTED: Bos indicus x Bos taurus interleukin enhancer binding factor 2 (ILF2), mRNA
+10291. Bos indicus interleukin 15 mRNA, complete cds
+10335. PREDICTED: Bos indicus interleukin enhancer binding factor 3 (ILF3), transcript variant X4, mRNA
+10336. PREDICTED: Bos indicus interleukin enhancer binding factor 3 (ILF3), transcript variant X3, mRNA
+10337. PREDICTED: Bos indicus interleukin enhancer binding factor 3 (ILF3), transcript variant X2, mRNA
+10338. PREDICTED: Bos indicus interleukin enhancer binding factor 3 (ILF3), transcript variant X1, mRNA
+10339. PREDICTED: Bos indicus interleukin enhancer binding factor 2 (ILF2), mRNA
+10793. Bos indicus breed Tharparkar interleukin 8 (IL8) mRNA, partial cds
+10794. Bos indicus x Bos taurus interleukin 8 (IL8) mRNA, partial cds
+10796. Bos indicus breed Tharparkar interleukin 1 beta (IL1B) mRNA, partial cds
+10797. Bos indicus x Bos taurus interleukin 1 beta (IL1B) mRNA, partial cds
+10799. Bos indicus breed Tharparkar interleukin 12B (IL12B) mRNA, partial cds
+10800. Bos indicus x Bos taurus interleukin 12B (IL12B) mRNA, partial cds
+10802. Bos indicus breed Tharparkar interleukin 10 (IL10) mRNA, partial cds
+10803. Bos indicus x Bos taurus interleukin 10 (IL10) mRNA, partial cds
+11767. Bos indicus interleukin 4 (IL4) mRNA, complete cds
+11921. Bos indicus interleukin 1-beta mRNA, complete cds
+12217. Bos indicus interleukin 8 (IL8) gene, 3' UTR
+12230. Bos indicus interleukin 8 (IL8) mRNA, complete cds
+14775. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X3, misc_RNA
+14776. PREDICTED: Bos indicus x Bos taurus interleukin 15 (IL15), transcript variant X2, misc_RNA
+14777. PREDICTED: Bos indicus x Bos taurus interleukin 15 (IL15), transcript variant X1, misc_RNA
+15420. PREDICTED: Bos indicus interleukin 32 (IL32), transcript variant X2, misc_RNA
+15737. Bos indicus haplotype O interleukin 2 (IL2) gene, promoter region
+15738. Bos indicus haplotype N interleukin 2 (IL2) gene, promoter region
+15739. Bos indicus haplotype M interleukin 2 (IL2) gene, promoter region
+15740. Bos indicus haplotype L interleukin 2 (IL2) gene, promoter region
+15741. Bos indicus haplotype K interleukin 2 (IL2) gene, promoter region
+15742. Bos indicus haplotype J interleukin 2 (IL2) gene, promoter region
+15743. Bos indicus haplotype I interleukin 2 (IL2) gene, promoter region
+15744. Bos indicus haplotype H interleukin 2 (IL2) gene, promoter region
+15745. Bos indicus haplotype G interleukin 2 (IL2) gene, promoter region
+15746. Bos indicus haplotype F interleukin 2 (IL2) gene, promoter region
+15747. Bos indicus haplotype E interleukin 2 (IL2) gene, promoter region
+15748. Bos indicus haplotype D interleukin 2 (IL2) gene, promoter region
+15749. Bos indicus haplotype C interleukin 2 (IL2) gene, promoter region
+15750. Bos indicus haplotype B interleukin 2 (IL2) gene, promoter region
+15751. Bos indicus haplotype A interleukin 2 (IL2) gene, promoter region
+53968. PREDICTED: Bos indicus x Bos taurus interleukin 2 receptor subunit gamma (IL2RG), transcript variant X3, mRNA
+53969. PREDICTED: Bos indicus x Bos taurus interleukin 2 receptor subunit gamma (IL2RG), transcript variant X2, mRNA
+53970. PREDICTED: Bos indicus x Bos taurus interleukin 2 receptor subunit gamma (IL2RG), transcript variant X1, mRNA
+53971. PREDICTED: Bos indicus x Bos taurus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant X3, mRNA
+53972. PREDICTED: Bos indicus x Bos taurus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant X2, mRNA
+53973. PREDICTED: Bos indicus x Bos taurus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant X1, mRNA
+53974. PREDICTED: Bos indicus x Bos taurus interleukin 3 receptor subunit alpha (IL3RA), transcript variant X2, mRNA
+53975. PREDICTED: Bos indicus x Bos taurus interleukin 3 receptor subunit alpha (IL3RA), transcript variant X1, mRNA
+53976. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein like 1 (IL1RAPL1), mRNA
+53977. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 1 (IRAK1), transcript variant X3, mRNA
+53978. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 1 (IRAK1), transcript variant X2, mRNA
+53979. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 1 (IRAK1), transcript variant X1, mRNA
+53980. PREDICTED: Bos indicus x Bos taurus interleukin 13 receptor subunit alpha 1 (IL13RA1), transcript variant X2, mRNA
+53981. PREDICTED: Bos indicus x Bos taurus interleukin 13 receptor subunit alpha 1 (IL13RA1), transcript variant X1, mRNA
+53982. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X2, mRNA
+53983. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X1, mRNA
+53984. PREDICTED: Bos indicus x Bos taurus interleukin 22 receptor subunit alpha 2 (IL22RA2), mRNA
+53985. PREDICTED: Bos indicus x Bos taurus interleukin 20 receptor subunit alpha (IL20RA), mRNA
+53986. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 1 binding protein 1 (IRAK1BP1), mRNA
+53987. PREDICTED: Bos indicus x Bos taurus nuclear factor, interleukin 3 regulated (NFIL3), transcript variant X3, mRNA
+53988. PREDICTED: Bos indicus x Bos taurus nuclear factor, interleukin 3 regulated (NFIL3), transcript variant X2, mRNA
+53989. PREDICTED: Bos indicus x Bos taurus nuclear factor, interleukin 3 regulated (NFIL3), transcript variant X1, mRNA
+53990. PREDICTED: Bos indicus x Bos taurus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X7, mRNA
+53991. PREDICTED: Bos indicus x Bos taurus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X6, mRNA
+53992. PREDICTED: Bos indicus x Bos taurus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X5, mRNA
+53993. PREDICTED: Bos indicus x Bos taurus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X4, mRNA
+53994. PREDICTED: Bos indicus x Bos taurus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X3, mRNA
+53995. PREDICTED: Bos indicus x Bos taurus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X2, mRNA
+53996. PREDICTED: Bos indicus x Bos taurus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X1, mRNA
+53997. PREDICTED: Bos indicus x Bos taurus interleukin 33 (IL33), transcript variant X2, mRNA
+53998. PREDICTED: Bos indicus x Bos taurus interleukin 33 (IL33), transcript variant X1, mRNA
+53999. PREDICTED: Bos indicus x Bos taurus interleukin 5 (IL5), mRNA
+54000. PREDICTED: Bos indicus x Bos taurus interleukin 9 (IL9), mRNA
+54001. PREDICTED: Bos indicus x Bos taurus interleukin 4 (IL4), mRNA
+54002. PREDICTED: Bos indicus x Bos taurus interleukin 12 receptor subunit beta 1 (IL12RB1), mRNA
+54003. PREDICTED: Bos indicus x Bos taurus interleukin 27 receptor subunit alpha (IL27RA), transcript variant X3, mRNA
+54004. PREDICTED: Bos indicus x Bos taurus interleukin 27 receptor subunit alpha (IL27RA), transcript variant X2, mRNA
+54005. PREDICTED: Bos indicus x Bos taurus interleukin 27 receptor subunit alpha (IL27RA), transcript variant X1, mRNA
+54006. PREDICTED: Bos indicus x Bos taurus interleukin 13 (IL13), mRNA
+54007. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X9, mRNA
+54008. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X8, mRNA
+54009. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X7, mRNA
+54010. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X6, mRNA
+54011. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X5, mRNA
+54012. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X4, mRNA
+54013. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X3, mRNA
+54014. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X2, mRNA
+54015. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X1, mRNA
+54016. PREDICTED: Bos indicus x Bos taurus interleukin 12B (IL12B), mRNA
+54017. PREDICTED: Bos indicus x Bos taurus interleukin 22 (IL22), transcript variant X2, mRNA
+54018. PREDICTED: Bos indicus x Bos taurus interleukin 22 (IL22), transcript variant X1, mRNA
+54019. PREDICTED: Bos indicus x Bos taurus interleukin 26 (IL26), mRNA
+54020. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor E like (IL17REL), mRNA
+54021. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X8, mRNA
+54022. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X7, mRNA
+54023. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X6, mRNA
+54024. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X5, mRNA
+54025. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X4, mRNA
+54026. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X2, mRNA
+54027. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X1, mRNA
+54028. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 3 (IRAK3), transcript variant X2, mRNA
+54029. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 3 (IRAK3), transcript variant X1, mRNA
+54030. PREDICTED: Bos indicus x Bos taurus interleukin 23 subunit alpha (IL23A), transcript variant X2, mRNA
+54031. PREDICTED: Bos indicus x Bos taurus interleukin 23 subunit alpha (IL23A), transcript variant X1, mRNA
+54032. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor A (IL17RA), transcript variant X3, mRNA
+54033. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor A (IL17RA), transcript variant X2, mRNA
+54034. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor A (IL17RA), transcript variant X1, mRNA
+54035. PREDICTED: Bos indicus x Bos taurus interleukin 6 (IL6), mRNA
+54036. PREDICTED: Bos indicus x Bos taurus interleukin 23 receptor (IL23R), mRNA
+54037. PREDICTED: Bos indicus x Bos taurus interleukin 12 receptor subunit beta 2 (IL12RB2), mRNA
+54038. PREDICTED: Bos indicus x Bos taurus interleukin 6 receptor (IL6R), mRNA
+54039. PREDICTED: Bos indicus x Bos taurus interleukin 21 receptor (IL21R), mRNA
+54040. PREDICTED: Bos indicus x Bos taurus interleukin 9 receptor (IL9R), transcript variant X4, mRNA
+54041. PREDICTED: Bos indicus x Bos taurus interleukin 9 receptor (IL9R), transcript variant X3, mRNA
+54042. PREDICTED: Bos indicus x Bos taurus interleukin 9 receptor (IL9R), transcript variant X2, mRNA
+54043. PREDICTED: Bos indicus x Bos taurus interleukin 9 receptor (IL9R), transcript variant X1, mRNA
+54044. PREDICTED: Bos indicus x Bos taurus interleukin 32 (IL32), transcript variant X3, mRNA
+54045. PREDICTED: Bos indicus x Bos taurus interleukin 32 (IL32), transcript variant X2, mRNA
+54046. PREDICTED: Bos indicus x Bos taurus interleukin 32 (IL32), transcript variant X1, mRNA
+54047. PREDICTED: Bos indicus x Bos taurus interleukin 27 (IL27), mRNA
+54048. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X9, mRNA
+54049. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X8, mRNA
+54050. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X7, mRNA
+54051. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X6, mRNA
+54052. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X5, mRNA
+54053. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X4, mRNA
+54054. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X3, mRNA
+54055. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X2, mRNA
+54056. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X1, mRNA
+54057. PREDICTED: Bos indicus x Bos taurus interleukin 17F (IL17F), mRNA
+54058. PREDICTED: Bos indicus x Bos taurus interleukin 17A (IL17A), mRNA
+54059. PREDICTED: Bos indicus x Bos taurus interleukin 5 receptor subunit alpha (IL5RA), mRNA
+54060. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 2 (IRAK2), transcript variant X2, mRNA
+54061. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 2 (IRAK2), transcript variant X1, mRNA
+54062. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor B (IL17RB), transcript variant X5, mRNA
+54063. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor B (IL17RB), transcript variant X4, mRNA
+54064. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor B (IL17RB), transcript variant X3, mRNA
+54065. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor B (IL17RB), transcript variant X2, mRNA
+54066. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor B (IL17RB), transcript variant X1, mRNA
+54067. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor D (IL17RD), transcript variant X2, mRNA
+54068. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor D (IL17RD), transcript variant X1, mRNA
+54069. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor E (IL17RE), transcript variant X3, mRNA
+54070. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor E (IL17RE), transcript variant X2, mRNA
+54071. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor E (IL17RE), transcript variant X1, mRNA
+54072. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X10, mRNA
+54073. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X9, mRNA
+54074. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X8, mRNA
+54075. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X7, mRNA
+54076. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X6, mRNA
+54077. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X5, mRNA
+54078. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X4, mRNA
+54079. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X3, mRNA
+54080. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X2, mRNA
+54081. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X1, mRNA
+54082. PREDICTED: Bos indicus x Bos taurus interleukin 16 (IL16), transcript variant X2, mRNA
+54083. PREDICTED: Bos indicus x Bos taurus interleukin 16 (IL16), transcript variant X1, mRNA
+54084. PREDICTED: Bos indicus x Bos taurus interleukin 6 signal transducer (IL6ST), transcript variant X2, mRNA
+54085. PREDICTED: Bos indicus x Bos taurus interleukin 6 signal transducer (IL6ST), transcript variant X1, mRNA
+54086. PREDICTED: Bos indicus x Bos taurus interleukin 31 receptor A (IL31RA), transcript variant X2, mRNA
+54087. PREDICTED: Bos indicus x Bos taurus interleukin 31 receptor A (IL31RA), transcript variant X1, mRNA
+54088. PREDICTED: Bos indicus x Bos taurus interleukin 7 receptor (IL7R), mRNA
+54089. PREDICTED: Bos indicus x Bos taurus interleukin 22 receptor subunit alpha 1 (IL22RA1), mRNA
+54090. PREDICTED: Bos indicus x Bos taurus interleukin 4 induced 1 (IL4I1), mRNA
+54091. PREDICTED: Bos indicus x Bos taurus interleukin 11 (IL11), mRNA
+54092. PREDICTED: Bos indicus x Bos taurus interleukin 17C (IL17C), partial mRNA
+54093. PREDICTED: Bos indicus x Bos taurus interleukin 2 (IL2), mRNA
+54094. PREDICTED: Bos indicus x Bos taurus interleukin 15 (IL15), transcript variant X4, mRNA
+54095. PREDICTED: Bos indicus x Bos taurus interleukin 15 (IL15), transcript variant X3, mRNA
+54096. PREDICTED: Bos indicus x Bos taurus LIF, interleukin 6 family cytokine (LIF), mRNA
+54097. PREDICTED: Bos indicus x Bos taurus interleukin 21 (IL21), mRNA
+54098. PREDICTED: Bos indicus x Bos taurus interleukin 24 (IL24), mRNA
+54099. PREDICTED: Bos indicus x Bos taurus interleukin 20 (IL20), mRNA
+54100. PREDICTED: Bos indicus x Bos taurus interleukin 19 (IL19), transcript variant X2, mRNA
+54101. PREDICTED: Bos indicus x Bos taurus interleukin 19 (IL19), transcript variant X1, mRNA
+54102. PREDICTED: Bos indicus x Bos taurus interleukin 10 (IL10), mRNA
+54103. PREDICTED: Bos indicus x Bos taurus interleukin 18 (IL18), transcript variant X2, mRNA
+54104. PREDICTED: Bos indicus x Bos taurus interleukin 18 (IL18), transcript variant X1, mRNA
+54105. PREDICTED: Bos indicus x Bos taurus interleukin 10 receptor subunit alpha (IL10RA), mRNA
+54106. PREDICTED: Bos indicus x Bos taurus interleukin 18 binding protein (IL18BP), mRNA
+54107. PREDICTED: Bos indicus x Bos taurus interleukin 7 (IL7), mRNA
+54108. PREDICTED: Bos indicus x Bos taurus interleukin 2 receptor subunit alpha (IL2RA), mRNA
+54109. PREDICTED: Bos indicus x Bos taurus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X6, mRNA
+54110. PREDICTED: Bos indicus x Bos taurus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X5, mRNA
+54111. PREDICTED: Bos indicus x Bos taurus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X4, mRNA
+54112. PREDICTED: Bos indicus x Bos taurus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X3, mRNA
+54113. PREDICTED: Bos indicus x Bos taurus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X2, mRNA
+54114. PREDICTED: Bos indicus x Bos taurus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X1, mRNA
+54115. PREDICTED: Bos indicus x Bos taurus interleukin 17D (IL17D), mRNA
+54116. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor antagonist (IL1RN), transcript variant X3, mRNA
+54117. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor antagonist (IL1RN), transcript variant X2, mRNA
+54118. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor antagonist (IL1RN), transcript variant X1, mRNA
+54119. PREDICTED: Bos indicus x Bos taurus interleukin 1 beta (IL1B), mRNA
+54120. PREDICTED: Bos indicus x Bos taurus interleukin 1 alpha (IL1A), mRNA
+54121. PREDICTED: Bos indicus x Bos taurus interleukin 18 receptor accessory protein (IL18RAP), mRNA
+54122. PREDICTED: Bos indicus x Bos taurus interleukin 18 receptor 1 (IL18R1), mRNA
+54123. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor like 1 (IL1RL1), transcript variant X6, mRNA
+54124. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor like 1 (IL1RL1), transcript variant X5, mRNA
+54125. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor like 1 (IL1RL1), transcript variant X4, mRNA
+54126. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor like 1 (IL1RL1), transcript variant X3, mRNA
+54127. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor like 1 (IL1RL1), transcript variant X2, mRNA
+54128. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor like 1 (IL1RL1), transcript variant X1, mRNA
+54129. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor like 2 (IL1RL2), mRNA
+54130. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X11, mRNA
+54131. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X10, mRNA
+54132. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X9, mRNA
+54133. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X8, mRNA
+54134. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X7, mRNA
+54135. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X6, mRNA
+54136. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X5, mRNA
+54137. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X4, mRNA
+54138. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X3, mRNA
+54139. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X2, mRNA
+54140. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X1, mRNA
+54141. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 2 (IL1R2), transcript variant X2, mRNA
+54142. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 2 (IL1R2), transcript variant X1, mRNA
+54143. PREDICTED: Bos indicus x Bos taurus interleukin 36 gamma (IL36G), mRNA
+54144. PREDICTED: Bos indicus x Bos taurus interleukin 1 family member 10 (IL1F10), mRNA
+54145. PREDICTED: Bos indicus x Bos taurus interleukin 36 receptor antagonist (IL36RN), mRNA
+54146. PREDICTED: Bos indicus x Bos taurus interleukin 36 beta (IL36B), mRNA
+54147. PREDICTED: Bos indicus x Bos taurus interleukin 37 (IL37), transcript variant X3, mRNA
+54148. PREDICTED: Bos indicus x Bos taurus interleukin 37 (IL37), transcript variant X2, mRNA
+54149. PREDICTED: Bos indicus x Bos taurus interleukin 37 (IL37), transcript variant X1, mRNA
+54150. PREDICTED: Bos indicus x Bos taurus interleukin 25 (IL25), mRNA
+54151. PREDICTED: Bos indicus x Bos taurus interleukin 20 receptor subunit beta (IL20RB), mRNA
+54152. PREDICTED: Bos indicus x Bos taurus interleukin 12A (IL12A), mRNA
+54153. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X7, mRNA
+54154. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X6, mRNA
+54155. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X5, mRNA
+54156. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X4, mRNA
+54157. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X3, mRNA
+54158. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X2, mRNA
+54159. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X1, mRNA
+54160. PREDICTED: Bos indicus x Bos taurus interleukin 10 receptor subunit beta (IL10RB), transcript variant X2, mRNA
+54161. PREDICTED: Bos indicus x Bos taurus interleukin 10 receptor subunit beta (IL10RB), transcript variant X1, mRNA
+61484. PREDICTED: Bos indicus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), mRNA
+61485. PREDICTED: Bos indicus interleukin 1 receptor associated kinase 1 (IRAK1), mRNA
+61486. PREDICTED: Bos indicus interleukin 2 receptor subunit gamma (IL2RG), mRNA
+61487. PREDICTED: Bos indicus interleukin 20 receptor subunit alpha (IL20RA), mRNA
+61488. PREDICTED: Bos indicus interleukin 1 receptor associated kinase 1 binding protein 1 (IRAK1BP1), mRNA
+61489. PREDICTED: Bos indicus interleukin 22 receptor subunit alpha 2 (IL22RA2), mRNA
+61490. PREDICTED: Bos indicus nuclear factor, interleukin 3 regulated (NFIL3), transcript variant X3, mRNA
+61491. PREDICTED: Bos indicus nuclear factor, interleukin 3 regulated (NFIL3), transcript variant X2, mRNA
+61492. PREDICTED: Bos indicus nuclear factor, interleukin 3 regulated (NFIL3), transcript variant X1, mRNA
+61493. PREDICTED: Bos indicus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X4, mRNA
+61494. PREDICTED: Bos indicus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X3, mRNA
+61495. PREDICTED: Bos indicus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X2, mRNA
+61496. PREDICTED: Bos indicus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X1, mRNA
+61497. PREDICTED: Bos indicus interleukin 33 (IL33), mRNA
+61498. PREDICTED: Bos indicus interleukin 17B (IL17B), transcript variant X4, mRNA
+61499. PREDICTED: Bos indicus interleukin 17B (IL17B), transcript variant X3, mRNA
+61500. PREDICTED: Bos indicus interleukin 17B (IL17B), transcript variant X2, mRNA
+61501. PREDICTED: Bos indicus interleukin 17B (IL17B), transcript variant X1, mRNA
+61502. PREDICTED: Bos indicus interleukin 12 receptor subunit beta 1 (IL12RB1), transcript variant X2, mRNA
+61503. PREDICTED: Bos indicus interleukin 12 receptor subunit beta 1 (IL12RB1), transcript variant X1, mRNA
+61504. PREDICTED: Bos indicus interleukin 12B (IL12B), mRNA
+61505. PREDICTED: Bos indicus interleukin 5 (IL5), mRNA
+61506. PREDICTED: Bos indicus interleukin 13 (IL13), mRNA
+61507. PREDICTED: Bos indicus interleukin 4 (IL4), mRNA
+61508. PREDICTED: Bos indicus interleukin 9 (IL9), mRNA
+61509. PREDICTED: Bos indicus interleukin 27 receptor subunit alpha (IL27RA), mRNA
+61510. PREDICTED: Bos indicus interleukin 2 receptor subunit beta (IL2RB), mRNA
+61511. PREDICTED: Bos indicus interleukin 23 subunit alpha (IL23A), mRNA
+61512. PREDICTED: Bos indicus interleukin 1 receptor associated kinase 3 (IRAK3), transcript variant X2, mRNA
+61513. PREDICTED: Bos indicus interleukin 1 receptor associated kinase 3 (IRAK3), transcript variant X1, mRNA
+61514. PREDICTED: Bos indicus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X2, mRNA
+61515. PREDICTED: Bos indicus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X1, mRNA
+61516. PREDICTED: Bos indicus interleukin 26 (IL26), mRNA
+61517. PREDICTED: Bos indicus interleukin 22 (IL22), mRNA
+61518. PREDICTED: Bos indicus interleukin 17 receptor A (IL17RA), mRNA
+61519. PREDICTED: Bos indicus interleukin 6 (IL6), mRNA
+61520. PREDICTED: Bos indicus interleukin 23 receptor (IL23R), transcript variant X2, mRNA
+61521. PREDICTED: Bos indicus interleukin 23 receptor (IL23R), transcript variant X1, mRNA
+61522. PREDICTED: Bos indicus interleukin 12 receptor subunit beta 2 (IL12RB2), mRNA
+61523. PREDICTED: Bos indicus interleukin 6 receptor (IL6R), mRNA
+61524. PREDICTED: Bos indicus interleukin 21 receptor (IL21R), mRNA
+61525. PREDICTED: Bos indicus interleukin 32 (IL32), transcript variant X5, mRNA
+61526. PREDICTED: Bos indicus interleukin 32 (IL32), transcript variant X4, mRNA
+61527. PREDICTED: Bos indicus interleukin 32 (IL32), transcript variant X3, mRNA
+61528. PREDICTED: Bos indicus interleukin 32 (IL32), transcript variant X1, mRNA
+61529. PREDICTED: Bos indicus interleukin 27 (IL27), mRNA
+61530. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X9, mRNA
+61531. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X8, mRNA
+61532. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X7, mRNA
+61533. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X6, mRNA
+61534. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X5, mRNA
+61535. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X4, mRNA
+61536. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X3, mRNA
+61537. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X2, mRNA
+61538. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X1, mRNA
+61539. PREDICTED: Bos indicus interleukin 17F (IL17F), mRNA
+61540. PREDICTED: Bos indicus interleukin 17A (IL17A), mRNA
+61541. PREDICTED: Bos indicus interleukin 17 receptor B (IL17RB), transcript variant X4, mRNA
+61542. PREDICTED: Bos indicus interleukin 17 receptor B (IL17RB), transcript variant X3, mRNA
+61543. PREDICTED: Bos indicus interleukin 17 receptor B (IL17RB), transcript variant X2, mRNA
+61544. PREDICTED: Bos indicus interleukin 17 receptor B (IL17RB), transcript variant X1, mRNA
+61545. PREDICTED: Bos indicus interleukin 17 receptor D (IL17RD), mRNA
+61546. PREDICTED: Bos indicus interleukin 1 receptor associated kinase 2 (IRAK2), mRNA
+61547. PREDICTED: Bos indicus interleukin 17 receptor E (IL17RE), mRNA
+61548. PREDICTED: Bos indicus interleukin 17 receptor C (IL17RC), transcript variant X4, mRNA
+61549. PREDICTED: Bos indicus interleukin 17 receptor C (IL17RC), transcript variant X3, mRNA
+61550. PREDICTED: Bos indicus interleukin 17 receptor C (IL17RC), transcript variant X2, mRNA
+61551. PREDICTED: Bos indicus interleukin 17 receptor C (IL17RC), transcript variant X1, mRNA
+61552. PREDICTED: Bos indicus interleukin 5 receptor subunit alpha (IL5RA), mRNA
+61553. PREDICTED: Bos indicus interleukin 16 (IL16), transcript variant X3, mRNA
+61554. PREDICTED: Bos indicus interleukin 16 (IL16), transcript variant X2, mRNA
+61555. PREDICTED: Bos indicus interleukin 16 (IL16), transcript variant X1, mRNA
+61556. PREDICTED: Bos indicus interleukin 31 receptor A (IL31RA), mRNA
+61557. PREDICTED: Bos indicus interleukin 7 receptor (IL7R), transcript variant X2, mRNA
+61558. PREDICTED: Bos indicus interleukin 7 receptor (IL7R), transcript variant X1, mRNA
+61559. PREDICTED: Bos indicus interleukin 6 signal transducer (IL6ST), mRNA
+61560. PREDICTED: Bos indicus interleukin 22 receptor subunit alpha 1 (IL22RA1), mRNA
+61561. PREDICTED: Bos indicus interleukin 34 (IL34), mRNA
+61562. PREDICTED: Bos indicus interleukin 4 induced 1 (IL4I1), mRNA
+61563. PREDICTED: Bos indicus interleukin 15 (IL15), mRNA
+61564. PREDICTED: Bos indicus interleukin 21 (IL21), transcript variant X2, mRNA
+61565. PREDICTED: Bos indicus interleukin 21 (IL21), transcript variant X1, mRNA
+61566. PREDICTED: Bos indicus interleukin 2 (IL2), partial mRNA
+61567. PREDICTED: Bos indicus interleukin 10 (IL10), mRNA
+61568. PREDICTED: Bos indicus interleukin 19 (IL19), mRNA
+61569. PREDICTED: Bos indicus interleukin 24 (IL24), mRNA
+61570. PREDICTED: Bos indicus interleukin 20 (IL20), mRNA
+61571. PREDICTED: Bos indicus interleukin 18 (IL18), transcript variant X2, mRNA
+61572. PREDICTED: Bos indicus interleukin 18 (IL18), transcript variant X1, mRNA
+61573. PREDICTED: Bos indicus interleukin 10 receptor subunit alpha (IL10RA), mRNA
+61574. PREDICTED: Bos indicus interleukin 18 binding protein (IL18BP), mRNA
+61575. PREDICTED: Bos indicus interleukin 7 (IL7), mRNA
+61576. PREDICTED: Bos indicus interleukin 2 receptor subunit alpha (IL2RA), mRNA
+61577. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X10, mRNA
+61578. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X9, mRNA
+61579. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X8, mRNA
+61580. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X7, mRNA
+61581. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X6, mRNA
+61582. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X5, mRNA
+61583. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X4, mRNA
+61584. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X3, mRNA
+61585. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X2, mRNA
+61586. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X1, mRNA
+61587. PREDICTED: Bos indicus interleukin 17D (IL17D), mRNA
+61588. PREDICTED: Bos indicus interleukin 1 receptor antagonist (IL1RN), transcript variant X3, mRNA
+61589. PREDICTED: Bos indicus interleukin 1 receptor antagonist (IL1RN), transcript variant X2, mRNA
+61590. PREDICTED: Bos indicus interleukin 1 receptor antagonist (IL1RN), transcript variant X1, mRNA
+61591. PREDICTED: Bos indicus interleukin 1 beta (IL1B), mRNA
+61592. PREDICTED: Bos indicus interleukin 1 alpha (IL1A), mRNA
+61593. PREDICTED: Bos indicus interleukin 1 family member 10 (theta) (IL1F10), mRNA
+61594. PREDICTED: Bos indicus interleukin 36, beta (IL36B), mRNA
+61595. PREDICTED: Bos indicus interleukin 18 receptor accessory protein (IL18RAP), mRNA
+61596. PREDICTED: Bos indicus interleukin 18 receptor 1 (IL18R1), transcript variant X3, mRNA
+61597. PREDICTED: Bos indicus interleukin 18 receptor 1 (IL18R1), transcript variant X2, mRNA
+61598. PREDICTED: Bos indicus interleukin 18 receptor 1 (IL18R1), transcript variant X1, mRNA
+61599. PREDICTED: Bos indicus interleukin 1 receptor like 1 (IL1RL1), transcript variant X4, mRNA
+61600. PREDICTED: Bos indicus interleukin 1 receptor like 1 (IL1RL1), transcript variant X3, mRNA
+61601. PREDICTED: Bos indicus interleukin 1 receptor like 1 (IL1RL1), transcript variant X2, mRNA
+61602. PREDICTED: Bos indicus interleukin 1 receptor like 1 (IL1RL1), transcript variant X1, mRNA
+61603. PREDICTED: Bos indicus interleukin 1 receptor type 2 (IL1R2), transcript variant X2, mRNA
+61604. PREDICTED: Bos indicus interleukin 1 receptor type 2 (IL1R2), transcript variant X1, mRNA
+61605. PREDICTED: Bos indicus interleukin 37 (IL37), transcript variant X4, mRNA
+61606. PREDICTED: Bos indicus interleukin 37 (IL37), transcript variant X3, mRNA
+61607. PREDICTED: Bos indicus interleukin 37 (IL37), transcript variant X2, mRNA
+61608. PREDICTED: Bos indicus interleukin 37 (IL37), transcript variant X1, mRNA
+61609. PREDICTED: Bos indicus interleukin 36 receptor antagonist (IL36RN), mRNA
+61610. PREDICTED: Bos indicus interleukin 1 receptor like 2 (IL1RL2), mRNA
+61611. PREDICTED: Bos indicus interleukin 36, gamma (IL36G), mRNA
+61612. PREDICTED: Bos indicus interleukin 1 receptor type 1 (IL1R1), mRNA
+61613. PREDICTED: Bos indicus interleukin 25 (IL25), mRNA
+61614. PREDICTED: Bos indicus interleukin 12A (IL12A), mRNA
+61615. PREDICTED: Bos indicus interleukin 20 receptor subunit beta (IL20RB), mRNA
+61616. PREDICTED: Bos indicus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X2, mRNA
+61617. PREDICTED: Bos indicus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X1, mRNA
+61618. PREDICTED: Bos indicus interleukin 10 receptor subunit beta (IL10RB), transcript variant X2, mRNA
+61619. PREDICTED: Bos indicus interleukin 10 receptor subunit beta (IL10RB), transcript variant X1, mRNA
+1000. Bos indicus isolate NDRI-1392 interleukin 8 gene, exon 2 and partial cds
+1001. Bos indicus isolate NDRI-1590 interleukin 8 gene, exon 1 and partial cds
+1002. Bos indicus interleukin 8 (IL8) gene, intron 2, exon 3, intron 3 and partial cds
+1010. Bos indicus clone IL13Thr8bB interleukin 13 (IL13) gene, partial cds
+1011. Bos indicus clone IL13Thr8bA interleukin 13 (IL13) gene, partial cds
+1012. Bos indicus clone IL13Thr3bB interleukin 13 (IL13) gene, partial cds
+1013. Bos indicus clone IL13Thr3bA interleukin 13 (IL13) gene, partial cds
+1014. Bos indicus clone IL13Thr10bB interleukin 13 (IL13) gene, partial cds
+1015. Bos indicus clone IL13Thr10bA interleukin 13 (IL13) gene, partial cds
+1016. Bos indicus clone IL13Sah6aB interleukin 13 (IL13) gene, partial cds
+1017. Bos indicus clone IL13Sah6aA interleukin 13 (IL13) gene, partial cds
+1018. Bos indicus clone IL13Sah11aB interleukin 13 (IL13) gene, partial cds
+1019. Bos indicus clone IL13Sah11aA interleukin 13 (IL13) gene, partial cds
+1020. Bos indicus clone IL13Sah10aB interleukin 13 (IL13) gene, partial cds
+1021. Bos indicus clone IL13Sah10aA interleukin 13 (IL13) gene, partial cds
+1022. Bos indicus clone IL13Ong6B interleukin 13 (IL13) gene, partial cds
+1023. Bos indicus clone IL13Ong6A interleukin 13 (IL13) gene, partial cds
+1024. Bos indicus clone IL13Ong26B interleukin 13 (IL13) gene, partial cds
+1025. Bos indicus clone IL13Ong26A interleukin 13 (IL13) gene, partial cds
+1026. Bos indicus clone IL13Har8aB interleukin 13 (IL13) gene, partial cds
+1027. Bos indicus clone IL13Har8aA interleukin 13 (IL13) gene, partial cds
+1028. Bos indicus clone IL13Har5aB interleukin 13 (IL13) gene, partial cds
+1029. Bos indicus clone IL13Har5aA interleukin 13 (IL13) gene, partial cds
+1030. Bos indicus clone IL13Har10aB interleukin 13 (IL13) gene, partial cds
+1031. Bos indicus clone IL13Har10aA interleukin 13 (IL13) gene, partial cds
+1051. Bos indicus cross breed of Holstein Friesian and Bos indicus interleukin 8 receptor (IL8RB) gene, partial cds
+1052. Bos indicus breed Kankrej interleukin 8 receptor (IL8RB) gene, partial cds
+1053. Bos indicus breed Red Sindhi interleukin 8 receptor (IL8RB) gene, partial cds
+1054. Bos indicus breed Sahiwal interleukin 8 receptor (IL8RB) gene, partial cds
+1055. Bos indicus breed Gir interleukin 8 receptor (IL8RB) gene, partial cds
+1204. Bos indicus breed Gir clone 8 interleukin 10 receptor beta mRNA, complete cds
+1205. Bos indicus breed Gir clone 2 interleukin 10 receptor beta mRNA, complete cds
+1206. Bos indicus breed Gir clone 1 interleukin 10 receptor beta mRNA, complete cds
+1207. Bos indicus x Bos taurus breed Karan Friesian clone 5 interleukin 10 receptor beta mRNA, complete cds
+1208. Bos indicus breed Tharparkar clone 7 interleukin 10 receptor beta mRNA, complete cds
+1845. Bos indicus breed Sahiwal interleukin 8 (IL8) gene, exon 1, intron 1, 5' UTR and partial cds
+1967. Bos indicus breed Sahiwal interleukin 8 (IL8) gene, partial cds
+1968. Bos indicus breed Sahiwal interleukin 8 (IL8) gene, exon 1 and partial cds
+2494. Bos indicus interleukin 2 mRNA, partial cds
+2577. Bos taurus x Bos indicus interleukin 2 (IL-2) gene, IL-2-C allele, exon 4 and partial cds
+2578. Bos taurus x Bos indicus interleukin 2 (IL-2) gene, IL-2-B allele, exon 4 and partial cds
+2579. Bos taurus x Bos indicus interleukin 2 (IL-2) gene, IL-2-A allele, exon 4 and partial cds
+2580. Bos taurus x Bos indicus interleukin 2 (IL-2) gene, IL-2-B allele, exon 3 and partial cds
+2581. Bos taurus x Bos indicus interleukin 2 (IL-2) gene, IL-2-A allele, exon 3 and partial cds
+2582. Bos taurus x Bos indicus interleukin 2 (IL-2) gene, IL-2-A allele, exons 1, 2 and partial cds
+2707. Bos indicus breed Vrindavani interleukin 8 (IL8) gene, partial cds
+2708. Bos indicus breed Vrindavani interleukin 8 (IL8) gene, IL8-A allele, exon 3 and partial cds
+2709. Bos indicus breed Vrindavani interleukin 8 (IL8) gene, IL8-B allele, exon 3 and partial cds
+2710. Bos indicus breed Vrindavani interleukin 8 (IL8) gene, partial cds
+3589. Bos indicus isolate Ong6-B interleukin 5 (IL5) gene, complete cds
+3590. Bos indicus isolate Ong6-A interleukin 5 (IL5) gene, complete cds
+3591. Bos indicus isolate Har8a-B interleukin 5 (IL5) gene, complete cds
+3592. Bos indicus isolate Har8a-A interleukin 5 (IL5) gene, complete cds
+3601. Bos indicus isolate Ong26-B interleukin 5 (IL5) gene, complete cds
+3602. Bos indicus isolate Ong26-A interleukin 5 (IL5) gene, complete cds
+3603. Bos indicus isolate Har10a-B interleukin 5 (IL5) gene, complete cds
+3604. Bos indicus isolate Har10a-A interleukin 5 (IL5) gene, complete cds
+3613. Bos indicus isolate Thr3b-B interleukin 5 (IL5) gene, complete cds
+3614. Bos indicus isolate Thr3b-A interleukin 5 (IL5) gene, complete cds
+3625. Bos indicus isolate Thr8b-B interleukin 5 (IL5) gene, complete cds
+3626. Bos indicus isolate Thr8b-A interleukin 5 (IL5) gene, complete cds
+3647. Bos indicus isolate Sah6a-B interleukin 5 (IL5) gene, complete cds
+3648. Bos indicus isolate Sah6a-A interleukin 5 (IL5) gene, complete cds
+3659. Bos indicus isolate Sah10a-B interleukin 5 (IL5) gene, complete cds
+3660. Bos indicus isolate Sah10a-A interleukin 5 (IL5) gene, complete cds
+3671. Bos indicus isolate Sah11a-B interleukin 5 (IL5) gene, complete cds
+3672. Bos indicus isolate Sah11a-A interleukin 5 (IL5) gene, complete cds
+3673. Bos indicus isolate Har5a-B interleukin 5 (IL5) gene, complete cds
+3674. Bos indicus isolate Har5a-A interleukin 5 (IL5) gene, complete cds
+3748. Bos indicus clone IL2Thr8bB interleukin 2 (IL2) gene, complete cds
+3749. Bos indicus clone IL2Thr8bA interleukin 2 (IL2) gene, complete cds
+3750. Bos indicus clone IL2Thr3bB interleukin 2 (IL2) gene, complete cds
+3751. Bos indicus clone IL2Thr3bA interleukin 2 (IL2) gene, complete cds
+3752. Bos indicus clone IL2Thr10bB interleukin 2 (IL2) gene, complete cds
+3753. Bos indicus clone IL2Thr10bA interleukin 2 (IL2) gene, complete cds
+3754. Bos indicus clone IL2Sah6aB interleukin 2 (IL2) gene, complete cds
+3755. Bos indicus clone IL2Sah6aA interleukin 2 (IL2) gene, complete cds
+3756. Bos indicus clone IL2Sah11aB interleukin 2 (IL2) gene, complete cds
+3757. Bos indicus clone IL2Sah11aA interleukin 2 (IL2) gene, complete cds
+3758. Bos indicus clone IL2Sah10aB interleukin 2 (IL2) gene, complete cds
+3759. Bos indicus clone IL2Sah10aA interleukin 2 (IL2) gene, complete cds
+3760. Bos indicus clone IL2Ong6B interleukin 2 (IL2) gene, complete cds
+3761. Bos indicus clone IL2Ong6A interleukin 2 (IL2) gene, complete cds
+3762. Bos indicus clone IL2Ong26B interleukin 2 (IL2) gene, complete cds
+3763. Bos indicus clone IL2Ong26A interleukin 2 (IL2) gene, complete cds
+3764. Bos indicus clone IL2Har8aB interleukin 2 (IL2) gene, complete cds
+3765. Bos indicus clone IL2Har8aA interleukin 2 (IL2) gene, complete cds
+3766. Bos indicus clone IL2Har5aB interleukin 2 (IL2) gene, complete cds
+3767. Bos indicus clone IL2Har5aA interleukin 2 (IL2) gene, complete cds
+3768. Bos indicus clone IL2Har10aB interleukin 2 (IL2) gene, complete cds
+3769. Bos indicus clone IL2Har10aA interleukin 2 (IL2) gene, complete cds
+9022. PREDICTED: Bos indicus x Bos taurus interleukin enhancer binding factor 3 (ILF3), transcript variant X6, mRNA
+9023. PREDICTED: Bos indicus x Bos taurus interleukin enhancer binding factor 3 (ILF3), transcript variant X5, mRNA
+9024. PREDICTED: Bos indicus x Bos taurus interleukin enhancer binding factor 3 (ILF3), transcript variant X4, mRNA
+9025. PREDICTED: Bos indicus x Bos taurus interleukin enhancer binding factor 3 (ILF3), transcript variant X3, mRNA
+9026. PREDICTED: Bos indicus x Bos taurus interleukin enhancer binding factor 3 (ILF3), transcript variant X2, mRNA
+9027. PREDICTED: Bos indicus x Bos taurus interleukin enhancer binding factor 3 (ILF3), transcript variant X1, mRNA
+9028. PREDICTED: Bos indicus x Bos taurus interleukin enhancer binding factor 2 (ILF2), mRNA
+10291. Bos indicus interleukin 15 mRNA, complete cds
+10335. PREDICTED: Bos indicus interleukin enhancer binding factor 3 (ILF3), transcript variant X4, mRNA
+10336. PREDICTED: Bos indicus interleukin enhancer binding factor 3 (ILF3), transcript variant X3, mRNA
+10337. PREDICTED: Bos indicus interleukin enhancer binding factor 3 (ILF3), transcript variant X2, mRNA
+10338. PREDICTED: Bos indicus interleukin enhancer binding factor 3 (ILF3), transcript variant X1, mRNA
+10339. PREDICTED: Bos indicus interleukin enhancer binding factor 2 (ILF2), mRNA
+10793. Bos indicus breed Tharparkar interleukin 8 (IL8) mRNA, partial cds
+10794. Bos indicus x Bos taurus interleukin 8 (IL8) mRNA, partial cds
+10796. Bos indicus breed Tharparkar interleukin 1 beta (IL1B) mRNA, partial cds
+10797. Bos indicus x Bos taurus interleukin 1 beta (IL1B) mRNA, partial cds
+10799. Bos indicus breed Tharparkar interleukin 12B (IL12B) mRNA, partial cds
+10800. Bos indicus x Bos taurus interleukin 12B (IL12B) mRNA, partial cds
+10802. Bos indicus breed Tharparkar interleukin 10 (IL10) mRNA, partial cds
+10803. Bos indicus x Bos taurus interleukin 10 (IL10) mRNA, partial cds
+11767. Bos indicus interleukin 4 (IL4) mRNA, complete cds
+11921. Bos indicus interleukin 1-beta mRNA, complete cds
+12217. Bos indicus interleukin 8 (IL8) gene, 3' UTR
+12230. Bos indicus interleukin 8 (IL8) mRNA, complete cds
+14775. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X3, misc_RNA
+14776. PREDICTED: Bos indicus x Bos taurus interleukin 15 (IL15), transcript variant X2, misc_RNA
+14777. PREDICTED: Bos indicus x Bos taurus interleukin 15 (IL15), transcript variant X1, misc_RNA
+15420. PREDICTED: Bos indicus interleukin 32 (IL32), transcript variant X2, misc_RNA
+15737. Bos indicus haplotype O interleukin 2 (IL2) gene, promoter region
+15738. Bos indicus haplotype N interleukin 2 (IL2) gene, promoter region
+15739. Bos indicus haplotype M interleukin 2 (IL2) gene, promoter region
+15740. Bos indicus haplotype L interleukin 2 (IL2) gene, promoter region
+15741. Bos indicus haplotype K interleukin 2 (IL2) gene, promoter region
+15742. Bos indicus haplotype J interleukin 2 (IL2) gene, promoter region
+15743. Bos indicus haplotype I interleukin 2 (IL2) gene, promoter region
+15744. Bos indicus haplotype H interleukin 2 (IL2) gene, promoter region
+15745. Bos indicus haplotype G interleukin 2 (IL2) gene, promoter region
+15746. Bos indicus haplotype F interleukin 2 (IL2) gene, promoter region
+15747. Bos indicus haplotype E interleukin 2 (IL2) gene, promoter region
+15748. Bos indicus haplotype D interleukin 2 (IL2) gene, promoter region
+15749. Bos indicus haplotype C interleukin 2 (IL2) gene, promoter region
+15750. Bos indicus haplotype B interleukin 2 (IL2) gene, promoter region
+15751. Bos indicus haplotype A interleukin 2 (IL2) gene, promoter region
+53968. PREDICTED: Bos indicus x Bos taurus interleukin 2 receptor subunit gamma (IL2RG), transcript variant X3, mRNA
+53969. PREDICTED: Bos indicus x Bos taurus interleukin 2 receptor subunit gamma (IL2RG), transcript variant X2, mRNA
+53970. PREDICTED: Bos indicus x Bos taurus interleukin 2 receptor subunit gamma (IL2RG), transcript variant X1, mRNA
+53971. PREDICTED: Bos indicus x Bos taurus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant X3, mRNA
+53972. PREDICTED: Bos indicus x Bos taurus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant X2, mRNA
+53973. PREDICTED: Bos indicus x Bos taurus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant X1, mRNA
+53974. PREDICTED: Bos indicus x Bos taurus interleukin 3 receptor subunit alpha (IL3RA), transcript variant X2, mRNA
+53975. PREDICTED: Bos indicus x Bos taurus interleukin 3 receptor subunit alpha (IL3RA), transcript variant X1, mRNA
+53976. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein like 1 (IL1RAPL1), mRNA
+53977. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 1 (IRAK1), transcript variant X3, mRNA
+53978. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 1 (IRAK1), transcript variant X2, mRNA
+53979. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 1 (IRAK1), transcript variant X1, mRNA
+53980. PREDICTED: Bos indicus x Bos taurus interleukin 13 receptor subunit alpha 1 (IL13RA1), transcript variant X2, mRNA
+53981. PREDICTED: Bos indicus x Bos taurus interleukin 13 receptor subunit alpha 1 (IL13RA1), transcript variant X1, mRNA
+53982. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X2, mRNA
+53983. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X1, mRNA
+53984. PREDICTED: Bos indicus x Bos taurus interleukin 22 receptor subunit alpha 2 (IL22RA2), mRNA
+53985. PREDICTED: Bos indicus x Bos taurus interleukin 20 receptor subunit alpha (IL20RA), mRNA
+53986. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 1 binding protein 1 (IRAK1BP1), mRNA
+53987. PREDICTED: Bos indicus x Bos taurus nuclear factor, interleukin 3 regulated (NFIL3), transcript variant X3, mRNA
+53988. PREDICTED: Bos indicus x Bos taurus nuclear factor, interleukin 3 regulated (NFIL3), transcript variant X2, mRNA
+53989. PREDICTED: Bos indicus x Bos taurus nuclear factor, interleukin 3 regulated (NFIL3), transcript variant X1, mRNA
+53990. PREDICTED: Bos indicus x Bos taurus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X7, mRNA
+53991. PREDICTED: Bos indicus x Bos taurus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X6, mRNA
+53992. PREDICTED: Bos indicus x Bos taurus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X5, mRNA
+53993. PREDICTED: Bos indicus x Bos taurus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X4, mRNA
+53994. PREDICTED: Bos indicus x Bos taurus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X3, mRNA
+53995. PREDICTED: Bos indicus x Bos taurus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X2, mRNA
+53996. PREDICTED: Bos indicus x Bos taurus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X1, mRNA
+53997. PREDICTED: Bos indicus x Bos taurus interleukin 33 (IL33), transcript variant X2, mRNA
+53998. PREDICTED: Bos indicus x Bos taurus interleukin 33 (IL33), transcript variant X1, mRNA
+53999. PREDICTED: Bos indicus x Bos taurus interleukin 5 (IL5), mRNA
+54000. PREDICTED: Bos indicus x Bos taurus interleukin 9 (IL9), mRNA
+54001. PREDICTED: Bos indicus x Bos taurus interleukin 4 (IL4), mRNA
+54002. PREDICTED: Bos indicus x Bos taurus interleukin 12 receptor subunit beta 1 (IL12RB1), mRNA
+54003. PREDICTED: Bos indicus x Bos taurus interleukin 27 receptor subunit alpha (IL27RA), transcript variant X3, mRNA
+54004. PREDICTED: Bos indicus x Bos taurus interleukin 27 receptor subunit alpha (IL27RA), transcript variant X2, mRNA
+54005. PREDICTED: Bos indicus x Bos taurus interleukin 27 receptor subunit alpha (IL27RA), transcript variant X1, mRNA
+54006. PREDICTED: Bos indicus x Bos taurus interleukin 13 (IL13), mRNA
+54007. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X9, mRNA
+54008. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X8, mRNA
+54009. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X7, mRNA
+54010. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X6, mRNA
+54011. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X5, mRNA
+54012. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X4, mRNA
+54013. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X3, mRNA
+54014. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X2, mRNA
+54015. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X1, mRNA
+54016. PREDICTED: Bos indicus x Bos taurus interleukin 12B (IL12B), mRNA
+54017. PREDICTED: Bos indicus x Bos taurus interleukin 22 (IL22), transcript variant X2, mRNA
+54018. PREDICTED: Bos indicus x Bos taurus interleukin 22 (IL22), transcript variant X1, mRNA
+54019. PREDICTED: Bos indicus x Bos taurus interleukin 26 (IL26), mRNA
+54020. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor E like (IL17REL), mRNA
+54021. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X8, mRNA
+54022. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X7, mRNA
+54023. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X6, mRNA
+54024. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X5, mRNA
+54025. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X4, mRNA
+54026. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X2, mRNA
+54027. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X1, mRNA
+54028. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 3 (IRAK3), transcript variant X2, mRNA
+54029. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 3 (IRAK3), transcript variant X1, mRNA
+54030. PREDICTED: Bos indicus x Bos taurus interleukin 23 subunit alpha (IL23A), transcript variant X2, mRNA
+54031. PREDICTED: Bos indicus x Bos taurus interleukin 23 subunit alpha (IL23A), transcript variant X1, mRNA
+54032. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor A (IL17RA), transcript variant X3, mRNA
+54033. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor A (IL17RA), transcript variant X2, mRNA
+54034. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor A (IL17RA), transcript variant X1, mRNA
+54035. PREDICTED: Bos indicus x Bos taurus interleukin 6 (IL6), mRNA
+54036. PREDICTED: Bos indicus x Bos taurus interleukin 23 receptor (IL23R), mRNA
+54037. PREDICTED: Bos indicus x Bos taurus interleukin 12 receptor subunit beta 2 (IL12RB2), mRNA
+54038. PREDICTED: Bos indicus x Bos taurus interleukin 6 receptor (IL6R), mRNA
+54039. PREDICTED: Bos indicus x Bos taurus interleukin 21 receptor (IL21R), mRNA
+54040. PREDICTED: Bos indicus x Bos taurus interleukin 9 receptor (IL9R), transcript variant X4, mRNA
+54041. PREDICTED: Bos indicus x Bos taurus interleukin 9 receptor (IL9R), transcript variant X3, mRNA
+54042. PREDICTED: Bos indicus x Bos taurus interleukin 9 receptor (IL9R), transcript variant X2, mRNA
+54043. PREDICTED: Bos indicus x Bos taurus interleukin 9 receptor (IL9R), transcript variant X1, mRNA
+54044. PREDICTED: Bos indicus x Bos taurus interleukin 32 (IL32), transcript variant X3, mRNA
+54045. PREDICTED: Bos indicus x Bos taurus interleukin 32 (IL32), transcript variant X2, mRNA
+54046. PREDICTED: Bos indicus x Bos taurus interleukin 32 (IL32), transcript variant X1, mRNA
+54047. PREDICTED: Bos indicus x Bos taurus interleukin 27 (IL27), mRNA
+54048. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X9, mRNA
+54049. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X8, mRNA
+54050. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X7, mRNA
+54051. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X6, mRNA
+54052. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X5, mRNA
+54053. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X4, mRNA
+54054. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X3, mRNA
+54055. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X2, mRNA
+54056. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X1, mRNA
+54057. PREDICTED: Bos indicus x Bos taurus interleukin 17F (IL17F), mRNA
+54058. PREDICTED: Bos indicus x Bos taurus interleukin 17A (IL17A), mRNA
+54059. PREDICTED: Bos indicus x Bos taurus interleukin 5 receptor subunit alpha (IL5RA), mRNA
+54060. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 2 (IRAK2), transcript variant X2, mRNA
+54061. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 2 (IRAK2), transcript variant X1, mRNA
+54062. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor B (IL17RB), transcript variant X5, mRNA
+54063. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor B (IL17RB), transcript variant X4, mRNA
+54064. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor B (IL17RB), transcript variant X3, mRNA
+54065. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor B (IL17RB), transcript variant X2, mRNA
+54066. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor B (IL17RB), transcript variant X1, mRNA
+54067. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor D (IL17RD), transcript variant X2, mRNA
+54068. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor D (IL17RD), transcript variant X1, mRNA
+54069. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor E (IL17RE), transcript variant X3, mRNA
+54070. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor E (IL17RE), transcript variant X2, mRNA
+54071. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor E (IL17RE), transcript variant X1, mRNA
+54072. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X10, mRNA
+54073. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X9, mRNA
+54074. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X8, mRNA
+54075. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X7, mRNA
+54076. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X6, mRNA
+54077. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X5, mRNA
+54078. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X4, mRNA
+54079. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X3, mRNA
+54080. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X2, mRNA
+54081. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X1, mRNA
+54082. PREDICTED: Bos indicus x Bos taurus interleukin 16 (IL16), transcript variant X2, mRNA
+54083. PREDICTED: Bos indicus x Bos taurus interleukin 16 (IL16), transcript variant X1, mRNA
+54084. PREDICTED: Bos indicus x Bos taurus interleukin 6 signal transducer (IL6ST), transcript variant X2, mRNA
+54085. PREDICTED: Bos indicus x Bos taurus interleukin 6 signal transducer (IL6ST), transcript variant X1, mRNA
+54086. PREDICTED: Bos indicus x Bos taurus interleukin 31 receptor A (IL31RA), transcript variant X2, mRNA
+54087. PREDICTED: Bos indicus x Bos taurus interleukin 31 receptor A (IL31RA), transcript variant X1, mRNA
+54088. PREDICTED: Bos indicus x Bos taurus interleukin 7 receptor (IL7R), mRNA
+54089. PREDICTED: Bos indicus x Bos taurus interleukin 22 receptor subunit alpha 1 (IL22RA1), mRNA
+54090. PREDICTED: Bos indicus x Bos taurus interleukin 4 induced 1 (IL4I1), mRNA
+54091. PREDICTED: Bos indicus x Bos taurus interleukin 11 (IL11), mRNA
+54092. PREDICTED: Bos indicus x Bos taurus interleukin 17C (IL17C), partial mRNA
+54093. PREDICTED: Bos indicus x Bos taurus interleukin 2 (IL2), mRNA
+54094. PREDICTED: Bos indicus x Bos taurus interleukin 15 (IL15), transcript variant X4, mRNA
+54095. PREDICTED: Bos indicus x Bos taurus interleukin 15 (IL15), transcript variant X3, mRNA
+54096. PREDICTED: Bos indicus x Bos taurus LIF, interleukin 6 family cytokine (LIF), mRNA
+54097. PREDICTED: Bos indicus x Bos taurus interleukin 21 (IL21), mRNA
+54098. PREDICTED: Bos indicus x Bos taurus interleukin 24 (IL24), mRNA
+54099. PREDICTED: Bos indicus x Bos taurus interleukin 20 (IL20), mRNA
+54100. PREDICTED: Bos indicus x Bos taurus interleukin 19 (IL19), transcript variant X2, mRNA
+54101. PREDICTED: Bos indicus x Bos taurus interleukin 19 (IL19), transcript variant X1, mRNA
+54102. PREDICTED: Bos indicus x Bos taurus interleukin 10 (IL10), mRNA
+54103. PREDICTED: Bos indicus x Bos taurus interleukin 18 (IL18), transcript variant X2, mRNA
+54104. PREDICTED: Bos indicus x Bos taurus interleukin 18 (IL18), transcript variant X1, mRNA
+54105. PREDICTED: Bos indicus x Bos taurus interleukin 10 receptor subunit alpha (IL10RA), mRNA
+54106. PREDICTED: Bos indicus x Bos taurus interleukin 18 binding protein (IL18BP), mRNA
+54107. PREDICTED: Bos indicus x Bos taurus interleukin 7 (IL7), mRNA
+54108. PREDICTED: Bos indicus x Bos taurus interleukin 2 receptor subunit alpha (IL2RA), mRNA
+54109. PREDICTED: Bos indicus x Bos taurus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X6, mRNA
+54110. PREDICTED: Bos indicus x Bos taurus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X5, mRNA
+54111. PREDICTED: Bos indicus x Bos taurus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X4, mRNA
+54112. PREDICTED: Bos indicus x Bos taurus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X3, mRNA
+54113. PREDICTED: Bos indicus x Bos taurus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X2, mRNA
+54114. PREDICTED: Bos indicus x Bos taurus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X1, mRNA
+54115. PREDICTED: Bos indicus x Bos taurus interleukin 17D (IL17D), mRNA
+54116. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor antagonist (IL1RN), transcript variant X3, mRNA
+54117. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor antagonist (IL1RN), transcript variant X2, mRNA
+54118. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor antagonist (IL1RN), transcript variant X1, mRNA
+54119. PREDICTED: Bos indicus x Bos taurus interleukin 1 beta (IL1B), mRNA
+54120. PREDICTED: Bos indicus x Bos taurus interleukin 1 alpha (IL1A), mRNA
+54121. PREDICTED: Bos indicus x Bos taurus interleukin 18 receptor accessory protein (IL18RAP), mRNA
+54122. PREDICTED: Bos indicus x Bos taurus interleukin 18 receptor 1 (IL18R1), mRNA
+54123. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor like 1 (IL1RL1), transcript variant X6, mRNA
+54124. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor like 1 (IL1RL1), transcript variant X5, mRNA
+54125. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor like 1 (IL1RL1), transcript variant X4, mRNA
+54126. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor like 1 (IL1RL1), transcript variant X3, mRNA
+54127. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor like 1 (IL1RL1), transcript variant X2, mRNA
+54128. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor like 1 (IL1RL1), transcript variant X1, mRNA
+54129. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor like 2 (IL1RL2), mRNA
+54130. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X11, mRNA
+54131. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X10, mRNA
+54132. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X9, mRNA
+54133. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X8, mRNA
+54134. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X7, mRNA
+54135. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X6, mRNA
+54136. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X5, mRNA
+54137. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X4, mRNA
+54138. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X3, mRNA
+54139. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X2, mRNA
+54140. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X1, mRNA
+54141. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 2 (IL1R2), transcript variant X2, mRNA
+54142. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 2 (IL1R2), transcript variant X1, mRNA
+54143. PREDICTED: Bos indicus x Bos taurus interleukin 36 gamma (IL36G), mRNA
+54144. PREDICTED: Bos indicus x Bos taurus interleukin 1 family member 10 (IL1F10), mRNA
+54145. PREDICTED: Bos indicus x Bos taurus interleukin 36 receptor antagonist (IL36RN), mRNA
+54146. PREDICTED: Bos indicus x Bos taurus interleukin 36 beta (IL36B), mRNA
+54147. PREDICTED: Bos indicus x Bos taurus interleukin 37 (IL37), transcript variant X3, mRNA
+54148. PREDICTED: Bos indicus x Bos taurus interleukin 37 (IL37), transcript variant X2, mRNA
+54149. PREDICTED: Bos indicus x Bos taurus interleukin 37 (IL37), transcript variant X1, mRNA
+54150. PREDICTED: Bos indicus x Bos taurus interleukin 25 (IL25), mRNA
+54151. PREDICTED: Bos indicus x Bos taurus interleukin 20 receptor subunit beta (IL20RB), mRNA
+54152. PREDICTED: Bos indicus x Bos taurus interleukin 12A (IL12A), mRNA
+54153. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X7, mRNA
+54154. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X6, mRNA
+54155. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X5, mRNA
+54156. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X4, mRNA
+54157. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X3, mRNA
+54158. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X2, mRNA
+54159. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X1, mRNA
+54160. PREDICTED: Bos indicus x Bos taurus interleukin 10 receptor subunit beta (IL10RB), transcript variant X2, mRNA
+54161. PREDICTED: Bos indicus x Bos taurus interleukin 10 receptor subunit beta (IL10RB), transcript variant X1, mRNA
+61484. PREDICTED: Bos indicus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), mRNA
+61485. PREDICTED: Bos indicus interleukin 1 receptor associated kinase 1 (IRAK1), mRNA
+61486. PREDICTED: Bos indicus interleukin 2 receptor subunit gamma (IL2RG), mRNA
+61487. PREDICTED: Bos indicus interleukin 20 receptor subunit alpha (IL20RA), mRNA
+61488. PREDICTED: Bos indicus interleukin 1 receptor associated kinase 1 binding protein 1 (IRAK1BP1), mRNA
+61489. PREDICTED: Bos indicus interleukin 22 receptor subunit alpha 2 (IL22RA2), mRNA
+61490. PREDICTED: Bos indicus nuclear factor, interleukin 3 regulated (NFIL3), transcript variant X3, mRNA
+61491. PREDICTED: Bos indicus nuclear factor, interleukin 3 regulated (NFIL3), transcript variant X2, mRNA
+61492. PREDICTED: Bos indicus nuclear factor, interleukin 3 regulated (NFIL3), transcript variant X1, mRNA
+61493. PREDICTED: Bos indicus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X4, mRNA
+61494. PREDICTED: Bos indicus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X3, mRNA
+61495. PREDICTED: Bos indicus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X2, mRNA
+61496. PREDICTED: Bos indicus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X1, mRNA
+61497. PREDICTED: Bos indicus interleukin 33 (IL33), mRNA
+61498. PREDICTED: Bos indicus interleukin 17B (IL17B), transcript variant X4, mRNA
+61499. PREDICTED: Bos indicus interleukin 17B (IL17B), transcript variant X3, mRNA
+61500. PREDICTED: Bos indicus interleukin 17B (IL17B), transcript variant X2, mRNA
+61501. PREDICTED: Bos indicus interleukin 17B (IL17B), transcript variant X1, mRNA
+61502. PREDICTED: Bos indicus interleukin 12 receptor subunit beta 1 (IL12RB1), transcript variant X2, mRNA
+61503. PREDICTED: Bos indicus interleukin 12 receptor subunit beta 1 (IL12RB1), transcript variant X1, mRNA
+61504. PREDICTED: Bos indicus interleukin 12B (IL12B), mRNA
+61505. PREDICTED: Bos indicus interleukin 5 (IL5), mRNA
+61506. PREDICTED: Bos indicus interleukin 13 (IL13), mRNA
+61507. PREDICTED: Bos indicus interleukin 4 (IL4), mRNA
+61508. PREDICTED: Bos indicus interleukin 9 (IL9), mRNA
+61509. PREDICTED: Bos indicus interleukin 27 receptor subunit alpha (IL27RA), mRNA
+61510. PREDICTED: Bos indicus interleukin 2 receptor subunit beta (IL2RB), mRNA
+61511. PREDICTED: Bos indicus interleukin 23 subunit alpha (IL23A), mRNA
+61512. PREDICTED: Bos indicus interleukin 1 receptor associated kinase 3 (IRAK3), transcript variant X2, mRNA
+61513. PREDICTED: Bos indicus interleukin 1 receptor associated kinase 3 (IRAK3), transcript variant X1, mRNA
+61514. PREDICTED: Bos indicus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X2, mRNA
+61515. PREDICTED: Bos indicus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X1, mRNA
+61516. PREDICTED: Bos indicus interleukin 26 (IL26), mRNA
+61517. PREDICTED: Bos indicus interleukin 22 (IL22), mRNA
+61518. PREDICTED: Bos indicus interleukin 17 receptor A (IL17RA), mRNA
+61519. PREDICTED: Bos indicus interleukin 6 (IL6), mRNA
+61520. PREDICTED: Bos indicus interleukin 23 receptor (IL23R), transcript variant X2, mRNA
+61521. PREDICTED: Bos indicus interleukin 23 receptor (IL23R), transcript variant X1, mRNA
+61522. PREDICTED: Bos indicus interleukin 12 receptor subunit beta 2 (IL12RB2), mRNA
+61523. PREDICTED: Bos indicus interleukin 6 receptor (IL6R), mRNA
+61524. PREDICTED: Bos indicus interleukin 21 receptor (IL21R), mRNA
+61525. PREDICTED: Bos indicus interleukin 32 (IL32), transcript variant X5, mRNA
+61526. PREDICTED: Bos indicus interleukin 32 (IL32), transcript variant X4, mRNA
+61527. PREDICTED: Bos indicus interleukin 32 (IL32), transcript variant X3, mRNA
+61528. PREDICTED: Bos indicus interleukin 32 (IL32), transcript variant X1, mRNA
+61529. PREDICTED: Bos indicus interleukin 27 (IL27), mRNA
+61530. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X9, mRNA
+61531. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X8, mRNA
+61532. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X7, mRNA
+61533. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X6, mRNA
+61534. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X5, mRNA
+61535. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X4, mRNA
+61536. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X3, mRNA
+61537. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X2, mRNA
+61538. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X1, mRNA
+61539. PREDICTED: Bos indicus interleukin 17F (IL17F), mRNA
+61540. PREDICTED: Bos indicus interleukin 17A (IL17A), mRNA
+61541. PREDICTED: Bos indicus interleukin 17 receptor B (IL17RB), transcript variant X4, mRNA
+61542. PREDICTED: Bos indicus interleukin 17 receptor B (IL17RB), transcript variant X3, mRNA
+61543. PREDICTED: Bos indicus interleukin 17 receptor B (IL17RB), transcript variant X2, mRNA
+61544. PREDICTED: Bos indicus interleukin 17 receptor B (IL17RB), transcript variant X1, mRNA
+61545. PREDICTED: Bos indicus interleukin 17 receptor D (IL17RD), mRNA
+61546. PREDICTED: Bos indicus interleukin 1 receptor associated kinase 2 (IRAK2), mRNA
+61547. PREDICTED: Bos indicus interleukin 17 receptor E (IL17RE), mRNA
+61548. PREDICTED: Bos indicus interleukin 17 receptor C (IL17RC), transcript variant X4, mRNA
+61549. PREDICTED: Bos indicus interleukin 17 receptor C (IL17RC), transcript variant X3, mRNA
+61550. PREDICTED: Bos indicus interleukin 17 receptor C (IL17RC), transcript variant X2, mRNA
+61551. PREDICTED: Bos indicus interleukin 17 receptor C (IL17RC), transcript variant X1, mRNA
+61552. PREDICTED: Bos indicus interleukin 5 receptor subunit alpha (IL5RA), mRNA
+61553. PREDICTED: Bos indicus interleukin 16 (IL16), transcript variant X3, mRNA
+61554. PREDICTED: Bos indicus interleukin 16 (IL16), transcript variant X2, mRNA
+61555. PREDICTED: Bos indicus interleukin 16 (IL16), transcript variant X1, mRNA
+61556. PREDICTED: Bos indicus interleukin 31 receptor A (IL31RA), mRNA
+61557. PREDICTED: Bos indicus interleukin 7 receptor (IL7R), transcript variant X2, mRNA
+61558. PREDICTED: Bos indicus interleukin 7 receptor (IL7R), transcript variant X1, mRNA
+61559. PREDICTED: Bos indicus interleukin 6 signal transducer (IL6ST), mRNA
+61560. PREDICTED: Bos indicus interleukin 22 receptor subunit alpha 1 (IL22RA1), mRNA
+61561. PREDICTED: Bos indicus interleukin 34 (IL34), mRNA
+61562. PREDICTED: Bos indicus interleukin 4 induced 1 (IL4I1), mRNA
+61563. PREDICTED: Bos indicus interleukin 15 (IL15), mRNA
+61564. PREDICTED: Bos indicus interleukin 21 (IL21), transcript variant X2, mRNA
+61565. PREDICTED: Bos indicus interleukin 21 (IL21), transcript variant X1, mRNA
+61566. PREDICTED: Bos indicus interleukin 2 (IL2), partial mRNA
+61567. PREDICTED: Bos indicus interleukin 10 (IL10), mRNA
+61568. PREDICTED: Bos indicus interleukin 19 (IL19), mRNA
+61569. PREDICTED: Bos indicus interleukin 24 (IL24), mRNA
+61570. PREDICTED: Bos indicus interleukin 20 (IL20), mRNA
+61571. PREDICTED: Bos indicus interleukin 18 (IL18), transcript variant X2, mRNA
+61572. PREDICTED: Bos indicus interleukin 18 (IL18), transcript variant X1, mRNA
+61573. PREDICTED: Bos indicus interleukin 10 receptor subunit alpha (IL10RA), mRNA
+61574. PREDICTED: Bos indicus interleukin 18 binding protein (IL18BP), mRNA
+61575. PREDICTED: Bos indicus interleukin 7 (IL7), mRNA
+61576. PREDICTED: Bos indicus interleukin 2 receptor subunit alpha (IL2RA), mRNA
+61577. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X10, mRNA
+61578. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X9, mRNA
+61579. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X8, mRNA
+61580. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X7, mRNA
+61581. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X6, mRNA
+61582. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X5, mRNA
+61583. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X4, mRNA
+61584. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X3, mRNA
+61585. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X2, mRNA
+61586. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X1, mRNA
+61587. PREDICTED: Bos indicus interleukin 17D (IL17D), mRNA
+61588. PREDICTED: Bos indicus interleukin 1 receptor antagonist (IL1RN), transcript variant X3, mRNA
+61589. PREDICTED: Bos indicus interleukin 1 receptor antagonist (IL1RN), transcript variant X2, mRNA
+61590. PREDICTED: Bos indicus interleukin 1 receptor antagonist (IL1RN), transcript variant X1, mRNA
+61591. PREDICTED: Bos indicus interleukin 1 beta (IL1B), mRNA
+61592. PREDICTED: Bos indicus interleukin 1 alpha (IL1A), mRNA
+61593. PREDICTED: Bos indicus interleukin 1 family member 10 (theta) (IL1F10), mRNA
+61594. PREDICTED: Bos indicus interleukin 36, beta (IL36B), mRNA
+61595. PREDICTED: Bos indicus interleukin 18 receptor accessory protein (IL18RAP), mRNA
+61596. PREDICTED: Bos indicus interleukin 18 receptor 1 (IL18R1), transcript variant X3, mRNA
+61597. PREDICTED: Bos indicus interleukin 18 receptor 1 (IL18R1), transcript variant X2, mRNA
+61598. PREDICTED: Bos indicus interleukin 18 receptor 1 (IL18R1), transcript variant X1, mRNA
+61599. PREDICTED: Bos indicus interleukin 1 receptor like 1 (IL1RL1), transcript variant X4, mRNA
+61600. PREDICTED: Bos indicus interleukin 1 receptor like 1 (IL1RL1), transcript variant X3, mRNA
+61601. PREDICTED: Bos indicus interleukin 1 receptor like 1 (IL1RL1), transcript variant X2, mRNA
+61602. PREDICTED: Bos indicus interleukin 1 receptor like 1 (IL1RL1), transcript variant X1, mRNA
+61603. PREDICTED: Bos indicus interleukin 1 receptor type 2 (IL1R2), transcript variant X2, mRNA
+61604. PREDICTED: Bos indicus interleukin 1 receptor type 2 (IL1R2), transcript variant X1, mRNA
+61605. PREDICTED: Bos indicus interleukin 37 (IL37), transcript variant X4, mRNA
+61606. PREDICTED: Bos indicus interleukin 37 (IL37), transcript variant X3, mRNA
+61607. PREDICTED: Bos indicus interleukin 37 (IL37), transcript variant X2, mRNA
+61608. PREDICTED: Bos indicus interleukin 37 (IL37), transcript variant X1, mRNA
+61609. PREDICTED: Bos indicus interleukin 36 receptor antagonist (IL36RN), mRNA
+61610. PREDICTED: Bos indicus interleukin 1 receptor like 2 (IL1RL2), mRNA
+61611. PREDICTED: Bos indicus interleukin 36, gamma (IL36G), mRNA
+61612. PREDICTED: Bos indicus interleukin 1 receptor type 1 (IL1R1), mRNA
+61613. PREDICTED: Bos indicus interleukin 25 (IL25), mRNA
+61614. PREDICTED: Bos indicus interleukin 12A (IL12A), mRNA
+61615. PREDICTED: Bos indicus interleukin 20 receptor subunit beta (IL20RB), mRNA
+61616. PREDICTED: Bos indicus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X2, mRNA
+61617. PREDICTED: Bos indicus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X1, mRNA
+61618. PREDICTED: Bos indicus interleukin 10 receptor subunit beta (IL10RB), transcript variant X2, mRNA
+61619. PREDICTED: Bos indicus interleukin 10 receptor subunit beta (IL10RB), transcript variant X1, mRNA
+1000. Bos indicus isolate NDRI-1392 interleukin 8 gene, exon 2 and partial cds
+1001. Bos indicus isolate NDRI-1590 interleukin 8 gene, exon 1 and partial cds
+1002. Bos indicus interleukin 8 (IL8) gene, intron 2, exon 3, intron 3 and partial cds
+1010. Bos indicus clone IL13Thr8bB interleukin 13 (IL13) gene, partial cds
+1011. Bos indicus clone IL13Thr8bA interleukin 13 (IL13) gene, partial cds
+1012. Bos indicus clone IL13Thr3bB interleukin 13 (IL13) gene, partial cds
+1013. Bos indicus clone IL13Thr3bA interleukin 13 (IL13) gene, partial cds
+1014. Bos indicus clone IL13Thr10bB interleukin 13 (IL13) gene, partial cds
+1015. Bos indicus clone IL13Thr10bA interleukin 13 (IL13) gene, partial cds
+1016. Bos indicus clone IL13Sah6aB interleukin 13 (IL13) gene, partial cds
+1017. Bos indicus clone IL13Sah6aA interleukin 13 (IL13) gene, partial cds
+1018. Bos indicus clone IL13Sah11aB interleukin 13 (IL13) gene, partial cds
+1019. Bos indicus clone IL13Sah11aA interleukin 13 (IL13) gene, partial cds
+1020. Bos indicus clone IL13Sah10aB interleukin 13 (IL13) gene, partial cds
+1021. Bos indicus clone IL13Sah10aA interleukin 13 (IL13) gene, partial cds
+1022. Bos indicus clone IL13Ong6B interleukin 13 (IL13) gene, partial cds
+1023. Bos indicus clone IL13Ong6A interleukin 13 (IL13) gene, partial cds
+1024. Bos indicus clone IL13Ong26B interleukin 13 (IL13) gene, partial cds
+1025. Bos indicus clone IL13Ong26A interleukin 13 (IL13) gene, partial cds
+1026. Bos indicus clone IL13Har8aB interleukin 13 (IL13) gene, partial cds
+1027. Bos indicus clone IL13Har8aA interleukin 13 (IL13) gene, partial cds
+1028. Bos indicus clone IL13Har5aB interleukin 13 (IL13) gene, partial cds
+1029. Bos indicus clone IL13Har5aA interleukin 13 (IL13) gene, partial cds
+1030. Bos indicus clone IL13Har10aB interleukin 13 (IL13) gene, partial cds
+1031. Bos indicus clone IL13Har10aA interleukin 13 (IL13) gene, partial cds
+1051. Bos indicus cross breed of Holstein Friesian and Bos indicus interleukin 8 receptor (IL8RB) gene, partial cds
+1052. Bos indicus breed Kankrej interleukin 8 receptor (IL8RB) gene, partial cds
+1053. Bos indicus breed Red Sindhi interleukin 8 receptor (IL8RB) gene, partial cds
+1054. Bos indicus breed Sahiwal interleukin 8 receptor (IL8RB) gene, partial cds
+1055. Bos indicus breed Gir interleukin 8 receptor (IL8RB) gene, partial cds
+1204. Bos indicus breed Gir clone 8 interleukin 10 receptor beta mRNA, complete cds
+1205. Bos indicus breed Gir clone 2 interleukin 10 receptor beta mRNA, complete cds
+1206. Bos indicus breed Gir clone 1 interleukin 10 receptor beta mRNA, complete cds
+1207. Bos indicus x Bos taurus breed Karan Friesian clone 5 interleukin 10 receptor beta mRNA, complete cds
+1208. Bos indicus breed Tharparkar clone 7 interleukin 10 receptor beta mRNA, complete cds
+1845. Bos indicus breed Sahiwal interleukin 8 (IL8) gene, exon 1, intron 1, 5' UTR and partial cds
+1967. Bos indicus breed Sahiwal interleukin 8 (IL8) gene, partial cds
+1968. Bos indicus breed Sahiwal interleukin 8 (IL8) gene, exon 1 and partial cds
+2494. Bos indicus interleukin 2 mRNA, partial cds
+2577. Bos taurus x Bos indicus interleukin 2 (IL-2) gene, IL-2-C allele, exon 4 and partial cds
+2578. Bos taurus x Bos indicus interleukin 2 (IL-2) gene, IL-2-B allele, exon 4 and partial cds
+2579. Bos taurus x Bos indicus interleukin 2 (IL-2) gene, IL-2-A allele, exon 4 and partial cds
+2580. Bos taurus x Bos indicus interleukin 2 (IL-2) gene, IL-2-B allele, exon 3 and partial cds
+2581. Bos taurus x Bos indicus interleukin 2 (IL-2) gene, IL-2-A allele, exon 3 and partial cds
+2582. Bos taurus x Bos indicus interleukin 2 (IL-2) gene, IL-2-A allele, exons 1, 2 and partial cds
+2707. Bos indicus breed Vrindavani interleukin 8 (IL8) gene, partial cds
+2708. Bos indicus breed Vrindavani interleukin 8 (IL8) gene, IL8-A allele, exon 3 and partial cds
+2709. Bos indicus breed Vrindavani interleukin 8 (IL8) gene, IL8-B allele, exon 3 and partial cds
+2710. Bos indicus breed Vrindavani interleukin 8 (IL8) gene, partial cds
+3589. Bos indicus isolate Ong6-B interleukin 5 (IL5) gene, complete cds
+3590. Bos indicus isolate Ong6-A interleukin 5 (IL5) gene, complete cds
+3591. Bos indicus isolate Har8a-B interleukin 5 (IL5) gene, complete cds
+3592. Bos indicus isolate Har8a-A interleukin 5 (IL5) gene, complete cds
+3601. Bos indicus isolate Ong26-B interleukin 5 (IL5) gene, complete cds
+3602. Bos indicus isolate Ong26-A interleukin 5 (IL5) gene, complete cds
+3603. Bos indicus isolate Har10a-B interleukin 5 (IL5) gene, complete cds
+3604. Bos indicus isolate Har10a-A interleukin 5 (IL5) gene, complete cds
+3613. Bos indicus isolate Thr3b-B interleukin 5 (IL5) gene, complete cds
+3614. Bos indicus isolate Thr3b-A interleukin 5 (IL5) gene, complete cds
+3625. Bos indicus isolate Thr8b-B interleukin 5 (IL5) gene, complete cds
+3626. Bos indicus isolate Thr8b-A interleukin 5 (IL5) gene, complete cds
+3647. Bos indicus isolate Sah6a-B interleukin 5 (IL5) gene, complete cds
+3648. Bos indicus isolate Sah6a-A interleukin 5 (IL5) gene, complete cds
+3659. Bos indicus isolate Sah10a-B interleukin 5 (IL5) gene, complete cds
+3660. Bos indicus isolate Sah10a-A interleukin 5 (IL5) gene, complete cds
+3671. Bos indicus isolate Sah11a-B interleukin 5 (IL5) gene, complete cds
+3672. Bos indicus isolate Sah11a-A interleukin 5 (IL5) gene, complete cds
+3673. Bos indicus isolate Har5a-B interleukin 5 (IL5) gene, complete cds
+3674. Bos indicus isolate Har5a-A interleukin 5 (IL5) gene, complete cds
+3748. Bos indicus clone IL2Thr8bB interleukin 2 (IL2) gene, complete cds
+3749. Bos indicus clone IL2Thr8bA interleukin 2 (IL2) gene, complete cds
+3750. Bos indicus clone IL2Thr3bB interleukin 2 (IL2) gene, complete cds
+3751. Bos indicus clone IL2Thr3bA interleukin 2 (IL2) gene, complete cds
+3752. Bos indicus clone IL2Thr10bB interleukin 2 (IL2) gene, complete cds
+3753. Bos indicus clone IL2Thr10bA interleukin 2 (IL2) gene, complete cds
+3754. Bos indicus clone IL2Sah6aB interleukin 2 (IL2) gene, complete cds
+3755. Bos indicus clone IL2Sah6aA interleukin 2 (IL2) gene, complete cds
+3756. Bos indicus clone IL2Sah11aB interleukin 2 (IL2) gene, complete cds
+3757. Bos indicus clone IL2Sah11aA interleukin 2 (IL2) gene, complete cds
+3758. Bos indicus clone IL2Sah10aB interleukin 2 (IL2) gene, complete cds
+3759. Bos indicus clone IL2Sah10aA interleukin 2 (IL2) gene, complete cds
+3760. Bos indicus clone IL2Ong6B interleukin 2 (IL2) gene, complete cds
+3761. Bos indicus clone IL2Ong6A interleukin 2 (IL2) gene, complete cds
+3762. Bos indicus clone IL2Ong26B interleukin 2 (IL2) gene, complete cds
+3763. Bos indicus clone IL2Ong26A interleukin 2 (IL2) gene, complete cds
+3764. Bos indicus clone IL2Har8aB interleukin 2 (IL2) gene, complete cds
+3765. Bos indicus clone IL2Har8aA interleukin 2 (IL2) gene, complete cds
+3766. Bos indicus clone IL2Har5aB interleukin 2 (IL2) gene, complete cds
+3767. Bos indicus clone IL2Har5aA interleukin 2 (IL2) gene, complete cds
+3768. Bos indicus clone IL2Har10aB interleukin 2 (IL2) gene, complete cds
+3769. Bos indicus clone IL2Har10aA interleukin 2 (IL2) gene, complete cds
+9022. PREDICTED: Bos indicus x Bos taurus interleukin enhancer binding factor 3 (ILF3), transcript variant X6, mRNA
+9023. PREDICTED: Bos indicus x Bos taurus interleukin enhancer binding factor 3 (ILF3), transcript variant X5, mRNA
+9024. PREDICTED: Bos indicus x Bos taurus interleukin enhancer binding factor 3 (ILF3), transcript variant X4, mRNA
+9025. PREDICTED: Bos indicus x Bos taurus interleukin enhancer binding factor 3 (ILF3), transcript variant X3, mRNA
+9026. PREDICTED: Bos indicus x Bos taurus interleukin enhancer binding factor 3 (ILF3), transcript variant X2, mRNA
+9027. PREDICTED: Bos indicus x Bos taurus interleukin enhancer binding factor 3 (ILF3), transcript variant X1, mRNA
+9028. PREDICTED: Bos indicus x Bos taurus interleukin enhancer binding factor 2 (ILF2), mRNA
+10291. Bos indicus interleukin 15 mRNA, complete cds
+10335. PREDICTED: Bos indicus interleukin enhancer binding factor 3 (ILF3), transcript variant X4, mRNA
+10336. PREDICTED: Bos indicus interleukin enhancer binding factor 3 (ILF3), transcript variant X3, mRNA
+10337. PREDICTED: Bos indicus interleukin enhancer binding factor 3 (ILF3), transcript variant X2, mRNA
+10338. PREDICTED: Bos indicus interleukin enhancer binding factor 3 (ILF3), transcript variant X1, mRNA
+10339. PREDICTED: Bos indicus interleukin enhancer binding factor 2 (ILF2), mRNA
+10793. Bos indicus breed Tharparkar interleukin 8 (IL8) mRNA, partial cds
+10794. Bos indicus x Bos taurus interleukin 8 (IL8) mRNA, partial cds
+10796. Bos indicus breed Tharparkar interleukin 1 beta (IL1B) mRNA, partial cds
+10797. Bos indicus x Bos taurus interleukin 1 beta (IL1B) mRNA, partial cds
+10799. Bos indicus breed Tharparkar interleukin 12B (IL12B) mRNA, partial cds
+10800. Bos indicus x Bos taurus interleukin 12B (IL12B) mRNA, partial cds
+10802. Bos indicus breed Tharparkar interleukin 10 (IL10) mRNA, partial cds
+10803. Bos indicus x Bos taurus interleukin 10 (IL10) mRNA, partial cds
+11767. Bos indicus interleukin 4 (IL4) mRNA, complete cds
+11921. Bos indicus interleukin 1-beta mRNA, complete cds
+12217. Bos indicus interleukin 8 (IL8) gene, 3' UTR
+12230. Bos indicus interleukin 8 (IL8) mRNA, complete cds
+14775. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X3, misc_RNA
+14776. PREDICTED: Bos indicus x Bos taurus interleukin 15 (IL15), transcript variant X2, misc_RNA
+14777. PREDICTED: Bos indicus x Bos taurus interleukin 15 (IL15), transcript variant X1, misc_RNA
+15420. PREDICTED: Bos indicus interleukin 32 (IL32), transcript variant X2, misc_RNA
+15737. Bos indicus haplotype O interleukin 2 (IL2) gene, promoter region
+15738. Bos indicus haplotype N interleukin 2 (IL2) gene, promoter region
+15739. Bos indicus haplotype M interleukin 2 (IL2) gene, promoter region
+15740. Bos indicus haplotype L interleukin 2 (IL2) gene, promoter region
+15741. Bos indicus haplotype K interleukin 2 (IL2) gene, promoter region
+15742. Bos indicus haplotype J interleukin 2 (IL2) gene, promoter region
+15743. Bos indicus haplotype I interleukin 2 (IL2) gene, promoter region
+15744. Bos indicus haplotype H interleukin 2 (IL2) gene, promoter region
+15745. Bos indicus haplotype G interleukin 2 (IL2) gene, promoter region
+15746. Bos indicus haplotype F interleukin 2 (IL2) gene, promoter region
+15747. Bos indicus haplotype E interleukin 2 (IL2) gene, promoter region
+15748. Bos indicus haplotype D interleukin 2 (IL2) gene, promoter region
+15749. Bos indicus haplotype C interleukin 2 (IL2) gene, promoter region
+15750. Bos indicus haplotype B interleukin 2 (IL2) gene, promoter region
+15751. Bos indicus haplotype A interleukin 2 (IL2) gene, promoter region
+53968. PREDICTED: Bos indicus x Bos taurus interleukin 2 receptor subunit gamma (IL2RG), transcript variant X3, mRNA
+53969. PREDICTED: Bos indicus x Bos taurus interleukin 2 receptor subunit gamma (IL2RG), transcript variant X2, mRNA
+53970. PREDICTED: Bos indicus x Bos taurus interleukin 2 receptor subunit gamma (IL2RG), transcript variant X1, mRNA
+53971. PREDICTED: Bos indicus x Bos taurus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant X3, mRNA
+53972. PREDICTED: Bos indicus x Bos taurus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant X2, mRNA
+53973. PREDICTED: Bos indicus x Bos taurus interleukin 13 receptor subunit alpha 2 (IL13RA2), transcript variant X1, mRNA
+53974. PREDICTED: Bos indicus x Bos taurus interleukin 3 receptor subunit alpha (IL3RA), transcript variant X2, mRNA
+53975. PREDICTED: Bos indicus x Bos taurus interleukin 3 receptor subunit alpha (IL3RA), transcript variant X1, mRNA
+53976. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein like 1 (IL1RAPL1), mRNA
+53977. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 1 (IRAK1), transcript variant X3, mRNA
+53978. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 1 (IRAK1), transcript variant X2, mRNA
+53979. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 1 (IRAK1), transcript variant X1, mRNA
+53980. PREDICTED: Bos indicus x Bos taurus interleukin 13 receptor subunit alpha 1 (IL13RA1), transcript variant X2, mRNA
+53981. PREDICTED: Bos indicus x Bos taurus interleukin 13 receptor subunit alpha 1 (IL13RA1), transcript variant X1, mRNA
+53982. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X2, mRNA
+53983. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), transcript variant X1, mRNA
+53984. PREDICTED: Bos indicus x Bos taurus interleukin 22 receptor subunit alpha 2 (IL22RA2), mRNA
+53985. PREDICTED: Bos indicus x Bos taurus interleukin 20 receptor subunit alpha (IL20RA), mRNA
+53986. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 1 binding protein 1 (IRAK1BP1), mRNA
+53987. PREDICTED: Bos indicus x Bos taurus nuclear factor, interleukin 3 regulated (NFIL3), transcript variant X3, mRNA
+53988. PREDICTED: Bos indicus x Bos taurus nuclear factor, interleukin 3 regulated (NFIL3), transcript variant X2, mRNA
+53989. PREDICTED: Bos indicus x Bos taurus nuclear factor, interleukin 3 regulated (NFIL3), transcript variant X1, mRNA
+53990. PREDICTED: Bos indicus x Bos taurus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X7, mRNA
+53991. PREDICTED: Bos indicus x Bos taurus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X6, mRNA
+53992. PREDICTED: Bos indicus x Bos taurus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X5, mRNA
+53993. PREDICTED: Bos indicus x Bos taurus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X4, mRNA
+53994. PREDICTED: Bos indicus x Bos taurus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X3, mRNA
+53995. PREDICTED: Bos indicus x Bos taurus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X2, mRNA
+53996. PREDICTED: Bos indicus x Bos taurus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X1, mRNA
+53997. PREDICTED: Bos indicus x Bos taurus interleukin 33 (IL33), transcript variant X2, mRNA
+53998. PREDICTED: Bos indicus x Bos taurus interleukin 33 (IL33), transcript variant X1, mRNA
+53999. PREDICTED: Bos indicus x Bos taurus interleukin 5 (IL5), mRNA
+54000. PREDICTED: Bos indicus x Bos taurus interleukin 9 (IL9), mRNA
+54001. PREDICTED: Bos indicus x Bos taurus interleukin 4 (IL4), mRNA
+54002. PREDICTED: Bos indicus x Bos taurus interleukin 12 receptor subunit beta 1 (IL12RB1), mRNA
+54003. PREDICTED: Bos indicus x Bos taurus interleukin 27 receptor subunit alpha (IL27RA), transcript variant X3, mRNA
+54004. PREDICTED: Bos indicus x Bos taurus interleukin 27 receptor subunit alpha (IL27RA), transcript variant X2, mRNA
+54005. PREDICTED: Bos indicus x Bos taurus interleukin 27 receptor subunit alpha (IL27RA), transcript variant X1, mRNA
+54006. PREDICTED: Bos indicus x Bos taurus interleukin 13 (IL13), mRNA
+54007. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X9, mRNA
+54008. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X8, mRNA
+54009. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X7, mRNA
+54010. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X6, mRNA
+54011. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X5, mRNA
+54012. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X4, mRNA
+54013. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X3, mRNA
+54014. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X2, mRNA
+54015. PREDICTED: Bos indicus x Bos taurus interleukin 17B (IL17B), transcript variant X1, mRNA
+54016. PREDICTED: Bos indicus x Bos taurus interleukin 12B (IL12B), mRNA
+54017. PREDICTED: Bos indicus x Bos taurus interleukin 22 (IL22), transcript variant X2, mRNA
+54018. PREDICTED: Bos indicus x Bos taurus interleukin 22 (IL22), transcript variant X1, mRNA
+54019. PREDICTED: Bos indicus x Bos taurus interleukin 26 (IL26), mRNA
+54020. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor E like (IL17REL), mRNA
+54021. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X8, mRNA
+54022. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X7, mRNA
+54023. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X6, mRNA
+54024. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X5, mRNA
+54025. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X4, mRNA
+54026. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X2, mRNA
+54027. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X1, mRNA
+54028. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 3 (IRAK3), transcript variant X2, mRNA
+54029. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 3 (IRAK3), transcript variant X1, mRNA
+54030. PREDICTED: Bos indicus x Bos taurus interleukin 23 subunit alpha (IL23A), transcript variant X2, mRNA
+54031. PREDICTED: Bos indicus x Bos taurus interleukin 23 subunit alpha (IL23A), transcript variant X1, mRNA
+54032. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor A (IL17RA), transcript variant X3, mRNA
+54033. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor A (IL17RA), transcript variant X2, mRNA
+54034. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor A (IL17RA), transcript variant X1, mRNA
+54035. PREDICTED: Bos indicus x Bos taurus interleukin 6 (IL6), mRNA
+54036. PREDICTED: Bos indicus x Bos taurus interleukin 23 receptor (IL23R), mRNA
+54037. PREDICTED: Bos indicus x Bos taurus interleukin 12 receptor subunit beta 2 (IL12RB2), mRNA
+54038. PREDICTED: Bos indicus x Bos taurus interleukin 6 receptor (IL6R), mRNA
+54039. PREDICTED: Bos indicus x Bos taurus interleukin 21 receptor (IL21R), mRNA
+54040. PREDICTED: Bos indicus x Bos taurus interleukin 9 receptor (IL9R), transcript variant X4, mRNA
+54041. PREDICTED: Bos indicus x Bos taurus interleukin 9 receptor (IL9R), transcript variant X3, mRNA
+54042. PREDICTED: Bos indicus x Bos taurus interleukin 9 receptor (IL9R), transcript variant X2, mRNA
+54043. PREDICTED: Bos indicus x Bos taurus interleukin 9 receptor (IL9R), transcript variant X1, mRNA
+54044. PREDICTED: Bos indicus x Bos taurus interleukin 32 (IL32), transcript variant X3, mRNA
+54045. PREDICTED: Bos indicus x Bos taurus interleukin 32 (IL32), transcript variant X2, mRNA
+54046. PREDICTED: Bos indicus x Bos taurus interleukin 32 (IL32), transcript variant X1, mRNA
+54047. PREDICTED: Bos indicus x Bos taurus interleukin 27 (IL27), mRNA
+54048. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X9, mRNA
+54049. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X8, mRNA
+54050. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X7, mRNA
+54051. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X6, mRNA
+54052. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X5, mRNA
+54053. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X4, mRNA
+54054. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X3, mRNA
+54055. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X2, mRNA
+54056. PREDICTED: Bos indicus x Bos taurus interleukin 4 receptor (IL4R), transcript variant X1, mRNA
+54057. PREDICTED: Bos indicus x Bos taurus interleukin 17F (IL17F), mRNA
+54058. PREDICTED: Bos indicus x Bos taurus interleukin 17A (IL17A), mRNA
+54059. PREDICTED: Bos indicus x Bos taurus interleukin 5 receptor subunit alpha (IL5RA), mRNA
+54060. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 2 (IRAK2), transcript variant X2, mRNA
+54061. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor associated kinase 2 (IRAK2), transcript variant X1, mRNA
+54062. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor B (IL17RB), transcript variant X5, mRNA
+54063. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor B (IL17RB), transcript variant X4, mRNA
+54064. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor B (IL17RB), transcript variant X3, mRNA
+54065. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor B (IL17RB), transcript variant X2, mRNA
+54066. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor B (IL17RB), transcript variant X1, mRNA
+54067. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor D (IL17RD), transcript variant X2, mRNA
+54068. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor D (IL17RD), transcript variant X1, mRNA
+54069. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor E (IL17RE), transcript variant X3, mRNA
+54070. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor E (IL17RE), transcript variant X2, mRNA
+54071. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor E (IL17RE), transcript variant X1, mRNA
+54072. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X10, mRNA
+54073. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X9, mRNA
+54074. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X8, mRNA
+54075. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X7, mRNA
+54076. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X6, mRNA
+54077. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X5, mRNA
+54078. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X4, mRNA
+54079. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X3, mRNA
+54080. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X2, mRNA
+54081. PREDICTED: Bos indicus x Bos taurus interleukin 17 receptor C (IL17RC), transcript variant X1, mRNA
+54082. PREDICTED: Bos indicus x Bos taurus interleukin 16 (IL16), transcript variant X2, mRNA
+54083. PREDICTED: Bos indicus x Bos taurus interleukin 16 (IL16), transcript variant X1, mRNA
+54084. PREDICTED: Bos indicus x Bos taurus interleukin 6 signal transducer (IL6ST), transcript variant X2, mRNA
+54085. PREDICTED: Bos indicus x Bos taurus interleukin 6 signal transducer (IL6ST), transcript variant X1, mRNA
+54086. PREDICTED: Bos indicus x Bos taurus interleukin 31 receptor A (IL31RA), transcript variant X2, mRNA
+54087. PREDICTED: Bos indicus x Bos taurus interleukin 31 receptor A (IL31RA), transcript variant X1, mRNA
+54088. PREDICTED: Bos indicus x Bos taurus interleukin 7 receptor (IL7R), mRNA
+54089. PREDICTED: Bos indicus x Bos taurus interleukin 22 receptor subunit alpha 1 (IL22RA1), mRNA
+54090. PREDICTED: Bos indicus x Bos taurus interleukin 4 induced 1 (IL4I1), mRNA
+54091. PREDICTED: Bos indicus x Bos taurus interleukin 11 (IL11), mRNA
+54092. PREDICTED: Bos indicus x Bos taurus interleukin 17C (IL17C), partial mRNA
+54093. PREDICTED: Bos indicus x Bos taurus interleukin 2 (IL2), mRNA
+54094. PREDICTED: Bos indicus x Bos taurus interleukin 15 (IL15), transcript variant X4, mRNA
+54095. PREDICTED: Bos indicus x Bos taurus interleukin 15 (IL15), transcript variant X3, mRNA
+54096. PREDICTED: Bos indicus x Bos taurus LIF, interleukin 6 family cytokine (LIF), mRNA
+54097. PREDICTED: Bos indicus x Bos taurus interleukin 21 (IL21), mRNA
+54098. PREDICTED: Bos indicus x Bos taurus interleukin 24 (IL24), mRNA
+54099. PREDICTED: Bos indicus x Bos taurus interleukin 20 (IL20), mRNA
+54100. PREDICTED: Bos indicus x Bos taurus interleukin 19 (IL19), transcript variant X2, mRNA
+54101. PREDICTED: Bos indicus x Bos taurus interleukin 19 (IL19), transcript variant X1, mRNA
+54102. PREDICTED: Bos indicus x Bos taurus interleukin 10 (IL10), mRNA
+54103. PREDICTED: Bos indicus x Bos taurus interleukin 18 (IL18), transcript variant X2, mRNA
+54104. PREDICTED: Bos indicus x Bos taurus interleukin 18 (IL18), transcript variant X1, mRNA
+54105. PREDICTED: Bos indicus x Bos taurus interleukin 10 receptor subunit alpha (IL10RA), mRNA
+54106. PREDICTED: Bos indicus x Bos taurus interleukin 18 binding protein (IL18BP), mRNA
+54107. PREDICTED: Bos indicus x Bos taurus interleukin 7 (IL7), mRNA
+54108. PREDICTED: Bos indicus x Bos taurus interleukin 2 receptor subunit alpha (IL2RA), mRNA
+54109. PREDICTED: Bos indicus x Bos taurus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X6, mRNA
+54110. PREDICTED: Bos indicus x Bos taurus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X5, mRNA
+54111. PREDICTED: Bos indicus x Bos taurus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X4, mRNA
+54112. PREDICTED: Bos indicus x Bos taurus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X3, mRNA
+54113. PREDICTED: Bos indicus x Bos taurus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X2, mRNA
+54114. PREDICTED: Bos indicus x Bos taurus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X1, mRNA
+54115. PREDICTED: Bos indicus x Bos taurus interleukin 17D (IL17D), mRNA
+54116. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor antagonist (IL1RN), transcript variant X3, mRNA
+54117. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor antagonist (IL1RN), transcript variant X2, mRNA
+54118. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor antagonist (IL1RN), transcript variant X1, mRNA
+54119. PREDICTED: Bos indicus x Bos taurus interleukin 1 beta (IL1B), mRNA
+54120. PREDICTED: Bos indicus x Bos taurus interleukin 1 alpha (IL1A), mRNA
+54121. PREDICTED: Bos indicus x Bos taurus interleukin 18 receptor accessory protein (IL18RAP), mRNA
+54122. PREDICTED: Bos indicus x Bos taurus interleukin 18 receptor 1 (IL18R1), mRNA
+54123. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor like 1 (IL1RL1), transcript variant X6, mRNA
+54124. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor like 1 (IL1RL1), transcript variant X5, mRNA
+54125. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor like 1 (IL1RL1), transcript variant X4, mRNA
+54126. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor like 1 (IL1RL1), transcript variant X3, mRNA
+54127. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor like 1 (IL1RL1), transcript variant X2, mRNA
+54128. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor like 1 (IL1RL1), transcript variant X1, mRNA
+54129. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor like 2 (IL1RL2), mRNA
+54130. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X11, mRNA
+54131. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X10, mRNA
+54132. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X9, mRNA
+54133. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X8, mRNA
+54134. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X7, mRNA
+54135. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X6, mRNA
+54136. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X5, mRNA
+54137. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X4, mRNA
+54138. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X3, mRNA
+54139. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X2, mRNA
+54140. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 1 (IL1R1), transcript variant X1, mRNA
+54141. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 2 (IL1R2), transcript variant X2, mRNA
+54142. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor type 2 (IL1R2), transcript variant X1, mRNA
+54143. PREDICTED: Bos indicus x Bos taurus interleukin 36 gamma (IL36G), mRNA
+54144. PREDICTED: Bos indicus x Bos taurus interleukin 1 family member 10 (IL1F10), mRNA
+54145. PREDICTED: Bos indicus x Bos taurus interleukin 36 receptor antagonist (IL36RN), mRNA
+54146. PREDICTED: Bos indicus x Bos taurus interleukin 36 beta (IL36B), mRNA
+54147. PREDICTED: Bos indicus x Bos taurus interleukin 37 (IL37), transcript variant X3, mRNA
+54148. PREDICTED: Bos indicus x Bos taurus interleukin 37 (IL37), transcript variant X2, mRNA
+54149. PREDICTED: Bos indicus x Bos taurus interleukin 37 (IL37), transcript variant X1, mRNA
+54150. PREDICTED: Bos indicus x Bos taurus interleukin 25 (IL25), mRNA
+54151. PREDICTED: Bos indicus x Bos taurus interleukin 20 receptor subunit beta (IL20RB), mRNA
+54152. PREDICTED: Bos indicus x Bos taurus interleukin 12A (IL12A), mRNA
+54153. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X7, mRNA
+54154. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X6, mRNA
+54155. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X5, mRNA
+54156. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X4, mRNA
+54157. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X3, mRNA
+54158. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X2, mRNA
+54159. PREDICTED: Bos indicus x Bos taurus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X1, mRNA
+54160. PREDICTED: Bos indicus x Bos taurus interleukin 10 receptor subunit beta (IL10RB), transcript variant X2, mRNA
+54161. PREDICTED: Bos indicus x Bos taurus interleukin 10 receptor subunit beta (IL10RB), transcript variant X1, mRNA
+61484. PREDICTED: Bos indicus interleukin 1 receptor accessory protein like 2 (IL1RAPL2), mRNA
+61485. PREDICTED: Bos indicus interleukin 1 receptor associated kinase 1 (IRAK1), mRNA
+61486. PREDICTED: Bos indicus interleukin 2 receptor subunit gamma (IL2RG), mRNA
+61487. PREDICTED: Bos indicus interleukin 20 receptor subunit alpha (IL20RA), mRNA
+61488. PREDICTED: Bos indicus interleukin 1 receptor associated kinase 1 binding protein 1 (IRAK1BP1), mRNA
+61489. PREDICTED: Bos indicus interleukin 22 receptor subunit alpha 2 (IL22RA2), mRNA
+61490. PREDICTED: Bos indicus nuclear factor, interleukin 3 regulated (NFIL3), transcript variant X3, mRNA
+61491. PREDICTED: Bos indicus nuclear factor, interleukin 3 regulated (NFIL3), transcript variant X2, mRNA
+61492. PREDICTED: Bos indicus nuclear factor, interleukin 3 regulated (NFIL3), transcript variant X1, mRNA
+61493. PREDICTED: Bos indicus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X4, mRNA
+61494. PREDICTED: Bos indicus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X3, mRNA
+61495. PREDICTED: Bos indicus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X2, mRNA
+61496. PREDICTED: Bos indicus interleukin 11 receptor subunit alpha (IL11RA), transcript variant X1, mRNA
+61497. PREDICTED: Bos indicus interleukin 33 (IL33), mRNA
+61498. PREDICTED: Bos indicus interleukin 17B (IL17B), transcript variant X4, mRNA
+61499. PREDICTED: Bos indicus interleukin 17B (IL17B), transcript variant X3, mRNA
+61500. PREDICTED: Bos indicus interleukin 17B (IL17B), transcript variant X2, mRNA
+61501. PREDICTED: Bos indicus interleukin 17B (IL17B), transcript variant X1, mRNA
+61502. PREDICTED: Bos indicus interleukin 12 receptor subunit beta 1 (IL12RB1), transcript variant X2, mRNA
+61503. PREDICTED: Bos indicus interleukin 12 receptor subunit beta 1 (IL12RB1), transcript variant X1, mRNA
+61504. PREDICTED: Bos indicus interleukin 12B (IL12B), mRNA
+61505. PREDICTED: Bos indicus interleukin 5 (IL5), mRNA
+61506. PREDICTED: Bos indicus interleukin 13 (IL13), mRNA
+61507. PREDICTED: Bos indicus interleukin 4 (IL4), mRNA
+61508. PREDICTED: Bos indicus interleukin 9 (IL9), mRNA
+61509. PREDICTED: Bos indicus interleukin 27 receptor subunit alpha (IL27RA), mRNA
+61510. PREDICTED: Bos indicus interleukin 2 receptor subunit beta (IL2RB), mRNA
+61511. PREDICTED: Bos indicus interleukin 23 subunit alpha (IL23A), mRNA
+61512. PREDICTED: Bos indicus interleukin 1 receptor associated kinase 3 (IRAK3), transcript variant X2, mRNA
+61513. PREDICTED: Bos indicus interleukin 1 receptor associated kinase 3 (IRAK3), transcript variant X1, mRNA
+61514. PREDICTED: Bos indicus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X2, mRNA
+61515. PREDICTED: Bos indicus interleukin 1 receptor associated kinase 4 (IRAK4), transcript variant X1, mRNA
+61516. PREDICTED: Bos indicus interleukin 26 (IL26), mRNA
+61517. PREDICTED: Bos indicus interleukin 22 (IL22), mRNA
+61518. PREDICTED: Bos indicus interleukin 17 receptor A (IL17RA), mRNA
+61519. PREDICTED: Bos indicus interleukin 6 (IL6), mRNA
+61520. PREDICTED: Bos indicus interleukin 23 receptor (IL23R), transcript variant X2, mRNA
+61521. PREDICTED: Bos indicus interleukin 23 receptor (IL23R), transcript variant X1, mRNA
+61522. PREDICTED: Bos indicus interleukin 12 receptor subunit beta 2 (IL12RB2), mRNA
+61523. PREDICTED: Bos indicus interleukin 6 receptor (IL6R), mRNA
+61524. PREDICTED: Bos indicus interleukin 21 receptor (IL21R), mRNA
+61525. PREDICTED: Bos indicus interleukin 32 (IL32), transcript variant X5, mRNA
+61526. PREDICTED: Bos indicus interleukin 32 (IL32), transcript variant X4, mRNA
+61527. PREDICTED: Bos indicus interleukin 32 (IL32), transcript variant X3, mRNA
+61528. PREDICTED: Bos indicus interleukin 32 (IL32), transcript variant X1, mRNA
+61529. PREDICTED: Bos indicus interleukin 27 (IL27), mRNA
+61530. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X9, mRNA
+61531. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X8, mRNA
+61532. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X7, mRNA
+61533. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X6, mRNA
+61534. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X5, mRNA
+61535. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X4, mRNA
+61536. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X3, mRNA
+61537. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X2, mRNA
+61538. PREDICTED: Bos indicus interleukin 4 receptor (IL4R), transcript variant X1, mRNA
+61539. PREDICTED: Bos indicus interleukin 17F (IL17F), mRNA
+61540. PREDICTED: Bos indicus interleukin 17A (IL17A), mRNA
+61541. PREDICTED: Bos indicus interleukin 17 receptor B (IL17RB), transcript variant X4, mRNA
+61542. PREDICTED: Bos indicus interleukin 17 receptor B (IL17RB), transcript variant X3, mRNA
+61543. PREDICTED: Bos indicus interleukin 17 receptor B (IL17RB), transcript variant X2, mRNA
+61544. PREDICTED: Bos indicus interleukin 17 receptor B (IL17RB), transcript variant X1, mRNA
+61545. PREDICTED: Bos indicus interleukin 17 receptor D (IL17RD), mRNA
+61546. PREDICTED: Bos indicus interleukin 1 receptor associated kinase 2 (IRAK2), mRNA
+61547. PREDICTED: Bos indicus interleukin 17 receptor E (IL17RE), mRNA
+61548. PREDICTED: Bos indicus interleukin 17 receptor C (IL17RC), transcript variant X4, mRNA
+61549. PREDICTED: Bos indicus interleukin 17 receptor C (IL17RC), transcript variant X3, mRNA
+61550. PREDICTED: Bos indicus interleukin 17 receptor C (IL17RC), transcript variant X2, mRNA
+61551. PREDICTED: Bos indicus interleukin 17 receptor C (IL17RC), transcript variant X1, mRNA
+61552. PREDICTED: Bos indicus interleukin 5 receptor subunit alpha (IL5RA), mRNA
+61553. PREDICTED: Bos indicus interleukin 16 (IL16), transcript variant X3, mRNA
+61554. PREDICTED: Bos indicus interleukin 16 (IL16), transcript variant X2, mRNA
+61555. PREDICTED: Bos indicus interleukin 16 (IL16), transcript variant X1, mRNA
+61556. PREDICTED: Bos indicus interleukin 31 receptor A (IL31RA), mRNA
+61557. PREDICTED: Bos indicus interleukin 7 receptor (IL7R), transcript variant X2, mRNA
+61558. PREDICTED: Bos indicus interleukin 7 receptor (IL7R), transcript variant X1, mRNA
+61559. PREDICTED: Bos indicus interleukin 6 signal transducer (IL6ST), mRNA
+61560. PREDICTED: Bos indicus interleukin 22 receptor subunit alpha 1 (IL22RA1), mRNA
+61561. PREDICTED: Bos indicus interleukin 34 (IL34), mRNA
+61562. PREDICTED: Bos indicus interleukin 4 induced 1 (IL4I1), mRNA
+61563. PREDICTED: Bos indicus interleukin 15 (IL15), mRNA
+61564. PREDICTED: Bos indicus interleukin 21 (IL21), transcript variant X2, mRNA
+61565. PREDICTED: Bos indicus interleukin 21 (IL21), transcript variant X1, mRNA
+61566. PREDICTED: Bos indicus interleukin 2 (IL2), partial mRNA
+61567. PREDICTED: Bos indicus interleukin 10 (IL10), mRNA
+61568. PREDICTED: Bos indicus interleukin 19 (IL19), mRNA
+61569. PREDICTED: Bos indicus interleukin 24 (IL24), mRNA
+61570. PREDICTED: Bos indicus interleukin 20 (IL20), mRNA
+61571. PREDICTED: Bos indicus interleukin 18 (IL18), transcript variant X2, mRNA
+61572. PREDICTED: Bos indicus interleukin 18 (IL18), transcript variant X1, mRNA
+61573. PREDICTED: Bos indicus interleukin 10 receptor subunit alpha (IL10RA), mRNA
+61574. PREDICTED: Bos indicus interleukin 18 binding protein (IL18BP), mRNA
+61575. PREDICTED: Bos indicus interleukin 7 (IL7), mRNA
+61576. PREDICTED: Bos indicus interleukin 2 receptor subunit alpha (IL2RA), mRNA
+61577. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X10, mRNA
+61578. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X9, mRNA
+61579. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X8, mRNA
+61580. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X7, mRNA
+61581. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X6, mRNA
+61582. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X5, mRNA
+61583. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X4, mRNA
+61584. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X3, mRNA
+61585. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X2, mRNA
+61586. PREDICTED: Bos indicus interleukin 15 receptor subunit alpha (IL15RA), transcript variant X1, mRNA
+61587. PREDICTED: Bos indicus interleukin 17D (IL17D), mRNA
+61588. PREDICTED: Bos indicus interleukin 1 receptor antagonist (IL1RN), transcript variant X3, mRNA
+61589. PREDICTED: Bos indicus interleukin 1 receptor antagonist (IL1RN), transcript variant X2, mRNA
+61590. PREDICTED: Bos indicus interleukin 1 receptor antagonist (IL1RN), transcript variant X1, mRNA
+61591. PREDICTED: Bos indicus interleukin 1 beta (IL1B), mRNA
+61592. PREDICTED: Bos indicus interleukin 1 alpha (IL1A), mRNA
+61593. PREDICTED: Bos indicus interleukin 1 family member 10 (theta) (IL1F10), mRNA
+61594. PREDICTED: Bos indicus interleukin 36, beta (IL36B), mRNA
+61595. PREDICTED: Bos indicus interleukin 18 receptor accessory protein (IL18RAP), mRNA
+61596. PREDICTED: Bos indicus interleukin 18 receptor 1 (IL18R1), transcript variant X3, mRNA
+61597. PREDICTED: Bos indicus interleukin 18 receptor 1 (IL18R1), transcript variant X2, mRNA
+61598. PREDICTED: Bos indicus interleukin 18 receptor 1 (IL18R1), transcript variant X1, mRNA
+61599. PREDICTED: Bos indicus interleukin 1 receptor like 1 (IL1RL1), transcript variant X4, mRNA
+61600. PREDICTED: Bos indicus interleukin 1 receptor like 1 (IL1RL1), transcript variant X3, mRNA
+61601. PREDICTED: Bos indicus interleukin 1 receptor like 1 (IL1RL1), transcript variant X2, mRNA
+61602. PREDICTED: Bos indicus interleukin 1 receptor like 1 (IL1RL1), transcript variant X1, mRNA
+61603. PREDICTED: Bos indicus interleukin 1 receptor type 2 (IL1R2), transcript variant X2, mRNA
+61604. PREDICTED: Bos indicus interleukin 1 receptor type 2 (IL1R2), transcript variant X1, mRNA
+61605. PREDICTED: Bos indicus interleukin 37 (IL37), transcript variant X4, mRNA
+61606. PREDICTED: Bos indicus interleukin 37 (IL37), transcript variant X3, mRNA
+61607. PREDICTED: Bos indicus interleukin 37 (IL37), transcript variant X2, mRNA
+61608. PREDICTED: Bos indicus interleukin 37 (IL37), transcript variant X1, mRNA
+61609. PREDICTED: Bos indicus interleukin 36 receptor antagonist (IL36RN), mRNA
+61610. PREDICTED: Bos indicus interleukin 1 receptor like 2 (IL1RL2), mRNA
+61611. PREDICTED: Bos indicus interleukin 36, gamma (IL36G), mRNA
+61612. PREDICTED: Bos indicus interleukin 1 receptor type 1 (IL1R1), mRNA
+61613. PREDICTED: Bos indicus interleukin 25 (IL25), mRNA
+61614. PREDICTED: Bos indicus interleukin 12A (IL12A), mRNA
+61615. PREDICTED: Bos indicus interleukin 20 receptor subunit beta (IL20RB), mRNA
+61616. PREDICTED: Bos indicus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X2, mRNA
+61617. PREDICTED: Bos indicus interleukin 1 receptor accessory protein (IL1RAP), transcript variant X1, mRNA
+61618. PREDICTED: Bos indicus interleukin 10 receptor subunit beta (IL10RB), transcript variant X2, mRNA
+61619. PREDICTED: Bos indicus interleukin 10 receptor subunit beta (IL10RB), transcript variant X1, mRNA
